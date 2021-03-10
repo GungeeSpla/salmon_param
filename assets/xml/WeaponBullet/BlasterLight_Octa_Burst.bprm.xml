@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D2 Name="mCollisionRadiusFar" StringValue="35"/>
+      <D2 Name="mSphereSplashRoundAxisX3" StringValue="-90"/>
+      <D2 Name="mSphereSplashRoundAxisX2" StringValue="-45"/>
+      <D2 Name="mWallHitPaintRadius" StringValue="19"/>
+      <D2 Name="mSphereSplashDropPaintRadius" StringValue="28"/>
+      <D2 Name="mSphereSplashDropCollisionRadius" StringValue="4"/>
+      <D2 Name="mSphereSplashPaintShotCollisionHitRadius" StringValue="14"/>
+      <D2 Name="mMoveLength" StringValue="20"/>
+      <D0 Name="mSphereSplashDropOn" StringValue="True"/>
+      <D2 Name="mSphereSplashRoundAxisX1" StringValue="45"/>
+      <D2 Name="mSphereSplashRoundAxisY4" StringValue="120"/>
+      <D1 Name="mDamageFar" StringValue="350"/>
+      <D1 Name="mCoopDamageMiddle" StringValue="500"/>
+      <D1 Name="mDamageNear" StringValue="350"/>
+      <D2 Name="mSplashMinScaleHighest" StringValue="100"/>
+      <D0 Name="mSphereSplashNoOccurRoundYOver90RoundXPlus" StringValue="False"/>
+      <D2 Name="mKnockBackRadius" StringValue="35"/>
+      <D2 Name="mSphereSplashDropInitSpeed" StringValue="0"/>
+      <D1 Name="mDamageMiddle" StringValue="350"/>
+      <D2 Name="mSphereSplashPaintRadius" StringValue="20"/>
+      <D2 Name="mCollisionRadiusMiddle" StringValue="35"/>
+      <D1 Name="mBurstFrame" StringValue="15"/>
+      <D2 Name="mShotCollisionHitRadiusRate" StringValue="0.5"/>
+      <D2 Name="mSphereSplashRoundAxisY1" StringValue="30"/>
+      <D2 Name="mSphereSplashDropDrawRadius" StringValue="6"/>
+      <D1 Name="mCoopDamageFar" StringValue="500"/>
+      <D2 Name="mCollisionRadiusNear" StringValue="10"/>
+      <D2 Name="mSphereSplashDropPaintShotCollisionHitRadius" StringValue="18"/>
+      <D1 Name="mPreDelayFrm_HumanMain" StringValue="8"/>
+      <D2 Name="mSphereSplashRoundAxisY3" StringValue="90"/>
+      <D1 Name="mPreDelayFrm_SquidMain" StringValue="12"/>
+      <D1 Name="mCoopDamageNear" StringValue="500"/>
+      <D0 Name="mSphereSplashNoOccurRoundYOver90RoundXMinus" StringValue="False"/>
+      <D2 Name="mSplashMaxScaleHighest" StringValue="30"/>
+      <D2 Name="mShotCollisionHitDamageRate" StringValue="0.5"/>
+      <D1 Name="mPostDelayFrm_Main" StringValue="20"/>
+      <D2 Name="mSphereSplashRoundAxisY2" StringValue="60"/>
+      <D2 Name="mSplashMinScaleClamp" StringValue="1"/>
+      <D2 Name="mSplashMaxScaleClamp" StringValue="1.2"/>
+    </C1>
+  </C1>
+</Root>

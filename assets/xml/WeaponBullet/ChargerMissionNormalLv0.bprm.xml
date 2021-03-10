@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D2 Name="mMaxChargePaintRadiusRateToFull" StringValue="1"/>
+      <D2 Name="mSplashDepthMinChargeScaleRateByWidth" StringValue="3.5"/>
+      <D2 Name="mFullChargePaintRadiusRateLastSplashToOther" StringValue="1.5"/>
+      <D2 Name="mSplashBetweenFullChargePaintRadiusRate" StringValue="1.32"/>
+      <D2 Name="mFullChargeDistance" StringValue="240.37"/>
+      <D2 Name="mSniperCameraMoveStartChargeRate" StringValue="0"/>
+      <D2 Name="mMinChargePaintRadiusRateToFull" StringValue="0.5"/>
+      <D1 Name="mMinChargeDamage" StringValue="550"/>
+      <D1 Name="mCoopFullChargeDamage" StringValue="3000"/>
+      <D2 Name="mInitVelMinCharge" StringValue="24"/>
+      <D2 Name="mFullChargePaintRadiusRateGroundToOther" StringValue="1"/>
+      <D1 Name="mMaxChargeHitSplashNum" StringValue="8"/>
+      <D2 Name="mCoopFullChargeInkConsume" StringValue="0.18"/>
+      <C0 Name="mChargeKeepSquideMuzzleOffset">
+        <D2 StringValue="-3.5"/>
+        <D2 StringValue="1.6"/>
+        <D2 StringValue="19.45"/>
+      </C0>
+      <D2 Name="mSniperCameraPlayerInvisibleChargeRate" StringValue="0.85"/>
+      <D2 Name="mMoveSpeed" StringValue="0.2"/>
+      <D0 Name="mChargeKeepAnytime" StringValue="False"/>
+      <D1 Name="mMinChargeFrame" StringValue="8"/>
+      <D1 Name="mCoopMaxChargeDamage" StringValue="1500"/>
+      <D1 Name="mPreDelayFrm_KeepChargePre" StringValue="20"/>
+      <D2 Name="mInitVelFullCharge" StringValue="48"/>
+      <D2 Name="mSniperCameraMoveEndChargeRate" StringValue="0"/>
+      <D2 Name="mSplashNearFootOccurChargeRate" StringValue="0.166"/>
+      <D1 Name="mMinChargeHitSplashNum" StringValue="0"/>
+      <D2 Name="mFullChargeInkConsume" StringValue="0.18"/>
+      <D1 Name="mFreezeFrmFullCharge" StringValue="1"/>
+      <D2 Name="mInitVelMaxCharge" StringValue="48"/>
+      <D2 Name="mJumpGnd" StringValue="0.7"/>
+      <D2 Name="mMaxChargeInkConsume" StringValue="0.18"/>
+      <D1 Name="mFullChargeFrame" StringValue="64"/>
+      <D2 Name="mMinChargeInkConsume" StringValue="0.0225"/>
+      <D2 Name="mMinChargePaintRadiusRateGroundToOther" StringValue="1"/>
+      <D1 Name="mFullChargeDamage" StringValue="1600"/>
+      <D2 Name="mCoopMaxChargeInkConsume" StringValue="0.18"/>
+      <D1 Name="mMaxChargeDamage" StringValue="1300"/>
+      <D2 Name="mCoopMinChargeInkConsume" StringValue="0.0225"/>
+      <D1 Name="mChargeKeepSniperCameraMoveFrm" StringValue="20"/>
+      <D1 Name="mSplashSplitNum" StringValue="1"/>
+      <D2 Name="mMinChargeColRadiusForPlayer" StringValue="1"/>
+      <D2 Name="mMaxDistance" StringValue="240.37"/>
+      <D1 Name="mChargeKeepSniperCameraMoveStartFrm" StringValue="0"/>
+      <D2 Name="mSniperCameraPlayerAlphaChargeRate" StringValue="0.5"/>
+      <D1 Name="mFreezeFrmMinCharge" StringValue="1"/>
+      <D0 Name="mFullChargePierce_SettingOcta_" StringValue="True"/>
+      <D2 Name="mSplashDepthFullChargeScaleRateByWidth" StringValue="1"/>
+      <D2 Name="mMaxChargePaintRadiusRateGroundToOther" StringValue="1"/>
+      <D2 Name="mMaxChargeColRadiusForPlayer" StringValue="1"/>
+      <D2 Name="mSplashBetweenMinChargePaintRadiusRate" StringValue="1.75"/>
+      <D1 Name="mMaxHitSplashNumFrame" StringValue="32"/>
+      <D2 Name="mMinDistance" StringValue="90.33"/>
+      <D2 Name="mMinChargePaintRadiusRateLastSplashToOther" StringValue="1.5"/>
+      <D1 Name="mPreDelayFrm_KeepCharge" StringValue="25"/>
+      <D2 Name="mSniperCameraFovy" StringValue="38"/>
+      <D2 Name="mMaxChargePaintRadiusRateLastSplashToOther" StringValue="1.5"/>
+      <D2 Name="mSplashNearFootMaxDistanceXZ" StringValue="23"/>
+      <D2 Name="mVelGnd_DownRt" StringValue="0.2"/>
+      <D1 Name="mEmptyChargeTimes" StringValue="3"/>
+      <D2 Name="mVelGnd_Bias" StringValue="0.5"/>
+      <D1 Name="mSquidChangeReduceWaitFullFrame" StringValue="75"/>
+      <D2 Name="mSplashBetweenMaxChargePaintRadiusRate" StringValue="1.5"/>
+      <D2 Name="mFullChargeSplashPaintRadius" StringValue="18.5"/>
+      <D1 Name="mCoopMinChargeDamage" StringValue="500"/>
+      <D2 Name="mSplashDepthMaxChargeScaleRateByWidth" StringValue="1"/>
+    </C1>
+  </C1>
+</Root>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D2 Name="mCollisionRadiusFar" StringValue="33"/>
+      <D2 Name="mSphereSplashRoundAxisX3" StringValue="-90"/>
+      <D2 Name="mWallDropPaintTarget2AlphaMid" StringValue="0.1"/>
+      <D2 Name="mSphereSplashRoundAxisX2" StringValue="-45"/>
+      <D2 Name="mWallHitPaintRadius" StringValue="22"/>
+      <D2 Name="mWallDropPaintTarget2AlphaEnd" StringValue="1"/>
+      <D2 Name="mHitWallSplashDistanceRate" StringValue="1.3333"/>
+      <D2 Name="mSphereSplashDropPaintRadius" StringValue="32"/>
+      <D2 Name="mHitWallSplashLength" StringValue="18"/>
+      <D2 Name="mWallDropPaintTarget2AlphaRate" StringValue="0.9"/>
+      <D2 Name="mSphereSplashDropCollisionRadius" StringValue="4"/>
+      <D2 Name="mSphereSplashPaintShotCollisionHitRadius" StringValue="14"/>
+      <D2 Name="mMoveLength" StringValue="22"/>
+      <D0 Name="mSphereSplashDropOn" StringValue="True"/>
+      <D2 Name="mSphereSplashRoundAxisX1" StringValue="45"/>
+      <D2 Name="mSphereSplashRoundAxisY4" StringValue="120"/>
+      <D2 Name="mWallDropPaintFallRadius" StringValue="10"/>
+      <D2 Name="mHitWallSplashPaintFallRadius" StringValue="10"/>
+      <D1 Name="mDamageFar" StringValue="500"/>
+      <D1 Name="mCoopDamageMiddle" StringValue="1000"/>
+      <D1 Name="mDamageNear" StringValue="700"/>
+      <D0 Name="mSphereSplashNoOccurRoundYOver90RoundXPlus" StringValue="False"/>
+      <D2 Name="mKnockBackRadius" StringValue="33"/>
+      <D2 Name="mSphereSplashDropInitSpeed" StringValue="0"/>
+      <D1 Name="mDamageMiddle" StringValue="700"/>
+      <D2 Name="mSphereSplashPaintRadius" StringValue="20"/>
+      <D1 Name="mWallDropPaintTarget1Frame" StringValue="35"/>
+      <D2 Name="mWallDropPaintGroundRadius" StringValue="6"/>
+      <D2 Name="mCollisionRadiusMiddle" StringValue="9.4"/>
+      <D1 Name="mBurstFrame" StringValue="13"/>
+      <D2 Name="mShotCollisionHitRadiusRate" StringValue="0.5"/>
+      <D2 Name="mHitWallSplashMinusYRate" StringValue="0.4"/>
+      <D2 Name="mSphereSplashRoundAxisY1" StringValue="30"/>
+      <D2 Name="mSphereSplashDropDrawRadius" StringValue="6"/>
+      <D2 Name="mWallDropPaintTarget0Alpha" StringValue="0.5"/>
+      <D1 Name="mCoopDamageFar" StringValue="700"/>
+      <D2 Name="mHitWallSplashPaintShockRadius" StringValue="14"/>
+      <D1 Name="mWallDropPaintTarget0FrameMin" StringValue="15"/>
+      <D1 Name="mWallDropPaintTarget0FrameMax" StringValue="30"/>
+      <D2 Name="mCollisionRadiusNear" StringValue="9.4"/>
+      <D2 Name="mSphereSplashDropPaintShotCollisionHitRadius" StringValue="20"/>
+      <D2 Name="mWallDropPaintTarget1Speed" StringValue="0.4"/>
+      <D2 Name="mWallDropPaintShockRadius" StringValue="13"/>
+      <D1 Name="mPreDelayFrm_HumanMain" StringValue="10"/>
+      <D2 Name="mSphereSplashRoundAxisY3" StringValue="90"/>
+      <D1 Name="mPreDelayFrm_SquidMain" StringValue="15"/>
+      <D1 Name="mCoopDamageNear" StringValue="1000"/>
+      <D0 Name="mSphereSplashNoOccurRoundYOver90RoundXMinus" StringValue="False"/>
+      <D1 Name="mWallDropPaintTarget2FrameMin" StringValue="20"/>
+      <D1 Name="mWallDropPaintTarget2FrameMax" StringValue="35"/>
+      <D2 Name="mWallDropPaintTarget0Speed" StringValue="0.7"/>
+      <D2 Name="mWallDropPaintTarget1Alpha" StringValue="0.5"/>
+      <D2 Name="mShotCollisionHitDamageRate" StringValue="0.5"/>
+      <D1 Name="mPostDelayFrm_Main" StringValue="23"/>
+      <D2 Name="mSphereSplashRoundAxisY2" StringValue="60"/>
+    </C1>
+  </C1>
+</Root>

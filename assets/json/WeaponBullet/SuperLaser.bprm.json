@@ -1,0 +1,16 @@
+{
+  "mKnockBackCoreImpact": 0.3,
+  "mShotMaxSizeFrame": 225,
+  "mShotRadius": 90,
+  "mKnockBackNoBarrierOff": true,
+  "mDamage": 100,
+  "mKnockBackKb": 0.5,
+  "mModelScale": 1.05,
+  "mShotWaitFrame": 90,
+  "mKnockBackRadius": 500,
+  "mNoticeCollisionRadius": 1,
+  "mShotSpreadFrame": 30,
+  "mArmorTypeObjectDamageRate": 1,
+  "mShotDistance": 2700,
+  "mKnockBackDegree": 45
+}

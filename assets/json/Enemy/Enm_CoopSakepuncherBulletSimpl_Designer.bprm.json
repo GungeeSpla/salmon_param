@@ -1,0 +1,14 @@
+{
+  "mDamageEffectableParams": {
+    "mFactor": 0.3,
+    "mStartInterval": 5
+  },
+  "Unknown": {
+    "None": -1,
+    "Appear": -1,
+    "Release": -1,
+    "Wait00": 15,
+    "bd5913c4": 15,
+    "mDefaultValue": 4
+  }
+}

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="DesignerParams">
+      <C1 Name="mDamageEffectableParams">
+        <D2 Name="mFactor" StringValue="0.3"/>
+        <D1 Name="mStartInterval" StringValue="5"/>
+      </C1>
+      <C1 Name="731d4f63">
+        <D2 Name="30535ce4" StringValue="-1"/>
+        <D2 Name="Appear" StringValue="-1"/>
+        <D2 Name="Release" StringValue="-1"/>
+        <D2 Name="Wait00" StringValue="15"/>
+        <D2 Name="bd5913c4" StringValue="15"/>
+        <D2 Name="mDefaultValue" StringValue="4"/>
+      </C1>
+    </C1>
+  </C1>
+</Root>

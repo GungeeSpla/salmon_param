@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D1 Name="mInvokeMotion_Frm" StringValue="30"/>
+      <D2 Name="mObjectEffect_Up_DamageRt_High" StringValue="3"/>
+      <D2 Name="mObjectEffect_Up_DamageRt_Mid" StringValue="3"/>
+      <D2 Name="mMoveDistH" StringValue="600"/>
+      <D1 Name="mMaxDamageInPlayer" StringValue="800"/>
+      <D1 Name="mPaintGauge_SpecialFrm" StringValue="3600"/>
+      <D1 Name="mInvokeMotion_NoSquidFrm" StringValue="40"/>
+      <D1 Name="mMoveFrmL" StringValue="10"/>
+      <D1 Name="mOverDamageInPlayer" StringValue="1000"/>
+      <D1 Name="mEnergyAbsorbFrmM" StringValue="60"/>
+      <D2 Name="mObjectEffect_Up_DamageRt_Low" StringValue="1"/>
+      <D1 Name="mPaintGauge_SpecialFrmH" StringValue="3600"/>
+      <D2 Name="mInvokeMotion_VelGnd" StringValue="0"/>
+      <D1 Name="mHP" StringValue="2000"/>
+      <D1 Name="mFinishNoticeFrm" StringValue="180"/>
+      <D1 Name="mPaintGauge_PointFull" StringValue="180"/>
+      <D2 Name="mInvokeMotion_JumpGnd" StringValue="0"/>
+      <D1 Name="mMoveFrmH" StringValue="30"/>
+      <D1 Name="mEnergyAbsorbFrmH" StringValue="60"/>
+      <D1 Name="mPaintGauge_SpecialFrmM" StringValue="3600"/>
+      <D1 Name="mEnergyAbsorbFrm" StringValue="60"/>
+      <D1 Name="mBreakAfterglowFrm" StringValue="12"/>
+    </C1>
+  </C1>
+</Root>

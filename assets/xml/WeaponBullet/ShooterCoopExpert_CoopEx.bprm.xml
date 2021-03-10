@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D1 Name="7db844a" StringValue="6"/>
+      <D1 Name="889b71ea" StringValue="8"/>
+      <D1 Name="b5fb585a" StringValue="6"/>
+      <D1 Name="cf3b0b3a" StringValue="8"/>
+      <D1 Name="f25b228a" StringValue="8"/>
+    </C1>
+  </C1>
+</Root>

@@ -1,0 +1,184 @@
+{
+  "mActionBuffer": {
+    "Unknown": [
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": 60,
+              "mAnimName": "AppearSt",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 60,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "Launch",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 60,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": 80,
+              "mAnimName": "Appear",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 80,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "OnGeyser",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 80,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": "OnGeyser"
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": 180,
+              "mAnimName": "Walk00",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 180,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "Walk01",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 180,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": "Walk01"
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": 180,
+              "mAnimName": "Walk00",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 180,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "Walk00",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 180,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": "Walk00"
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": 120,
+              "mAnimName": "Dive",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 120,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "IntoGeyser",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 120,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": [
+              {
+                "mEdFrame": 600,
+                "mAnimName": "Sortie",
+                "mAnimStFrame": 0,
+                "mStFrame": 40,
+                "mAnimEdFrame": 560,
+                "mAnimSetIdx": 0
+              },
+              {
+                "mEdFrame": 40,
+                "mAnimName": "AppearEnd",
+                "mAnimStFrame": 0,
+                "mStFrame": 0,
+                "mAnimEdFrame": 40,
+                "mAnimSetIdx": 0
+              }
+            ]
+          }
+        },
+        "mName": "StMove",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 600,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": 20,
+              "mAnimName": "Landing",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 20,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "Landing",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 20,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      }
+    ]
+  }
+}

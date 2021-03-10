@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="DesignerParams">
+      <C1 Name="mDynamicsSetParams">
+        <C1 Name="mDynamicsParamsBuffer">
+          <C1 Name="mDynamicsParamsBuffer[1]">
+            <D2 Name="mConnectionForce" StringValue="0.05"/>
+            <C1 Name="mBoneNames">
+              <A0 Name="mBoneNames[0]" StringValue="legUL00"/>
+              <A0 Name="mBoneNames[2]" StringValue="legUL02"/>
+              <A0 Name="mBoneNames[3]" StringValue="legUL03"/>
+              <A0 Name="mBoneNames[4]" StringValue="legUL04"/>
+              <A0 Name="mBoneNames[1]" StringValue="legUL01"/>
+            </C1>
+            <A0 Name="mLimitRotateAxis" StringValue="cNone"/>
+            <D2 Name="mGravity" StringValue="0.1"/>
+            <D2 Name="mLimitAngle" StringValue="45"/>
+            <D2 Name="mAirRes" StringValue="0.9"/>
+          </C1>
+          <C1 Name="mDynamicsParamsBuffer[3]">
+            <D2 Name="mConnectionForce" StringValue="0.05"/>
+            <C1 Name="mBoneNames">
+              <A0 Name="mBoneNames[0]" StringValue="legL00"/>
+              <A0 Name="mBoneNames[2]" StringValue="legL02"/>
+              <A0 Name="mBoneNames[3]" StringValue="legL03"/>
+              <A0 Name="mBoneNames[4]" StringValue="legL04"/>
+              <A0 Name="mBoneNames[1]" StringValue="legL01"/>
+            </C1>
+            <A0 Name="mLimitRotateAxis" StringValue="cNone"/>
+            <D2 Name="mGravity" StringValue="0.1"/>
+            <D2 Name="mLimitAngle" StringValue="45"/>
+            <D2 Name="mAirRes" StringValue="0.9"/>
+          </C1>
+          <C1 Name="mDynamicsParamsBuffer[2]">
+            <D2 Name="mConnectionForce" StringValue="0.05"/>
+            <C1 Name="mBoneNames">
+              <A0 Name="mBoneNames[0]" StringValue="legUR00"/>
+              <A0 Name="mBoneNames[2]" StringValue="legUR02"/>
+              <A0 Name="mBoneNames[3]" StringValue="legUR03"/>
+              <A0 Name="mBoneNames[4]" StringValue="legUR04"/>
+              <A0 Name="mBoneNames[1]" StringValue="legUR01"/>
+            </C1>
+            <A0 Name="mLimitRotateAxis" StringValue="cNone"/>
+            <D2 Name="mGravity" StringValue="0.1"/>
+            <D2 Name="mLimitAngle" StringValue="45"/>
+            <D2 Name="mAirRes" StringValue="0.9"/>
+          </C1>
+          <C1 Name="mDynamicsParamsBuffer[7]">
+            <D2 Name="mConnectionForce" StringValue="0.05"/>
+            <C1 Name="mBoneNames">
+              <A0 Name="mBoneNames[0]" StringValue="legDR00"/>
+              <A0 Name="mBoneNames[2]" StringValue="legDR02"/>
+              <A0 Name="mBoneNames[3]" StringValue="legDR03"/>
+              <A0 Name="mBoneNames[4]" StringValue="legDR04"/>
+              <A0 Name="mBoneNames[1]" StringValue="legDR01"/>
+            </C1>
+            <A0 Name="mLimitRotateAxis" StringValue="cNone"/>
+            <D2 Name="mGravity" StringValue="0.1"/>
+            <D2 Name="mLimitAngle" StringValue="45"/>
+            <D2 Name="mAirRes" StringValue="0.9"/>
+          </C1>
+          <C1 Name="mDynamicsParamsBuffer[6]">
+            <D2 Name="mConnectionForce" StringValue="0.05"/>
+            <C1 Name="mBoneNames">
+              <A0 Name="mBoneNames[0]" StringValue="legDL00"/>
+              <A0 Name="mBoneNames[2]" StringValue="legDL02"/>
+              <A0 Name="mBoneNames[3]" StringValue="legDL03"/>
+              <A0 Name="mBoneNames[4]" StringValue="legDL04"/>
+              <A0 Name="mBoneNames[1]" StringValue="legDL01"/>
+            </C1>
+            <A0 Name="mLimitRotateAxis" StringValue="cNone"/>
+            <D2 Name="mGravity" StringValue="0.1"/>
+            <D2 Name="mLimitAngle" StringValue="45"/>
+            <D2 Name="mAirRes" StringValue="0.9"/>
+          </C1>
+          <C1 Name="mDynamicsParamsBuffer[4]">
+            <D2 Name="mConnectionForce" StringValue="0.05"/>
+            <C1 Name="mBoneNames">
+              <A0 Name="mBoneNames[0]" StringValue="legR00"/>
+              <A0 Name="mBoneNames[2]" StringValue="legR02"/>
+              <A0 Name="mBoneNames[3]" StringValue="legR03"/>
+              <A0 Name="mBoneNames[4]" StringValue="legR04"/>
+              <A0 Name="mBoneNames[1]" StringValue="legR01"/>
+            </C1>
+            <A0 Name="mLimitRotateAxis" StringValue="cNone"/>
+            <D2 Name="mGravity" StringValue="0.1"/>
+            <D2 Name="mLimitAngle" StringValue="45"/>
+            <D2 Name="mAirRes" StringValue="0.9"/>
+          </C1>
+          <C1 Name="mDynamicsParamsBuffer[0]">
+            <D2 Name="mConnectionForce" StringValue="0.05"/>
+            <C1 Name="mBoneNames">
+              <A0 Name="mBoneNames[0]" StringValue="legU00"/>
+              <A0 Name="mBoneNames[2]" StringValue="legU02"/>
+              <A0 Name="mBoneNames[3]" StringValue="legU03"/>
+              <A0 Name="mBoneNames[4]" StringValue="legU04"/>
+              <A0 Name="mBoneNames[1]" StringValue="legU01"/>
+            </C1>
+            <A0 Name="mLimitRotateAxis" StringValue="cNone"/>
+            <D2 Name="mGravity" StringValue="0.1"/>
+            <D2 Name="mLimitAngle" StringValue="45"/>
+            <D2 Name="mAirRes" StringValue="0.9"/>
+          </C1>
+          <C1 Name="mDynamicsParamsBuffer[5]">
+            <D2 Name="mConnectionForce" StringValue="0.05"/>
+            <C1 Name="mBoneNames">
+              <A0 Name="mBoneNames[0]" StringValue="legD00"/>
+              <A0 Name="mBoneNames[2]" StringValue="legD02"/>
+              <A0 Name="mBoneNames[3]" StringValue="legD03"/>
+              <A0 Name="mBoneNames[4]" StringValue="legD04"/>
+              <A0 Name="mBoneNames[1]" StringValue="legD01"/>
+            </C1>
+            <A0 Name="mLimitRotateAxis" StringValue="cNone"/>
+            <D2 Name="mGravity" StringValue="0.1"/>
+            <D2 Name="mLimitAngle" StringValue="45"/>
+            <D2 Name="mAirRes" StringValue="0.9"/>
+          </C1>
+        </C1>
+      </C1>
+      <C1 Name="mDamageEffectableParams">
+        <D2 Name="mFactor" StringValue="0.3"/>
+      </C1>
+      <C1 Name="9bbb71ce">
+        <D2 Name="Fly" StringValue="-1"/>
+        <D2 Name="Close" StringValue="-1"/>
+        <D2 Name="Open" StringValue="-1"/>
+        <D2 Name="b3cd12ed" StringValue="-1"/>
+        <D2 Name="mDefaultValue" StringValue="4"/>
+      </C1>
+    </C1>
+  </C1>
+</Root>

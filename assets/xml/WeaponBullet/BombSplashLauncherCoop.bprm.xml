@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D2 Name="mSpeedL" StringValue="9.5"/>
+      <D1 Name="mPaintGauge_SpecialFrm" StringValue="480"/>
+      <D1 Name="mShotSpanFrm" StringValue="30"/>
+      <D1 Name="mChargeFrmH" StringValue="20"/>
+      <D1 Name="mUnrelaxFrmNoBomb" StringValue="60"/>
+      <D1 Name="mDelayFrm_Squid" StringValue="10"/>
+      <D1 Name="mPaintGauge_SpecialFrmH" StringValue="480"/>
+      <D1 Name="mPaintGauge_PointFull" StringValue="180"/>
+      <D2 Name="mSpeedB" StringValue="0.5"/>
+      <D1 Name="mChargeFrmL" StringValue="0"/>
+      <D1 Name="mPaintGauge_SpecialFrmM" StringValue="480"/>
+      <D2 Name="mSpeedH" StringValue="18"/>
+    </C1>
+  </C1>
+</Root>

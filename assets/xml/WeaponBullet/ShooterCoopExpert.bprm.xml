@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D2 Name="mSplashColRadius" StringValue="1.5"/>
+      <D2 Name="mCreateSplashLength" StringValue="70"/>
+      <D2 Name="mSplashPaintRadius" StringValue="12.5"/>
+      <D2 Name="mCoopInkConsume" StringValue="0.019"/>
+      <D1 Name="mDegJumpBiasStartFrame" StringValue="0"/>
+      <D1 Name="mDamageMax" StringValue="420"/>
+      <D1 Name="mDamageMin" StringValue="210"/>
+      <D1 Name="mTripleShotSpan" StringValue="0"/>
+      <D2 Name="mStraightStateEndSpeed" StringValue="50"/>
+      <D1 Name="mDamageReduceStartFrame" StringValue="-1"/>
+      <D2 Name="mInitVel" StringValue="22"/>
+      <D1 Name="mRepeatFrame" StringValue="8"/>
+      <D2 Name="mPaintFarRadius" StringValue="18"/>
+      <D2 Name="mKnockBack" StringValue="0"/>
+      <D1 Name="mInkRecoverStop" StringValue="20"/>
+      <D2 Name="mDegBiasDecrease" StringValue="1"/>
+      <D1 Name="mGuideCheckCollisionFrame" StringValue="9"/>
+      <D2 Name="mMoveSpeed" StringValue="0.5"/>
+      <D2 Name="mDegJumpBias" StringValue="0.4"/>
+      <D2 Name="mDegJumpRandom" StringValue="12"/>
+      <D2 Name="mNearestSplahSplitLength" StringValue="0"/>
+      <D2 Name="mPaintFarDistance" StringValue="200"/>
+      <D1 Name="mDamageReduceEndFrame" StringValue="27"/>
+      <D2 Name="mSplashDrawRadius" StringValue="3"/>
+      <D1 Name="mDegJumpBiasFrame" StringValue="60"/>
+      <D2 Name="mColRadius" StringValue="2"/>
+      <D2 Name="mPaintNearDistance" StringValue="11"/>
+      <D2 Name="mInkConsume" StringValue="0.019"/>
+      <D1 Name="mSplashSplitNum" StringValue="8"/>
+      <D2 Name="mDegBias" StringValue="0.25"/>
+      <D2 Name="mPaintNearRadius" StringValue="19.2"/>
+      <D2 Name="mDegBiasMin" StringValue="0.06775"/>
+      <D2 Name="mDegBiasKf" StringValue="0.05832"/>
+      <D2 Name="mDegRandom" StringValue="3"/>
+      <D1 Name="mStraightFrame" StringValue="6"/>
+      <D2 Name="mDrawRadius" StringValue="2.5"/>
+      <D2 Name="mCreateSplashNum" StringValue="3"/>
+      <D1 Name="mCoopDamageMax" StringValue="420"/>
+      <D1 Name="mCoopDamageMin" StringValue="210"/>
+    </C1>
+  </C1>
+</Root>

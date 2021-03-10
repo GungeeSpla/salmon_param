@@ -1,0 +1,34 @@
+{
+  "mSinkableParams": {
+    "mSpringK": 0,
+    "mSpringEnable": true,
+    "mSpringDamp": 0.95,
+    "mSinkAcc": 0.05,
+    "mOfstMax": -4,
+    "mSinkSpeed": 1
+  },
+  "mDamageEffectableParams": {
+    "mFactor": 0,
+    "mStartInterval": 5
+  },
+  "c2343a10": {
+    "None": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "BreakR": -1,
+    "AttackSt": -1,
+    "Die": -1,
+    "a41c4f8a": -1,
+    "AttackEnd": -1,
+    "ab67ffc3": -1,
+    "Wait00": 10,
+    "BreakL": -1,
+    "ecd82c2d": -1,
+    "mDefaultValue": 12
+  }
+}

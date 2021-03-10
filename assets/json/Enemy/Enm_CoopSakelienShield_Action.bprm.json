@@ -1,0 +1,381 @@
+{
+  "mActionBuffer": {
+    "Unknown": [
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": 60,
+              "mAnimName": "KoSt",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 60,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "DownedSt",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 60,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": -1,
+              "mAnimName": "KoWait",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 1,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "Downed",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 1,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": -1,
+              "mAnimName": "Wait00",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 1,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "Wait00",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 1,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": 0
+        },
+        "mName": "Appear",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 1,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": 40,
+              "mAnimName": "WalkSt",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 40,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "WalkSt",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 40,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": -1,
+              "mAnimName": "Walk",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 1,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "Escape",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 1,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": 40,
+              "mAnimName": "WalkEnd",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 40,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "WalkHitP",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 40,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": 20,
+              "mAnimName": "KoOver",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 20,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "DownedOver",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 20,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": -1,
+              "mAnimName": "Walk",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 1,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "Walk",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 1,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": 40,
+              "mAnimName": "KoEnd",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 40,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "DownedEnd",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 40,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": 30,
+              "mAnimName": "DamageEnd",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 30,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "GuardEnd",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 30,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": -1,
+              "mAnimName": "Walk",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 1,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "Walk00",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 1,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": 20,
+              "mAnimName": "DamageOver",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 20,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "GuardOver",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 20,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": -1,
+              "mAnimName": "Walk",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 1,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "Walk01",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 1,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": 40,
+              "mAnimName": "DamageSt",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 40,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "GuardSt",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 40,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": -1,
+              "mAnimName": "DamageWait",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 1,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "Guard",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 1,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="ActorParams">
+      <D1 Name="mAttackWaitFrame00" StringValue="21"/>
+      <D2 Name="mRotSpeedAcc" StringValue="0.0025"/>
+      <D1 Name="mKillIkuraEvtRush" StringValue="-1"/>
+      <D1 Name="mAttackWaitFrame01" StringValue="0"/>
+      <D2 Name="mMoveSpeedCoefSink" StringValue="1"/>
+      <D2 Name="mAttackKnockbackRush" StringValue="2"/>
+      <D0 Name="mIsEnablePassClosePath" StringValue="True"/>
+      <D2 Name="mActionSpeedMax" StringValue="3"/>
+      <D2 Name="mScaleWeapon" StringValue="1.5"/>
+      <D2 Name="mGndColOffsetY" StringValue="0"/>
+      <C1 Name="mWaveMovableParams">
+        <D2 Name="mWaveRadiusMin" StringValue="5"/>
+        <D2 Name="mWaveRadiusMax" StringValue="10"/>
+        <D1 Name="mWaveTimeMin" StringValue="100"/>
+        <D1 Name="mWaveTimeMax" StringValue="150"/>
+      </C1>
+      <C0 Name="mSuperMissileTargetPosOffset">
+        <D2 StringValue="0"/>
+        <D2 StringValue="0"/>
+        <D2 StringValue="0"/>
+      </C0>
+      <D2 Name="mHeadRotDegMaxAxisY" StringValue="75"/>
+      <D0 Name="mCheckKeepOutE" StringValue="False"/>
+      <D1 Name="mHitWait" StringValue="50"/>
+      <D0 Name="mIsDroppable" StringValue="True"/>
+      <C0 Name="mAppearJumpAcc_Geyser">
+        <D2 StringValue="0"/>
+        <D2 StringValue="3.5"/>
+        <D2 StringValue="1"/>
+      </C0>
+      <D0 Name="mmLifeCure" StringValue="False"/>
+      <D2 Name="mHeadRotDegMaxAxisX" StringValue="35"/>
+      <C1 Name="mSearchableParams">
+        <A0 Name="40071f38" StringValue="cPathDistance"/>
+        <D0 Name="mIsCheckCol" StringValue="False"/>
+      </C1>
+      <D2 Name="mAttackArea_Radius" StringValue="50"/>
+      <A0 Name="73ace438" StringValue="cRate"/>
+      <D2 Name="mAttackRotSpeedCoef" StringValue="0.5"/>
+      <D2 Name="mOffsetY_InWater" StringValue="-30"/>
+      <C1 Name="mPathPlannableParams">
+        <D0 Name="mEnableCoopAreaKeepOut" StringValue="False"/>
+        <D2 Name="mReachDistanceXZ" StringValue="20"/>
+        <D2 Name="mReachDistanceY" StringValue="20"/>
+        <D0 Name="mEnableReachTarget" StringValue="True"/>
+      </C1>
+      <D1 Name="mLife" StringValue="4000"/>
+      <C0 Name="mAirBallPosOffset">
+        <D2 StringValue="0"/>
+        <D2 StringValue="40"/>
+        <D2 StringValue="0"/>
+      </C0>
+      <D2 Name="mRotSpeed" StringValue="0.1"/>
+      <D2 Name="mRotInterpRatio" StringValue="0.15"/>
+      <D2 Name="mDiePaintRadius" StringValue="80"/>
+      <D2 Name="mTrackPaintableOffsetZ" StringValue="-10"/>
+      <C1 Name="mEnemyPhysicsParams">
+        <C1 Name="mObjColCapsuleParams">
+          <C1 Name="mObjColCapsuleParams[0]">
+            <A0 Name="mArmorType" StringValue="cZakoEnemy"/>
+            <D2 Name="mHeight" StringValue="12"/>
+            <C0 Name="mOffset">
+              <D2 StringValue="0"/>
+              <D2 StringValue="-8"/>
+              <D2 StringValue="0"/>
+            </C0>
+            <D0 Name="mUseOwnerMtx" StringValue="False"/>
+            <C0 Name="mRotate">
+              <D2 StringValue="0"/>
+              <D2 StringValue="0"/>
+              <D2 StringValue="0"/>
+            </C0>
+            <D2 Name="mRadius" StringValue="15"/>
+            <A0 Name="mNodeName" StringValue=""/>
+            <D0 Name="mIsBombBreak" StringValue="False"/>
+          </C1>
+        </C1>
+        <D2 Name="mGndColRadius" StringValue="10"/>
+        <D0 Name="mIsKeepoutEReject" StringValue="True"/>
+        <D0 Name="mIsKeepoutE2Reject" StringValue="False"/>
+        <C0 Name="mGndColOffset">
+          <D2 StringValue="0"/>
+          <D2 StringValue="0"/>
+          <D2 StringValue="0"/>
+        </C0>
+      </C1>
+      <C0 Name="mAppearJumpAcc_Rally">
+        <D2 StringValue="0"/>
+        <D2 StringValue="2"/>
+        <D2 StringValue="1"/>
+      </C0>
+      <D1 Name="mmLifeCurePerSecond" StringValue="100"/>
+      <D2 Name="mKnockbackRollerCore" StringValue="1"/>
+      <D2 Name="mTrackPaintableRadius" StringValue="32"/>
+      <D2 Name="mAttackArea_Height" StringValue="60"/>
+      <D1 Name="mAttackDamageRush" StringValue="400"/>
+      <D2 Name="mScale" StringValue="1.5"/>
+      <D1 Name="mHitIkuraEvtRush" StringValue="-1"/>
+      <D2 Name="mWeight" StringValue="4"/>
+      <D2 Name="mDieSplashRadius" StringValue="80"/>
+      <D2 Name="mMonitorHalfSize" StringValue="10"/>
+      <A0 Name="mAnimNameWaitSpawn" StringValue="Wait00"/>
+      <D2 Name="mSearchBombSearchPosOffsetY" StringValue="0"/>
+      <D2 Name="mFootPaintCheckThreshold" StringValue="0.33"/>
+      <D2 Name="mAttackSpeedCoef" StringValue="0.6"/>
+    </C1>
+  </C1>
+</Root>

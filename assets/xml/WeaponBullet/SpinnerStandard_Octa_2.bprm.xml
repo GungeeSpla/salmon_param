@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D1 Name="mFirstPeriodMaxChargeFrame" StringValue="50"/>
+      <D2 Name="mJumpGnd_Charge" StringValue="0.8"/>
+      <D1 Name="1bd421ef" StringValue="0"/>
+      <D1 Name="1f7642a7" StringValue="1"/>
+      <D2 Name="mInitVelFirstPeriodMaxCharge" StringValue="21"/>
+      <D1 Name="2ce3d006" StringValue="4"/>
+      <D2 Name="mInitVelDegBias" StringValue="0.4"/>
+      <D2 Name="mInitVelMinCharge" StringValue="10.5"/>
+      <D1 Name="mSecondPeriodMaxChargeShootingFrame" StringValue="144"/>
+      <D1 Name="mWaitShootingFrame" StringValue="0"/>
+      <D2 Name="mInitVelSecondPeriodMinCharge" StringValue="21"/>
+      <D2 Name="mInitVelSpeedBias" StringValue="0.2"/>
+      <D2 Name="mJumpGnd_Shooting" StringValue="-0.1"/>
+      <D0 Name="mChargeKeepAnytime" StringValue="False"/>
+      <D1 Name="mMinChargeFrame" StringValue="8"/>
+      <D1 Name="mPreDelayFrm_KeepChargePre" StringValue="14"/>
+      <D1 Name="64948746" StringValue="0"/>
+      <D2 Name="mVelGnd_DownRt_Charge" StringValue="0.05"/>
+      <D1 Name="mFirstPeriodMaxChargeShootingFrame" StringValue="72"/>
+      <D1 Name="mCoopDamageMaxMaxCharge" StringValue="350"/>
+      <D2 Name="mInitVelSecondPeriodMaxCharge" StringValue="21"/>
+      <D1 Name="mSecondPeriodMaxChargeFrame" StringValue="75"/>
+      <D1 Name="mFirstShootingTermBulletNum" StringValue="0"/>
+      <D1 Name="a792e104" StringValue="0"/>
+      <D2 Name="mInitVelDegRandom" StringValue="1.6"/>
+      <D2 Name="mInitVelSpeedRateRandom" StringValue="0.12"/>
+      <D1 Name="mDamageMaxMaxCharge" StringValue="320"/>
+      <D1 Name="bed01480" StringValue="4"/>
+      <D1 Name="mPreDelayFrm_KeepCharge" StringValue="19"/>
+      <D1 Name="d1a4b0b5" StringValue="0"/>
+      <D2 Name="da690bde" StringValue="1"/>
+      <D2 Name="mMoveSpeed_Charge" StringValue="0.6"/>
+      <D1 Name="mEmptyChargeTimes" StringValue="4"/>
+      <D1 Name="mSquidChangeReduceWaitFullFrame" StringValue="0"/>
+      <D1 Name="f35285fe" StringValue="4"/>
+      <D2 Name="mVelGnd_Bias_Charge" StringValue="0.9"/>
+    </C1>
+  </C1>
+</Root>

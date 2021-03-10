@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D2 Name="mBurst_SplashPaintR" StringValue="7"/>
+      <D2 Name="mKnockBackCoreImpact" StringValue="1.5"/>
+      <D2 Name="mLand_GravGndK" StringValue="0.5"/>
+      <D2 Name="mColPlayerRadius" StringValue="6"/>
+      <D1 Name="mBurst_Damage_Near_Enemy" StringValue="1500"/>
+      <D2 Name="mBurst_SplashVelH_Enemy" StringValue="4.2"/>
+      <D2 Name="mCrossPaintRayLength_MaxCharge" StringValue="21"/>
+      <D1 Name="mBurst_Damage_Far_Enemy" StringValue="300"/>
+      <D1 Name="mContactJumpPanelMaxNum" StringValue="3"/>
+      <D2 Name="mLand_NrmGndKf" StringValue="0.1"/>
+      <D2 Name="mBaseSpeedComeUnderRate" StringValue="0.96"/>
+      <D1 Name="mDamage" StringValue="200"/>
+      <D2 Name="mContactJumpPanelNrmSaveSpeedRateVS_" StringValue="1"/>
+      <D2 Name="mBurst_SplashVelL" StringValue="2.5"/>
+      <C0 Name="mInitVelMinCharge_Special">
+        <D2 StringValue="0"/>
+        <D2 StringValue="1.2"/>
+        <D2 StringValue="2.6"/>
+      </C0>
+      <D2 Name="mPaintRadius" StringValue="10"/>
+      <D2 Name="mBurst_PaintR_Mission" StringValue="40"/>
+      <D1 Name="mContactJumpPanelMaxNumVS_SettingOcta_" StringValue="2"/>
+      <D2 Name="mContactJumpPanelAddSpeedVS_SettingOcta_" StringValue="0"/>
+      <D1 Name="mPaintSpanFrame" StringValue="2"/>
+      <D2 Name="mBurst_KnockBackCoreImpact" StringValue="3"/>
+      <D1 Name="mBurst_SplashNum" StringValue="12"/>
+      <D2 Name="mBurst_SplashPitH_Mission" StringValue="33"/>
+      <C0 Name="mInitVelMaxCharge">
+        <D2 StringValue="0"/>
+        <D2 StringValue="1.2"/>
+        <D2 StringValue="2"/>
+      </C0>
+      <D2 Name="mBurst_SplashOfstY" StringValue="5"/>
+      <D2 Name="mKnockBackKb" StringValue="0"/>
+      <C0 Name="mInitVelMaxCharge_Special">
+        <D2 StringValue="0"/>
+        <D2 StringValue="1.2"/>
+        <D2 StringValue="5"/>
+      </C0>
+      <D2 Name="mCrossPaintRadius" StringValue="10"/>
+      <D2 Name="mBurst_SplashPitH" StringValue="33"/>
+      <D2 Name="mBurst_Radius_Far_Mission" StringValue="80"/>
+      <D2 Name="mLand_GravH" StringValue="0.01"/>
+      <D2 Name="mLand_GravKf" StringValue="0.1"/>
+      <D2 Name="mBurst_Radius_Near_Mission" StringValue="40"/>
+      <D2 Name="mContactJumpPanelAddSpeed" StringValue="3.1"/>
+      <D2 Name="mModelUpRotateAxisVelDegree" StringValue="1.25"/>
+      <D2 Name="mGuideSpeedMaxCharge" StringValue="0.06"/>
+      <D1 Name="mBurst_Damage_Far" StringValue="300"/>
+      <D2 Name="mBurstTimingLowSpeed" StringValue="0"/>
+      <D1 Name="mCollisionSeSilentFrame" StringValue="4"/>
+      <D1 Name="mFly_AirFrm" StringValue="4"/>
+      <D2 Name="mContactJumpPanelNrmSaveSpeedRateVS_SettingOcta_" StringValue="1"/>
+      <D2 Name="mContactJumpPanelAddSpeedOneBoundRate" StringValue="0.5"/>
+      <D2 Name="mShape_SphereR" StringValue="2"/>
+      <D1 Name="mBurst_Damage_Near" StringValue="1800"/>
+      <D2 Name="mChargeTimeCountRate" StringValue="2"/>
+      <D2 Name="mInitVelAndBaseSpeedMid" StringValue="1.15"/>
+      <D2 Name="mFly_GravityDraw" StringValue="0.005"/>
+      <D2 Name="mPaintCheckHeight" StringValue="20"/>
+      <D2 Name="mModelUpRotateAxisCrossVelDegree" StringValue="3"/>
+      <D2 Name="mFly_RotKd" StringValue="0.98015"/>
+      <D2 Name="mBaseSpeedComeOverRate" StringValue="0.92"/>
+      <D2 Name="mInkConsume_Mission" StringValue="0.7"/>
+      <D2 Name="mContactJumpPanelSpeedLimitVS_" StringValue="5"/>
+      <D2 Name="mBurst_PaintR_Enemy" StringValue="40"/>
+      <D2 Name="mLand_GndKr" StringValue="0.05"/>
+      <D2 Name="mBaseSpeedMaxCharge_Special" StringValue="2.6"/>
+      <D2 Name="mBringCloseRateMoveVec" StringValue="0.7"/>
+      <D2 Name="mBurstTimingLowSpeedBias" StringValue="0.4"/>
+      <D2 Name="mContactJumpPanelCrossSaveSpeedRateVS_" StringValue="1"/>
+      <D2 Name="mBurst_Radius_Near" StringValue="20"/>
+      <D2 Name="mContactDashPanelCrossSaveSpeedRate" StringValue="1"/>
+      <D2 Name="mBurst_KnockBackKb" StringValue="0.8"/>
+      <D2 Name="mBurst_SplashVelH_Mission" StringValue="4.2"/>
+      <D2 Name="mBurst_SplashPitH_MaxCharge" StringValue="-90"/>
+      <D2 Name="mBurst_SplashAroundFuzzyRate" StringValue="2"/>
+      <C0 Name="mInitVelMinCharge">
+        <D2 StringValue="0"/>
+        <D2 StringValue="1.2"/>
+        <D2 StringValue="4"/>
+      </C0>
+      <D2 Name="mBurst_Radius_Far_Enemy" StringValue="80"/>
+      <D2 Name="mContactJumpPanelAddSpeedOneBoundRateVS_SettingOcta_" StringValue="1"/>
+      <D2 Name="mBaseSpeedMinCharge_Special" StringValue="1.6"/>
+      <D2 Name="mBurst_SplashPitH_Enemy" StringValue="33"/>
+      <D2 Name="mKnockBackRadius" StringValue="300"/>
+      <D2 Name="mMinSpeedAir" StringValue="0.5"/>
+      <D2 Name="mLand_VelKdY" StringValue="1"/>
+      <D2 Name="mBurst_SplashVelL_MaxCharge" StringValue="4"/>
+      <D2 Name="mContactDashPanelAddSpeed" StringValue="13"/>
+      <D2 Name="mLand_AbsorveRt" StringValue="0.1"/>
+      <D2 Name="mEffectShakeRange" StringValue="100"/>
+      <D2 Name="mFly_Gravity" StringValue="0.16"/>
+      <D2 Name="mBurst_SplashPitL_MaxCharge" StringValue="-90"/>
+      <D2 Name="mCrossPaintRayRadius" StringValue="1"/>
+      <D2 Name="mPaintRadius_Bias" StringValue="0.25"/>
+      <D2 Name="mColPlayerAddHeight" StringValue="-5"/>
+      <D2 Name="mJustAirForceGroundAddHeight" StringValue="3"/>
+      <D2 Name="mBurst_Radius_Far_MaxCharge" StringValue="80"/>
+      <D2 Name="mColPlayerOffset" StringValue="0"/>
+      <D2 Name="mBurst_EachLength_Bias" StringValue="0.65"/>
+      <D2 Name="mLand_RotI" StringValue="10"/>
+      <D2 Name="mInkConsume" StringValue="0.7"/>
+      <D0 Name="mModelDirection" StringValue="True"/>
+      <D2 Name="mContactJumpPanelVelKdVS_" StringValue="1"/>
+      <D1 Name="mContactJumpPanelMaxNumVS_" StringValue="8"/>
+      <D2 Name="mContactJumpPanelAddSpeedOneBoundRateVS_" StringValue="1"/>
+      <D2 Name="mBurst_SplashPaintR_Mission" StringValue="7"/>
+      <D2 Name="mInkConsume_Enemy" StringValue="0.7"/>
+      <D2 Name="mBurst_KnockBackRadius" StringValue="90"/>
+      <D2 Name="mBurst_SplashVelL_Enemy" StringValue="3.5"/>
+      <D2 Name="mContactJumpPanelCrossSaveSpeedRateVS_SettingOcta_" StringValue="1"/>
+      <D2 Name="mBaseSpeedComeOverRateLowSpeed" StringValue="0.9"/>
+      <D2 Name="mModelUpRotateBoundDegreeReduce" StringValue="0.005"/>
+      <D2 Name="mLand_VelKdXZ" StringValue="1"/>
+      <D2 Name="mContactDashPanelCrossSaveSpeedRateVS_SettingOcta_" StringValue="1"/>
+      <D2 Name="mCrossPaintRadius_MaxCharge" StringValue="21"/>
+      <D1 Name="mBurstTimingLowSpeedFrame" StringValue="90"/>
+      <D2 Name="mInitVelAndBaseSpeedHigh" StringValue="1.3"/>
+      <D1 Name="mLauncherChargeRateForBurstAndPaint" StringValue="25"/>
+      <D2 Name="mWallCheckOffsetY" StringValue="4.5"/>
+      <D2 Name="mModelUpRotateBoundDegree45ToAddDegree" StringValue="1"/>
+      <D2 Name="mBurst_Radius_Near_Enemy" StringValue="40"/>
+      <D2 Name="mLand_GravL" StringValue="0.01"/>
+      <D2 Name="mBaseSpeedMinCharge" StringValue="2.2"/>
+      <D2 Name="mContactJumpPanelCrossSaveSpeedRate" StringValue="1"/>
+      <D2 Name="mBurst_SplashVelL_Mission" StringValue="3.5"/>
+      <D2 Name="mBaseSpeedComeUnderRateLowSpeed" StringValue="0.9"/>
+      <D2 Name="mShape_SphereD" StringValue="5"/>
+      <D2 Name="mBurst_SplashPitL" StringValue="19"/>
+      <D2 Name="mBurst_PaintR_MaxCharge" StringValue="50"/>
+      <D2 Name="mGuideSpeedMaxCharge_Special" StringValue="0.32"/>
+      <D2 Name="mBurst_SplashPitL_Enemy" StringValue="19"/>
+      <D2 Name="mLand_RotKd" StringValue="0.96059"/>
+      <D1 Name="mBurst_WaitFrm" StringValue="120"/>
+      <D1 Name="mBurst_Damage_Near_Mission" StringValue="1500"/>
+      <D2 Name="mBurst_SplashVelH" StringValue="3"/>
+      <D2 Name="mGuideSpeedMinCharge_Special" StringValue="0.1"/>
+      <D1 Name="mBurst_WarnFrm" StringValue="90"/>
+      <D2 Name="mBurst_SplashVelH_MaxCharge" StringValue="4.8"/>
+      <D2 Name="mGuideSpeedMinCharge" StringValue="0.25"/>
+      <D2 Name="mContactDashPanelAddSpeedVS_SettingOcta_" StringValue="13"/>
+      <D2 Name="mBurst_SplashPaintR_Enemy" StringValue="7"/>
+      <D2 Name="mBringCloseRateCrossVec" StringValue="0.7"/>
+      <D2 Name="mBurst_Radius_Far" StringValue="50"/>
+      <D1 Name="mBurst_Damage_Far_Mission" StringValue="300"/>
+      <D2 Name="mContactJumpPanelAddSpeedVS_" StringValue="1"/>
+      <D2 Name="mKnockBackDegree" StringValue="60"/>
+      <D2 Name="mBurst_PaintR" StringValue="20"/>
+      <D2 Name="mBaseSpeedMaxCharge" StringValue="1"/>
+      <D2 Name="mCrossPaintRayLength" StringValue="10"/>
+      <D1 Name="mLauncherChargeFrame" StringValue="30"/>
+      <D2 Name="mBurst_SplashPitL_Mission" StringValue="19"/>
+      <D2 Name="mBurst_Radius_Near_MaxCharge" StringValue="50"/>
+      <D1 Name="mChargeMaxFrame" StringValue="60"/>
+      <D2 Name="mFly_RotI" StringValue="20"/>
+      <D2 Name="mLand_GndKf" StringValue="0.2"/>
+      <D2 Name="mFly_VelKd" StringValue="0.941337"/>
+      <D2 Name="mPaintRadius_MaxCharge" StringValue="12"/>
+    </C1>
+  </C1>
+</Root>

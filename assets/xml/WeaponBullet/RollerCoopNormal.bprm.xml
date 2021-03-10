@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D2 Name="mMostSpeedSplashCreateSplashLength" StringValue="38"/>
+      <D2 Name="mPaintNearestSplashPaintScale" StringValue="1.5"/>
+      <D2 Name="mCoreDamageMaxPlayerSpeedRate" StringValue="1"/>
+      <D2 Name="mInkConsumeCoreMinSpeed" StringValue="0.2"/>
+      <D1 Name="mCoreDamage" StringValue="1250"/>
+      <D2 Name="mPaintBrushRotYDegree" StringValue="0"/>
+      <D2 Name="mMostSpeedSplashCreateSplashLengthFirst" StringValue="7"/>
+      <D2 Name="mCoreColRadius" StringValue="4"/>
+      <D2 Name="mMoveSpeed" StringValue="1.08"/>
+      <D2 Name="mTailMaxLength" StringValue="20"/>
+      <D2 Name="mMostSpeedSplashSplashColRadius" StringValue="1.5"/>
+      <D1 Name="mMostSpeedSplashCreateSplashNum" StringValue="5"/>
+      <D1 Name="mPaintBrushSwingRepeatFrame" StringValue="6"/>
+      <D0 Name="mPaintBrushType" StringValue="False"/>
+      <D2 Name="mCoreDamageMinPlayerSpeedRate" StringValue="1"/>
+      <D2 Name="mCoreDamageMinRate" StringValue="1"/>
+      <D2 Name="mCoreColWidthHalf" StringValue="10"/>
+      <D2 Name="mPaintNearestSplashRadius" StringValue="15"/>
+      <D1 Name="mPaintNearestSplashOrderNum" StringValue="1"/>
+      <D2 Name="mPaintNearestSplashCameraRate" StringValue="-0.6"/>
+      <D2 Name="mPaintNearestSplashValidHeight" StringValue="2"/>
+      <D2 Name="mCorePaintSlowMoveWidthHalf" StringValue="13"/>
+      <D2 Name="mCoopInkConsumeCoreMax" StringValue="0.0015"/>
+      <D2 Name="mInkConsumeCoreMaxSpeed" StringValue="1.44"/>
+      <D2 Name="mMostSpeedSplashSplashDrawRadius" StringValue="2"/>
+      <D2 Name="mCoopInkConsumeCoreMin" StringValue="0.0001"/>
+      <D2 Name="mMostSpeedSplashSplashPaintScale" StringValue="2"/>
+      <D2 Name="mDashSpeed" StringValue="1.44"/>
+      <D1 Name="mTailFrame" StringValue="3"/>
+      <D2 Name="mCorePaintWidthHalf" StringValue="26"/>
+      <D2 Name="mSlowMoveSpeed" StringValue="0"/>
+      <C0 Name="mPaintNearestSplashPosOffset">
+        <D2 StringValue="0"/>
+        <D2 StringValue="-20"/>
+        <D2 StringValue="5"/>
+      </C0>
+      <D1 Name="mInkRecoverCoreStop" StringValue="20"/>
+      <D2 Name="mInkConsumeCoreMin" StringValue="0.0001"/>
+      <D2 Name="mInkConsumeCoreMax" StringValue="0.0015"/>
+      <D2 Name="mMostSpeedSplashSplashPaintRadius" StringValue="15"/>
+      <D1 Name="mPaintNearestSplashLoopNum" StringValue="1"/>
+      <D2 Name="mDashTurnBrkMoveVel" StringValue="1.08"/>
+      <D1 Name="mCoopCoreDamage" StringValue="1250"/>
+    </C1>
+  </C1>
+</Root>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D1 Name="1ddd342f" StringValue="20"/>
+      <D1 Name="20bd1d9f" StringValue="21"/>
+      <D1 Name="5a7d4eff" StringValue="18"/>
+      <D1 Name="5ada80b9" StringValue="10"/>
+      <D1 Name="struct" StringValue="10"/>
+      <D1 Name="923a0fc9" StringValue="20"/>
+      <D1 Name="af5a2679" StringValue="26"/>
+      <D1 Name="d53dbb5f" StringValue="10"/>
+      <D1 Name="d59a7519" StringValue="18"/>
+      <D1 Name="e8fa5ca9" StringValue="10"/>
+    </C1>
+  </C1>
+</Root>

@@ -1,0 +1,55 @@
+{
+  "mDropHitIkuraThreshold": 70,
+  "mMoveSpeedCoefSink": 0.7,
+  "mGndColOffsetY": 0,
+  "mCheckKeepOutE": false,
+  "mmLifeCure": false,
+  "None": 1,
+  "mSearchableParams": {
+    "None": "cPathDistance",
+    "mIsCheckCol": false
+  },
+  "mOffsetY_InWater": -10,
+  "mPathPlannableParams": {
+    "mReachDistanceXZ": 20,
+    "mReachDistanceY": 20
+  },
+  "mLife": 5000,
+  "mRotSpeed": 0.1,
+  "mDiePaintRadius": 80,
+  "mTrackPaintableOffsetZ": -10,
+  "mEnemyPhysicsParams": {
+    "mObjColCapsuleParams": {
+      "Unknown": {
+        "mArmorType": "cZakoEnemy",
+        "mHeight": 4,
+        "mRadius": 10,
+        "mNodeName": "",
+        "mOffset": [
+          0,
+          8,
+          0
+        ]
+      }
+    },
+    "mGndColRadius": 10,
+    "mIsKeepoutEReject": true
+  },
+  "mmLifeCurePerSecond": 100,
+  "mTrackPaintableRadius": 16,
+  "mScale": 1,
+  "mWeight": 10,
+  "mMonitorHalfSize": 10,
+  "mSearchBombSearchPosOffsetY": 0,
+  "mFootPaintCheckThreshold": 0.33,
+  "mSuperMissileTargetPosOffset": [
+    0,
+    0,
+    0
+  ],
+  "mAirBallPosOffset": [
+    0,
+    40,
+    0
+  ]
+}

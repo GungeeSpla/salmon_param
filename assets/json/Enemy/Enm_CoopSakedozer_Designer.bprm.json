@@ -1,0 +1,15 @@
+{
+  "Unknown": {
+    "None": [
+      -1,
+      -1
+    ],
+    "Down": -1,
+    "Walk": -1,
+    "mDefaultValue": 15
+  },
+  "mDamageEffectableParams": {
+    "mFactor": 0,
+    "mStartInterval": 5
+  }
+}

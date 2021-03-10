@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="ActionParams">
+      <C1 Name="mActionBuffer">
+        <C1 Name="mActionBuffer[8]">
+          <D1 Name="199b96cc" StringValue="0"/>
+          <C1 Name="mEvent">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <C1 Name="mAnim">
+            <C1 Name="mKeyBuffer">
+              <C1 Name="mKeyBuffer[0]">
+                <D1 Name="mEdFrame" StringValue="-1"/>
+                <A0 Name="mAnimName" StringValue="Walk00"/>
+                <D1 Name="mAnimStFrame" StringValue="0"/>
+                <D1 Name="mStFrame" StringValue="0"/>
+                <D1 Name="mAnimEdFrame" StringValue="1"/>
+                <D1 Name="b38b9f7b" StringValue="0"/>
+              </C1>
+            </C1>
+          </C1>
+          <A0 Name="mName" StringValue="Escape"/>
+          <D1 Name="mNextFrame" StringValue="0"/>
+          <D1 Name="mTotalFrameNum" StringValue="1"/>
+          <C1 Name="mAttack">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <A0 Name="mNextName" StringValue=""/>
+        </C1>
+        <C1 Name="mActionBuffer[9]">
+          <D1 Name="199b96cc" StringValue="0"/>
+          <C1 Name="mEvent">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <C1 Name="mAnim">
+            <C1 Name="mKeyBuffer">
+              <C1 Name="mKeyBuffer[0]">
+                <D1 Name="mEdFrame" StringValue="-1"/>
+                <A0 Name="mAnimName" StringValue="Wait00"/>
+                <D1 Name="mAnimStFrame" StringValue="0"/>
+                <D1 Name="mStFrame" StringValue="0"/>
+                <D1 Name="mAnimEdFrame" StringValue="1"/>
+                <D1 Name="b38b9f7b" StringValue="0"/>
+              </C1>
+            </C1>
+          </C1>
+          <A0 Name="mName" StringValue="LostPath"/>
+          <D1 Name="mNextFrame" StringValue="0"/>
+          <D1 Name="mTotalFrameNum" StringValue="1"/>
+          <C1 Name="mAttack">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <A0 Name="mNextName" StringValue=""/>
+        </C1>
+        <C1 Name="mActionBuffer[0]">
+          <D1 Name="199b96cc" StringValue="0"/>
+          <C1 Name="mEvent">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <C1 Name="mAnim">
+            <C1 Name="mKeyBuffer">
+              <C1 Name="mKeyBuffer[0]">
+                <D1 Name="mEdFrame" StringValue="-1"/>
+                <A0 Name="mAnimName" StringValue="Wait00"/>
+                <D1 Name="mAnimStFrame" StringValue="0"/>
+                <D1 Name="mStFrame" StringValue="0"/>
+                <D1 Name="mAnimEdFrame" StringValue="1"/>
+                <D1 Name="b38b9f7b" StringValue="0"/>
+              </C1>
+            </C1>
+          </C1>
+          <A0 Name="mName" StringValue="Wait00"/>
+          <D1 Name="mNextFrame" StringValue="0"/>
+          <D1 Name="mTotalFrameNum" StringValue="240"/>
+          <C1 Name="mAttack">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <A0 Name="mNextName" StringValue="Wait"/>
+        </C1>
+        <C1 Name="mActionBuffer[1]">
+          <D1 Name="199b96cc" StringValue="0"/>
+          <C1 Name="mEvent">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <C1 Name="mAnim">
+            <C1 Name="mKeyBuffer">
+              <C1 Name="mKeyBuffer[0]">
+                <D1 Name="mEdFrame" StringValue="-1"/>
+                <A0 Name="mAnimName" StringValue="Walk00"/>
+                <D1 Name="mAnimStFrame" StringValue="0"/>
+                <D1 Name="mStFrame" StringValue="0"/>
+                <D1 Name="mAnimEdFrame" StringValue="1"/>
+                <D1 Name="b38b9f7b" StringValue="0"/>
+              </C1>
+            </C1>
+          </C1>
+          <A0 Name="mName" StringValue="Walk00"/>
+          <D1 Name="mNextFrame" StringValue="0"/>
+          <D1 Name="mTotalFrameNum" StringValue="1"/>
+          <C1 Name="mAttack">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <A0 Name="mNextName" StringValue=""/>
+        </C1>
+        <C1 Name="mActionBuffer[12]">
+          <D1 Name="199b96cc" StringValue="0"/>
+          <C1 Name="mEvent">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <C1 Name="mAnim">
+            <C1 Name="mKeyBuffer">
+              <C1 Name="mKeyBuffer[0]">
+                <D1 Name="mEdFrame" StringValue="60"/>
+                <A0 Name="mAnimName" StringValue="AttackEnd00"/>
+                <D1 Name="mAnimStFrame" StringValue="0"/>
+                <D1 Name="mStFrame" StringValue="0"/>
+                <D1 Name="mAnimEdFrame" StringValue="120"/>
+                <D1 Name="b38b9f7b" StringValue="0"/>
+              </C1>
+            </C1>
+          </C1>
+          <A0 Name="mName" StringValue="PostShot"/>
+          <D1 Name="mNextFrame" StringValue="0"/>
+          <D1 Name="mTotalFrameNum" StringValue="60"/>
+          <C1 Name="mAttack">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <A0 Name="mNextName" StringValue=""/>
+        </C1>
+        <C1 Name="mActionBuffer[3]">
+          <D1 Name="199b96cc" StringValue="0"/>
+          <C1 Name="mEvent">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <C1 Name="mAnim">
+            <C1 Name="mKeyBuffer">
+              <C1 Name="mKeyBuffer[0]">
+                <D1 Name="mEdFrame" StringValue="-1"/>
+                <A0 Name="mAnimName" StringValue="Walk00"/>
+                <D1 Name="mAnimStFrame" StringValue="0"/>
+                <D1 Name="mStFrame" StringValue="0"/>
+                <D1 Name="mAnimEdFrame" StringValue="1"/>
+                <D1 Name="b38b9f7b" StringValue="0"/>
+              </C1>
+            </C1>
+          </C1>
+          <A0 Name="mName" StringValue="Swim"/>
+          <D1 Name="mNextFrame" StringValue="0"/>
+          <D1 Name="mTotalFrameNum" StringValue="1"/>
+          <C1 Name="mAttack">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <A0 Name="mNextName" StringValue=""/>
+        </C1>
+        <C1 Name="mActionBuffer[10]">
+          <D1 Name="199b96cc" StringValue="0"/>
+          <C1 Name="mEvent">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <C1 Name="mAnim">
+            <C1 Name="mKeyBuffer">
+              <C1 Name="mKeyBuffer[0]">
+                <D1 Name="mEdFrame" StringValue="60"/>
+                <A0 Name="mAnimName" StringValue="AttackStart00"/>
+                <D1 Name="mAnimStFrame" StringValue="0"/>
+                <D1 Name="mStFrame" StringValue="0"/>
+                <D1 Name="mAnimEdFrame" StringValue="120"/>
+                <D1 Name="b38b9f7b" StringValue="0"/>
+              </C1>
+            </C1>
+          </C1>
+          <A0 Name="mName" StringValue="PreShot"/>
+          <D1 Name="mNextFrame" StringValue="0"/>
+          <D1 Name="mTotalFrameNum" StringValue="60"/>
+          <C1 Name="mAttack">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <A0 Name="mNextName" StringValue=""/>
+        </C1>
+        <C1 Name="mActionBuffer[2]">
+          <D1 Name="199b96cc" StringValue="0"/>
+          <C1 Name="mEvent">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <C1 Name="mAnim">
+            <C1 Name="mKeyBuffer">
+              <C1 Name="mKeyBuffer[0]">
+                <D1 Name="mEdFrame" StringValue="-1"/>
+                <A0 Name="mAnimName" StringValue="Walk00"/>
+                <D1 Name="mAnimStFrame" StringValue="0"/>
+                <D1 Name="mStFrame" StringValue="0"/>
+                <D1 Name="mAnimEdFrame" StringValue="1"/>
+                <D1 Name="b38b9f7b" StringValue="0"/>
+              </C1>
+            </C1>
+          </C1>
+          <A0 Name="mName" StringValue="Walk01"/>
+          <D1 Name="mNextFrame" StringValue="0"/>
+          <D1 Name="mTotalFrameNum" StringValue="1"/>
+          <C1 Name="mAttack">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <A0 Name="mNextName" StringValue=""/>
+        </C1>
+        <C1 Name="mActionBuffer[11]">
+          <D1 Name="199b96cc" StringValue="0"/>
+          <C1 Name="mEvent">
+            <C1 Name="mKeyBuffer">
+              <C1 Name="mKeyBuffer[3]">
+                <D1 Name="mEdFrame" StringValue="-1"/>
+                <FF Name="mStrParamBuffer" StringValue="00000000"/>
+                <D1 Name="mStFrame" StringValue="180"/>
+                <FF Name="mF32ParamBuffer" StringValue="00000000"/>
+                <FF Name="mS32ParamBuffer" StringValue="00000000"/>
+                <A0 Name="mEventName" StringValue="Shot"/>
+              </C1>
+              <C1 Name="mKeyBuffer[1]">
+                <D1 Name="mEdFrame" StringValue="-1"/>
+                <FF Name="mStrParamBuffer" StringValue="00000000"/>
+                <D1 Name="mStFrame" StringValue="140"/>
+                <FF Name="mF32ParamBuffer" StringValue="00000000"/>
+                <FF Name="mS32ParamBuffer" StringValue="00000000"/>
+                <A0 Name="mEventName" StringValue="Shot"/>
+              </C1>
+              <C1 Name="mKeyBuffer[0]">
+                <D1 Name="mEdFrame" StringValue="-1"/>
+                <FF Name="mStrParamBuffer" StringValue="00000000"/>
+                <D1 Name="mStFrame" StringValue="120"/>
+                <FF Name="mF32ParamBuffer" StringValue="00000000"/>
+                <FF Name="mS32ParamBuffer" StringValue="00000000"/>
+                <A0 Name="mEventName" StringValue="Shot"/>
+              </C1>
+              <C1 Name="mKeyBuffer[2]">
+                <D1 Name="mEdFrame" StringValue="-1"/>
+                <FF Name="mStrParamBuffer" StringValue="00000000"/>
+                <D1 Name="mStFrame" StringValue="160"/>
+                <FF Name="mF32ParamBuffer" StringValue="00000000"/>
+                <FF Name="mS32ParamBuffer" StringValue="00000000"/>
+                <A0 Name="mEventName" StringValue="Shot"/>
+              </C1>
+            </C1>
+          </C1>
+          <C1 Name="mAnim">
+            <C1 Name="mKeyBuffer">
+              <C1 Name="mKeyBuffer[0]">
+                <D1 Name="mEdFrame" StringValue="-1"/>
+                <A0 Name="mAnimName" StringValue="Attack00"/>
+                <D1 Name="mAnimStFrame" StringValue="0"/>
+                <D1 Name="mStFrame" StringValue="0"/>
+                <D1 Name="mAnimEdFrame" StringValue="1"/>
+                <D1 Name="b38b9f7b" StringValue="0"/>
+              </C1>
+            </C1>
+          </C1>
+          <A0 Name="mName" StringValue="Shot"/>
+          <D1 Name="mNextFrame" StringValue="0"/>
+          <D1 Name="mTotalFrameNum" StringValue="380"/>
+          <C1 Name="mAttack">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <A0 Name="mNextName" StringValue=""/>
+        </C1>
+        <C1 Name="mActionBuffer[7]">
+          <D1 Name="199b96cc" StringValue="0"/>
+          <C1 Name="mEvent">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <C1 Name="mAnim">
+            <C1 Name="mKeyBuffer">
+              <C1 Name="mKeyBuffer[0]">
+                <D1 Name="mEdFrame" StringValue="-1"/>
+                <A0 Name="mAnimName" StringValue="Walk00"/>
+                <D1 Name="mAnimStFrame" StringValue="0"/>
+                <D1 Name="mStFrame" StringValue="0"/>
+                <D1 Name="mAnimEdFrame" StringValue="1"/>
+                <D1 Name="b38b9f7b" StringValue="0"/>
+              </C1>
+            </C1>
+          </C1>
+          <A0 Name="mName" StringValue="Landing"/>
+          <D1 Name="mNextFrame" StringValue="0"/>
+          <D1 Name="mTotalFrameNum" StringValue="20"/>
+          <C1 Name="mAttack">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <A0 Name="mNextName" StringValue=""/>
+        </C1>
+        <C1 Name="mActionBuffer[6]">
+          <D1 Name="199b96cc" StringValue="0"/>
+          <C1 Name="mEvent">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <C1 Name="mAnim">
+            <C1 Name="mKeyBuffer">
+              <C1 Name="mKeyBuffer[0]">
+                <D1 Name="mEdFrame" StringValue="-1"/>
+                <A0 Name="mAnimName" StringValue="Walk00"/>
+                <D1 Name="mAnimStFrame" StringValue="0"/>
+                <D1 Name="mStFrame" StringValue="0"/>
+                <D1 Name="mAnimEdFrame" StringValue="1"/>
+                <D1 Name="b38b9f7b" StringValue="0"/>
+              </C1>
+            </C1>
+          </C1>
+          <A0 Name="mName" StringValue="Drop"/>
+          <D1 Name="mNextFrame" StringValue="0"/>
+          <D1 Name="mTotalFrameNum" StringValue="1"/>
+          <C1 Name="mAttack">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <A0 Name="mNextName" StringValue=""/>
+        </C1>
+        <C1 Name="mActionBuffer[4]">
+          <D1 Name="199b96cc" StringValue="0"/>
+          <C1 Name="mEvent">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <C1 Name="mAnim">
+            <C1 Name="mKeyBuffer">
+              <C1 Name="mKeyBuffer[0]">
+                <D1 Name="mEdFrame" StringValue="-1"/>
+                <A0 Name="mAnimName" StringValue="Walk00"/>
+                <D1 Name="mAnimStFrame" StringValue="0"/>
+                <D1 Name="mStFrame" StringValue="0"/>
+                <D1 Name="mAnimEdFrame" StringValue="1"/>
+                <D1 Name="b38b9f7b" StringValue="0"/>
+              </C1>
+            </C1>
+          </C1>
+          <A0 Name="mName" StringValue="Wallow"/>
+          <D1 Name="mNextFrame" StringValue="0"/>
+          <D1 Name="mTotalFrameNum" StringValue="1"/>
+          <C1 Name="mAttack">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <A0 Name="mNextName" StringValue=""/>
+        </C1>
+        <C1 Name="mActionBuffer[5]">
+          <D1 Name="199b96cc" StringValue="0"/>
+          <C1 Name="mEvent">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <C1 Name="mAnim">
+            <C1 Name="mKeyBuffer">
+              <C1 Name="mKeyBuffer[0]">
+                <D1 Name="mEdFrame" StringValue="-1"/>
+                <A0 Name="mAnimName" StringValue="Walk00"/>
+                <D1 Name="mAnimStFrame" StringValue="0"/>
+                <D1 Name="mStFrame" StringValue="0"/>
+                <D1 Name="mAnimEdFrame" StringValue="1"/>
+                <D1 Name="b38b9f7b" StringValue="0"/>
+              </C1>
+            </C1>
+          </C1>
+          <A0 Name="mName" StringValue="RushWalk"/>
+          <D1 Name="mNextFrame" StringValue="0"/>
+          <D1 Name="mTotalFrameNum" StringValue="1"/>
+          <C1 Name="mAttack">
+            <FF Name="mKeyBuffer" StringValue="00000000"/>
+          </C1>
+          <A0 Name="mNextName" StringValue=""/>
+        </C1>
+      </C1>
+    </C1>
+  </C1>
+</Root>

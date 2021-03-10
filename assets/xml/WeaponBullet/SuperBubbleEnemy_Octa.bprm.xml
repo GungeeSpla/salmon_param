@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D2 Name="mSplashColRadius" StringValue="3"/>
+      <D1 Name="mSplashSpanFrame" StringValue="30"/>
+      <D2 Name="mBoundPaintRadiusWallRate" StringValue="1"/>
+      <D2 Name="mSplashPaintRadius" StringValue="8"/>
+      <D2 Name="mBurst_CheckPaintUnderLength" StringValue="100"/>
+      <D2 Name="mObjectDamageRateHigh" StringValue="1.3"/>
+      <D0 Name="mInterpolationBoundRate" StringValue="True"/>
+      <D2 Name="mBombCoreRadiusRateMid" StringValue="1.15"/>
+      <D2 Name="mFriendTeamDamageRate" StringValue="2"/>
+      <D2 Name="mCollisionPlayerRadiusMaxHigh" StringValue="35"/>
+      <D2 Name="mSplashAirResist" StringValue="0.1"/>
+      <D1 Name="mCollisionRadiusForPlayerSwellFrame" StringValue="30"/>
+      <D1 Name="mPaintGauge_SpecialFrm" StringValue="480"/>
+      <D1 Name="mRepeatFrame" StringValue="50"/>
+      <D2 Name="mGroundCrossBoundRate" StringValue="0.92"/>
+      <D2 Name="mCrossPaintRadius" StringValue="45"/>
+      <D1 Name="mLifeFrameExpandHit" StringValue="120"/>
+      <D2 Name="mBurst_Radius_Middle" StringValue="120"/>
+      <C0 Name="mInitVel">
+        <D2 StringValue="0"/>
+        <D2 StringValue="0.5"/>
+        <D2 StringValue="1.2"/>
+      </C0>
+      <D1 Name="mDamageSwellStopFrame" StringValue="60"/>
+      <D2 Name="mBoundPaintDamageRateMax" StringValue="0.4"/>
+      <D2 Name="mBoundPaintDamageRateMin" StringValue="0.1"/>
+      <D2 Name="mMoveSpeed" StringValue="0.6"/>
+      <D1 Name="mBurst_Damage_Far" StringValue="500"/>
+      <D1 Name="mLifeFrameMax" StringValue="1800"/>
+      <D1 Name="mBurst_Damage_Near" StringValue="2500"/>
+      <D1 Name="mLifeFrame" StringValue="1080"/>
+      <D2 Name="mGroundNrmBoundAddSpeed" StringValue="0.25"/>
+      <D2 Name="mObjectDamageRateMid" StringValue="1.3"/>
+      <D2 Name="mBombCoreRadiusRateHigh" StringValue="1.3"/>
+      <D1 Name="mHPAddPerFrame" StringValue="5"/>
+      <D1 Name="mSwingLiftFrame" StringValue="1"/>
+      <D2 Name="mSwellingEnemyTeamDamageRate" StringValue="0.5"/>
+      <D2 Name="mBoundPaintRadiusMin" StringValue="15"/>
+      <D2 Name="mBoundPaintRadiusMax" StringValue="30"/>
+      <D1 Name="mGravity0AirResist0Frame" StringValue="5"/>
+      <D2 Name="mSplashDrawRadius" StringValue="3"/>
+      <D2 Name="mBurst_Radius_Near" StringValue="60"/>
+      <D2 Name="mMotionCancelFrm" StringValue="30"/>
+      <D1 Name="mHPTimeOutReducePerFrame" StringValue="600"/>
+      <D2 Name="mCollisionPlayerRadiusBias" StringValue="0.5"/>
+      <D2 Name="mWallNrmBoundAddSpeed" StringValue="0"/>
+      <D2 Name="mWallNrmBoundRate" StringValue="0.65"/>
+      <D2 Name="mBurst_PaintRMid" StringValue="68"/>
+      <D1 Name="mBurst_WaitFrame" StringValue="30"/>
+      <D2 Name="mCrossPaintRayRadius" StringValue="1"/>
+      <D1 Name="mPaintGauge_PointFull" StringValue="180"/>
+      <D2 Name="mBurst_PaintRHigh" StringValue="80"/>
+      <D0 Name="mCollisionFieldPlayerRadiusBottom" StringValue="False"/>
+      <D2 Name="mGravity" StringValue="0.005"/>
+      <D1 Name="mSwingShotTiming" StringValue="12"/>
+      <D2 Name="mAirResistY" StringValue="0.01"/>
+      <D2 Name="mCollisionFieldRadius" StringValue="8"/>
+      <D2 Name="mCollisionPlayerRadiusMaxMid" StringValue="27.5"/>
+      <D1 Name="mHPDefault" StringValue="3000"/>
+      <D2 Name="mCollisionPlayerRadiusMaxDamageRate" StringValue="0.4"/>
+      <D2 Name="mWallCrossBoundRate" StringValue="0.65"/>
+      <D1 Name="mDamagePerFrame" StringValue="5"/>
+      <D2 Name="mCollisionPlayerRadiusMin" StringValue="8"/>
+      <D2 Name="mAirResistXZ" StringValue="0.004"/>
+      <D1 Name="mHPBurst" StringValue="6000"/>
+      <D1 Name="mBurst_Damage_Middle" StringValue="500"/>
+      <D2 Name="mBurst_Radius_Far" StringValue="120"/>
+      <D2 Name="mSplashGravity" StringValue="0.5"/>
+      <D2 Name="mGroundNrmBoundRate" StringValue="0.92"/>
+      <D2 Name="mBurst_PaintR" StringValue="56"/>
+      <D2 Name="mCrossPaintRayLength" StringValue="45"/>
+      <D2 Name="mCollisionPlayerRadiusMax" StringValue="20"/>
+    </C1>
+  </C1>
+</Root>

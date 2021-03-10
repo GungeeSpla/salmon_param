@@ -1,0 +1,239 @@
+{
+  "mSwingJumpPlayerBulletCollisionSize0": {
+    "D2": [
+      31.8,
+      31.8,
+      10
+    ]
+  },
+  "mSwingBigBurst_Radius_Far": 28,
+  "mWeaponAnim_Smash_StFrm_AtBangDownBig": 28,
+  "mThrowBurst_KnockBackRadius": 80,
+  "mSwingPlayerCollisionUseHoldCollision": true,
+  "mRollingAttack_ReadyFrame": 6,
+  "mThrowPlayerCollisionCutWaitFrame": 10,
+  "mBangDownBig_PaintAndBlast_Frame": 28,
+  "mWeaponAnim_Return_StFrm_AtBangDownSmall": 1,
+  "mSwingDamage": 1000,
+  "mVelLimit_NoPaint": 1.44,
+  "mSwingJumpPlayerBulletCollisionSize1": {
+    "D2": [
+      18,
+      18.3,
+      16
+    ]
+  },
+  "mSwingSmallBurst_Damage_Middle": 400,
+  "mSwingBigBurst_Damage_Middle": 400,
+  "mSwingSmallPaint_Radius": 13,
+  "mWeaponAnim_Return_PlFrm_AtGird": 30,
+  "mThrowBurst_KnockBackCoreImpact": 2,
+  "mThrow_CrossPaintRayLength": 25,
+  "mPaintGauge_SpecialFrm": 540,
+  "mRollingAttack_RollingFrame": 30,
+  "mRA2BDS_Frame": 6,
+  "mDebugViewBulletCollision": false,
+  "mSwingUpDamageOn": false,
+  "mBangDownSmall_BangDown_Frame": 5,
+  "mSwingBigBurst_Damage_Near": 400,
+  "mBangDownSmall_BulletShieldWidth": 31.8,
+  "mBangDownSmall_TurnLimitAngleDeg": 5.2,
+  "mSwingBigPaint_Radius": 13,
+  "mHoldPlayerBulletCollisionSize0": {
+    "D2": [
+      31.8,
+      31.8,
+      10
+    ]
+  },
+  "mThrowBurst_KnockBackKb": 0.8,
+  "mThrowBurst_Radius_Near": 40,
+  "mSwing_KnockBackKb": 0.8,
+  "mThrow_CrossPaintRayRadius": 1,
+  "mSwingJumpPanelNoPaintDiffHeight": 3,
+  "mThrowBurst_Radius_Middle": 80,
+  "mSwingSmallBurst_Damage_Near": 400,
+  "mThrowPlayerCollisionSub2Radius": 8,
+  "mThrowPlayerCollisionCutAddLengthPerFrame": 1,
+  "mSwingBigBurst_Damage_Far": 400,
+  "mGird_Frame": 10,
+  "mThrowPlayerCollisionCenterRadius": 13,
+  "mSwingBigBurst_KnockBackKb": 0.8,
+  "mBangDownSmall_PaintAndBlast_Frame": 11,
+  "mSwingBigBurst_Radius_Near": 20,
+  "mThrowBurst_Damage_Near": 600,
+  "mWeaponAnim_Smash_PlFrm_AtBangDownSmall": 3,
+  "mHoldCollsionValid": 1,
+  "mThrow_CrossPaintRadius": 25,
+  "mGird_VelGndSt": 0,
+  "mSwingStampPaintSize": {
+    "D2": [
+      50,
+      50
+    ]
+  },
+  "mThrowPlayerCollisionSub1OffsetYPlusMinus": 17,
+  "mSwingJumpPaint_WallRadius": 13,
+  "mSwingSmallBurst_KnockBackKb": 0.8,
+  "mSwingSmallBurst_Radius_Near": 20,
+  "mSwingBigPaint_StartFrame": 0,
+  "mHoldPlayerBulletCollisionSize1": {
+    "D2": [
+      18,
+      18.3,
+      16
+    ]
+  },
+  "mThrowPlayerCollisionSub2OffsetYPlusMinus": 27.5,
+  "mPaintGauge_SpecialFrmH": 660,
+  "mWeaponAnim_Smash_PlFrm_AtBangDownBig": 14,
+  "mThrowBurst_Damage_Far": 300,
+  "mSwingSmallBurst_KnockBackRadius": 60,
+  "mSwingJumpPlayerCollisionUseHoldCollision": true,
+  "mSwingSmallBurst_KnockBackCoreImpact": 2,
+  "mThrowBurst_Damage_Middle": 300,
+  "mSwingJumpPaint_SpanFrame": 1,
+  "mBangDownSmall_Backswing_AnimStFrame_FromGird": 10,
+  "mBangDownSmall_BulletCollisionStFrame": 9,
+  "mGird_VelGndEn": 0.4,
+  "mThrowFieldCollisionRadius": 11,
+  "mBangDownBig_BulletCollisionEnFrame": 32,
+  "mSwingBigBurst_KnockBackRadius": 80,
+  "mWeaponAnim_Return_StFrm_AtGird": 4,
+  "mBangDownBig_Backswing_AnimFrame": 29,
+  "mBangDownBig_Backswing_Frame": 23,
+  "mSwingPlayerBulletCollisionSize2Min": {
+    "D2": [
+      31.8,
+      31.8,
+      10
+    ]
+  },
+  "mThrow_KnockBackDegree": 45,
+  "mSwingPlayerBulletCollisionSize2MinAngleX": 70,
+  "mSwingPlayerBulletCollisionSize2Max": {
+    "D2": [
+      47.7,
+      31.8,
+      26
+    ]
+  },
+  "mBangDownSmall_Backswing_AnimStFrame_FromRA2BDS": 30,
+  "mSwing_KnockBackRadius": 80,
+  "mSwingJumpPaint_StartFrame": 0,
+  "mRollingAttack_SafeAltitude": 10,
+  "mSwingSmallBurst_Radius_Far": 28,
+  "mSwing_KnockBackCoreImpact": 2,
+  "mEmptySign_RemainingFrame": 120,
+  "mBangDownBig_ShaftCollisionStFrame": 23,
+  "mGravity": 0.13,
+  "mAirResistY": 0.97,
+  "mWeaponAnim_Return_PlFrm_AtBangDownSmall": 10,
+  "mRotResist": 1,
+  "mGird_TurnLimitAngleDeg": 4,
+  "mRollingAttack_NoSquidFrame": 10,
+  "mPaintGauge_SpecialFrmM": 600,
+  "mBangDownBig_MoveImpact_Magnitude": 1.6,
+  "mTurnKf_ShotJump": 0.5,
+  "mVelLimit_OpInk": 0.24,
+  "mBangDownSmall_Backswing_Frame": 8,
+  "mThrowPlayerCollisionSub1Radius": 9,
+  "mSwingPlayerBulletCollisionSize1": {
+    "D2": [
+      18,
+      18.3,
+      16
+    ]
+  },
+  "mBangDownBig_BangDown_Frame": 14,
+  "mBangDownSmall_BulletShieldThickNess": 0,
+  "mThrow_BackswingFrame": 40,
+  "mSwingBigPaint_SpanFrame": 1,
+  "mThrow_KnockBackCoreImpact": 2,
+  "mBangDownBig_MoveImpact_Frame": 20,
+  "mAirResistXZ": 0.97,
+  "mBangDownSmall_MoveImpact_Frame": 10,
+  "mRotI": 1,
+  "mSwingJumpPaint_GroundRadius": 16,
+  "mSwingPlayerBulletCollisionSize2MaxAngleX": 30,
+  "mBangDownSmall_Backswing_BlendFrame_FromGird": 10,
+  "mBangDownSmall_Backswing_AnimFrame": 31,
+  "mSwingSmallPaint_StartFrame": 0,
+  "mThrowBurst_Radius_Far": 80,
+  "mBangDownSmall_JumpGnd": 1,
+  "mSwingFieldCollisionRadius": 13.5,
+  "mGird_VelGndBias": 0.4,
+  "mBangDownSmall_MoveImpact_Magnitude": 2.2,
+  "mThrowDamage": 1200,
+  "mSwingSmallPaint_SpanFrame": 1,
+  "mThrow_KnockBackRadius": 80,
+  "mBangDownBig_BulletCollisionStFrame": 26,
+  "mFly_StraightFrame": 8,
+  "mGird_NoSquidFrame": 4,
+  "mSwingBigBurst_Radius_Middle": 20,
+  "mThrowBulletCollisionRadius": 13,
+  "mSwingSmallBurst_Radius_Middle": 20,
+  "mThrowStampPaintRadius": 50,
+  "mSwingPlayerBulletCollisionSize0": {
+    "D2": [
+      31.8,
+      31.8,
+      10
+    ]
+  },
+  "mSwingBigBurst_KnockBackCoreImpact": 2,
+  "mBangDownSmall_BulletCollisionEnFrame": 13,
+  "mThrow_KnockBackKb": 0.8,
+  "mSwingSmallBurst_Damage_Far": 400,
+  "mWeaponAnim_Smash_StFrm_AtBangDownSmall": 10,
+  "mSwingFieldCollisionOffset": [
+    0,
+    0,
+    0
+  ],
+  "mSwingJumpPlayerBulletCollisionOffset1": [
+    0,
+    -0.3,
+    -4.5
+  ],
+  "mHoldPlayerBulletCollisionOffset1": [
+    0,
+    -0.3,
+    -4.5
+  ],
+  "mSwingPlayerBulletCollisionOffset1": [
+    0,
+    -0.3,
+    -4.5
+  ],
+  "mSwingPlayerBulletCollisionOffset2SolidPosZ": [
+    0,
+    0,
+    8.5
+  ],
+  "mThrowFieldCollisionOffset": [
+    0,
+    0,
+    0
+  ],
+  "mSwingPlayerBulletCollisionOffset0": [
+    0,
+    0,
+    8.5
+  ],
+  "mHoldPlayerBulletCollisionOffset0": [
+    0,
+    0,
+    8.5
+  ],
+  "mSwingJumpPlayerBulletCollisionOffset0": [
+    0,
+    0,
+    8.5
+  ],
+  "mThrowPlayerCollisionCenterOffset": [
+    0,
+    0,
+    0
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "mBurst_Offset": 10,
+  "mBurst_KnockBackCoreImpact": 3,
+  "mCrossPaintRadius": 50,
+  "mBurst_Radius_Middle": 140,
+  "mBurst_Damage_Far": 500,
+  "mBurst_Damage_Near": 20000,
+  "mBurst_Radius_Near": 140,
+  "mBurst_KnockBackKb": 0.8,
+  "mCrossPaintRayRadius": 1,
+  "mBurst_KnockBackRadius": 120,
+  "mBurst_Damage_Middle": 500,
+  "mBurst_Radius_Far": 140,
+  "mBurst_PaintR": 120,
+  "mCrossPaintRayLength": 50
+}

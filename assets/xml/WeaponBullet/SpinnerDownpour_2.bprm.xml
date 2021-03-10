@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D1 Name="mFirstPeriodMaxChargeFrame" StringValue="1"/>
+      <D2 Name="mJumpGnd_Charge" StringValue="1"/>
+      <D2 Name="mInitVelFirstPeriodMaxCharge" StringValue="1"/>
+      <D2 Name="mInitVelDegBias" StringValue="0.4"/>
+      <D2 Name="mInitVelMinCharge" StringValue="1"/>
+      <D1 Name="mSecondPeriodMaxChargeShootingFrame" StringValue="200"/>
+      <D1 Name="mWaitShootingFrame" StringValue="0"/>
+      <D2 Name="mInitVelSecondPeriodMinCharge" StringValue="1"/>
+      <D2 Name="mFirstSecondMaxChargeShootingFrameTimes_MWPUG_Mid" StringValue="1"/>
+      <D2 Name="mInitVelSpeedBias" StringValue="0.2"/>
+      <D2 Name="mInitVelDegRandom_Repeat" StringValue="0.5"/>
+      <D2 Name="mJumpGnd_Shooting" StringValue="-0.1"/>
+      <D0 Name="mChargeKeepAnytime" StringValue="False"/>
+      <D1 Name="mMinChargeFrame" StringValue="8"/>
+      <D1 Name="mPreDelayFrm_KeepChargePre" StringValue="20"/>
+      <D2 Name="mDamageMaxMaxChargeRate_MWPUG_High" StringValue="1"/>
+      <D2 Name="mInitVelSpeedBias_Repeat" StringValue="0.2"/>
+      <D1 Name="mVariableInterpolatedFrame" StringValue="10"/>
+      <D2 Name="mVelGnd_DownRt_Charge" StringValue="0.05"/>
+      <D1 Name="mFirstPeriodMaxChargeShootingFrame" StringValue="1"/>
+      <D1 Name="mCoopDamageMaxMaxCharge" StringValue="350"/>
+      <D2 Name="mInitVelSecondPeriodMaxCharge" StringValue="1"/>
+      <D1 Name="mSecondPeriodMaxChargeFrame" StringValue="100"/>
+      <D1 Name="mDamageMaxMaxCharge_MWPUG_Max" StringValue="2000"/>
+      <D1 Name="mFirstShootingTermBulletNum" StringValue="10"/>
+      <D2 Name="mInitVelSpeedRateRandom_Repeat" StringValue="0.03"/>
+      <D2 Name="mInitVelDegRandom" StringValue="2.5"/>
+      <D2 Name="mInitVelSpeedRateRandom" StringValue="0.12"/>
+      <D1 Name="mDamageMaxMaxCharge" StringValue="0"/>
+      <D1 Name="mPreDelayFrm_KeepCharge" StringValue="25"/>
+      <D2 Name="mDamageMaxMaxChargeRate_MWPUG_Mid" StringValue="1"/>
+      <D2 Name="mFirstSecondMaxChargeShootingFrameTimes_MWPUG_High" StringValue="1"/>
+      <D0 Name="mRechargable" StringValue="True"/>
+      <D2 Name="mMoveSpeed_Charge" StringValue="0.86"/>
+      <D2 Name="mInitVelDegBias_Repeat" StringValue="0.2"/>
+      <D1 Name="mEmptyChargeTimes" StringValue="6"/>
+      <D1 Name="mSquidChangeReduceWaitFullFrame" StringValue="0"/>
+      <D1 Name="mMaxShotFollowDecreaseTimes" StringValue="2"/>
+      <D2 Name="mVelGnd_Bias_Charge" StringValue="0.9"/>
+    </C1>
+  </C1>
+</Root>

@@ -1,0 +1,87 @@
+{
+  "mAttackableHeightIn": 100,
+  "mRotSpeedAcc": 0.0025,
+  "mBallSpeed": 1.5,
+  "mMoveSpeedCoefSink": 1,
+  "mAttackableRangeInXZ": 250,
+  "mGndColOffsetY": 0,
+  "mBallDistance": 250,
+  "mHeadRotDegMaxAxisY": 75,
+  "mCheckKeepOutE": false,
+  "mIsDroppable": true,
+  "mmLifeCure": false,
+  "mHeadRotDegMaxAxisX": 35,
+  "None": [
+    1,
+    "cRate"
+  ],
+  "mSearchableParams": {
+    "None": "cEuqlidDistance",
+    "mIsCheckCol": false
+  },
+  "mOffsetY_InWater": -10,
+  "mPathPlannableParams": {
+    "mReachDistanceXZ": 20,
+    "mReachDistanceY": 20
+  },
+  "mLife": 5000,
+  "mRotSpeed": 0.1,
+  "mRotInterpRatio": 0.15,
+  "mDiePaintRadius": 80,
+  "mTrackPaintableOffsetZ": -10,
+  "mEnemyPhysicsParams": {
+    "mObjColCapsuleParams": {
+      "Unknown": {
+        "mArmorType": "cZakoEnemy",
+        "mHeight": 8,
+        "mRadius": 10,
+        "mNodeName": "",
+        "mOffset": [
+          0,
+          4,
+          0
+        ],
+        "mRotate": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "mGndColRadius": 5,
+    "mIsKeepoutEReject": true,
+    "mGndColOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  "mBallDeg": 25,
+  "mmLifeCurePerSecond": 100,
+  "mAttackableRangeOutXZ": 300,
+  "mBallLife": 1500,
+  "mAttackInterval": 240,
+  "mTrackPaintableRadius": 32,
+  "mAttackableHeightOut": 120,
+  "mScale": 2,
+  "mWeight": 1,
+  "mDieSplashRadius": 80,
+  "mMonitorHalfSize": 10,
+  "mSearchBombSearchPosOffsetY": 0,
+  "mFootPaintCheckThreshold": 0.33,
+  "mBallTargetOffset": [
+    0,
+    0,
+    120
+  ],
+  "mSuperMissileTargetPosOffset": [
+    0,
+    0,
+    0
+  ],
+  "mAirBallPosOffset": [
+    0,
+    40,
+    0
+  ]
+}

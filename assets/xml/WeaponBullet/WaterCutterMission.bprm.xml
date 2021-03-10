@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D2 Name="mKnockBackAquaBallPlayerImpact" StringValue="0.2"/>
+      <D2 Name="mUnsendElementUseRate" StringValue="0.75"/>
+      <D2 Name="mPaintGauge_VelGnd" StringValue="0.3"/>
+      <D2 Name="mPaintGauge_ShotDirXZ_RotDegH" StringValue="0.18"/>
+      <D2 Name="mPaintGauge_ShotDirXZ_DiffDegL" StringValue="0"/>
+      <D0 Name="mbSilhouetteEnable" StringValue="True"/>
+      <D1 Name="mDamageMax" StringValue="20"/>
+      <D2 Name="mPaintGauge_ShotDirXZ_RotDegH_Expansion" StringValue="0.18"/>
+      <D1 Name="mDamageMin" StringValue="20"/>
+      <D2 Name="mPaintRadius" StringValue="20"/>
+      <D1 Name="mPaintRadiusAddOrScaleType" StringValue="0"/>
+      <D1 Name="mPaintGauge_SpecialFrm" StringValue="450"/>
+      <D2 Name="mCollisionPlayerRadius_Expansion" StringValue="7"/>
+      <D2 Name="mPaintGauge_JumpGnd" StringValue="0.6"/>
+      <D1 Name="mDamageCoopPlayer" StringValue="20"/>
+      <D2 Name="mPaintOverPreventionDistance" StringValue="1000"/>
+      <D1 Name="mCollisionPlayerExpansioningFrame" StringValue="30"/>
+      <D2 Name="mPaintGauge_ShotDir_RevBias" StringValue="0.4"/>
+      <D2 Name="mPaintGauge_ShotDirXZ_RevKf" StringValue="0.05"/>
+      <D1 Name="mWaitFrame" StringValue="30"/>
+      <D2 Name="mPaintGauge_ShotDirXZ_RotDegBias" StringValue="0.4"/>
+      <D2 Name="mEffectXZScale" StringValue="5"/>
+      <D2 Name="mRespawnPointReject_StickDownRt" StringValue="10"/>
+      <D1 Name="mPaintGauge_ShotDir_RevFrm" StringValue="90"/>
+      <D1 Name="mReceiverHitEffectFrame" StringValue="8"/>
+      <D2 Name="mRespawnPointReject_Impact" StringValue="0.1"/>
+      <D1 Name="mPaintGauge_SpecialFrmH" StringValue="600"/>
+      <D1 Name="mThermalInkKeepFrm" StringValue="180"/>
+      <D1 Name="mCollisionPlayerExpansionStartFrame" StringValue="1200"/>
+      <D1 Name="mDamageCoopEnemy" StringValue="10"/>
+      <D2 Name="mDamageMinDistance" StringValue="1000"/>
+      <D1 Name="mPaintGauge_PointFull" StringValue="180"/>
+      <D2 Name="mPaintGauge_ShotPitchRt_Vel" StringValue="0.0025"/>
+      <D2 Name="mPaintRadiusAddOrScale" StringValue="-10"/>
+      <D2 Name="mCollisionFieldRadius" StringValue="4"/>
+      <D1 Name="mPaintGauge_SpecialFrmM" StringValue="525"/>
+      <D2 Name="mDamageMaxDistance" StringValue="500"/>
+      <D0 Name="mRespawnPointReject_Enable" StringValue="False"/>
+      <D2 Name="mPaintRadiusMin" StringValue="10"/>
+      <D2 Name="mPaintGauge_ShotPitchRt_RevKf" StringValue="0.05"/>
+      <D2 Name="mStartPosBackOffsetLength" StringValue="7.5"/>
+      <D2 Name="mCollisionPlayerRadius" StringValue="7"/>
+      <D2 Name="mLength" StringValue="2832"/>
+      <D2 Name="mPaintGauge_ShotDirXZ_RotDegL" StringValue="0"/>
+      <D2 Name="mPaintGauge_ShotPitchRt_Vel_Expansion" StringValue="0.0025"/>
+      <D2 Name="mRespawnPointReject_Reject" StringValue="0.96"/>
+      <D2 Name="mPaintGauge_ShotDirXZ_DiffDegH" StringValue="20"/>
+      <D2 Name="mPaintOverPreventionVelAndGroundDegree" StringValue="20"/>
+      <D1 Name="mDrainKeepFrm" StringValue="0"/>
+      <D2 Name="mPaintOverPreventionGroundAndPrevGroundDegree" StringValue="10"/>
+    </C1>
+  </C1>
+</Root>

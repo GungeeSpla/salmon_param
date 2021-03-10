@@ -1,0 +1,146 @@
+{
+  "mDynamicsSetParams": {
+    "mDynamicsParamsBuffer": {
+      "Unknown": [
+        {
+          "mConnectionForce": 0.05,
+          "mBoneNames": {
+            "None": [
+              "legUL00",
+              "legUL02",
+              "legUL03",
+              "legUL04",
+              "legUL01"
+            ]
+          },
+          "mLimitRotateAxis": "cNone",
+          "mGravity": 0.1,
+          "mLimitAngle": 45,
+          "mAirRes": 0.9
+        },
+        {
+          "mConnectionForce": 0.05,
+          "mBoneNames": {
+            "None": [
+              "legL00",
+              "legL02",
+              "legL03",
+              "legL04",
+              "legL01"
+            ]
+          },
+          "mLimitRotateAxis": "cNone",
+          "mGravity": 0.1,
+          "mLimitAngle": 45,
+          "mAirRes": 0.9
+        },
+        {
+          "mConnectionForce": 0.05,
+          "mBoneNames": {
+            "None": [
+              "legUR00",
+              "legUR02",
+              "legUR03",
+              "legUR04",
+              "legUR01"
+            ]
+          },
+          "mLimitRotateAxis": "cNone",
+          "mGravity": 0.1,
+          "mLimitAngle": 45,
+          "mAirRes": 0.9
+        },
+        {
+          "mConnectionForce": 0.05,
+          "mBoneNames": {
+            "None": [
+              "legDR00",
+              "legDR02",
+              "legDR03",
+              "legDR04",
+              "legDR01"
+            ]
+          },
+          "mLimitRotateAxis": "cNone",
+          "mGravity": 0.1,
+          "mLimitAngle": 45,
+          "mAirRes": 0.9
+        },
+        {
+          "mConnectionForce": 0.05,
+          "mBoneNames": {
+            "None": [
+              "legDL00",
+              "legDL02",
+              "legDL03",
+              "legDL04",
+              "legDL01"
+            ]
+          },
+          "mLimitRotateAxis": "cNone",
+          "mGravity": 0.1,
+          "mLimitAngle": 45,
+          "mAirRes": 0.9
+        },
+        {
+          "mConnectionForce": 0.05,
+          "mBoneNames": {
+            "None": [
+              "legR00",
+              "legR02",
+              "legR03",
+              "legR04",
+              "legR01"
+            ]
+          },
+          "mLimitRotateAxis": "cNone",
+          "mGravity": 0.1,
+          "mLimitAngle": 45,
+          "mAirRes": 0.9
+        },
+        {
+          "mConnectionForce": 0.05,
+          "mBoneNames": {
+            "None": [
+              "legU00",
+              "legU02",
+              "legU03",
+              "legU04",
+              "legU01"
+            ]
+          },
+          "mLimitRotateAxis": "cNone",
+          "mGravity": 0.1,
+          "mLimitAngle": 45,
+          "mAirRes": 0.9
+        },
+        {
+          "mConnectionForce": 0.05,
+          "mBoneNames": {
+            "None": [
+              "legD00",
+              "legD02",
+              "legD03",
+              "legD04",
+              "legD01"
+            ]
+          },
+          "mLimitRotateAxis": "cNone",
+          "mGravity": 0.1,
+          "mLimitAngle": 45,
+          "mAirRes": 0.9
+        }
+      ]
+    }
+  },
+  "mDamageEffectableParams": {
+    "mFactor": 0.3
+  },
+  "Unknown": {
+    "Fly": -1,
+    "Close": -1,
+    "Open": -1,
+    "b3cd12ed": -1,
+    "mDefaultValue": 4
+  }
+}

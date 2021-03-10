@@ -1,0 +1,20 @@
+{
+  "mBurst_Radius_Middle": 25,
+  "mBurst_Damage_Far": 0,
+  "mShape_SphereR": 2,
+  "mBurst_Damage_Near": 0,
+  "mFly_RotKd": 0.98015,
+  "mFly_InitPit": 0.4,
+  "mBringCloseRateMoveVec": 0.7,
+  "mBurst_Radius_Near": 25,
+  "mFly_InitRol": 0.12,
+  "mFly_Gravity": 0.16,
+  "mBurst_GoldenClamOnly": true,
+  "mShape_SphereD": 5,
+  "mBurst_Damage_Middle": 0,
+  "mBringCloseRateCrossVec": 0.7,
+  "mBurst_Radius_Far": 25,
+  "mBurst_PaintR": 25,
+  "mFly_RotI": 20,
+  "mFly_VelKd": 0.941337
+}

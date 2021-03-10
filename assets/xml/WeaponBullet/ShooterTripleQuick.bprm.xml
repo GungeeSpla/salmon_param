@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D2 Name="mSplashColRadius" StringValue="1.5"/>
+      <D2 Name="mCreateSplashLength" StringValue="120"/>
+      <D2 Name="mSplashPaintRadius" StringValue="15.5"/>
+      <D2 Name="mCoopInkConsume" StringValue="0.01"/>
+      <D1 Name="mDegJumpBiasStartFrame" StringValue="25"/>
+      <D2 Name="mSquidShootAnimationTimes" StringValue="1"/>
+      <D1 Name="mDamageMax" StringValue="290"/>
+      <D2 Name="mPaintMiddleDistance" StringValue="0"/>
+      <D2 Name="mDegJumpBias_MWPUG_High" StringValue="-0.1"/>
+      <D1 Name="mDamageMin" StringValue="145"/>
+      <D1 Name="mTripleShotSpan" StringValue="8"/>
+      <D2 Name="mStraightStateEndSpeed" StringValue="15.68"/>
+      <D1 Name="mDamageReduceStartFrame" StringValue="8"/>
+      <D2 Name="mInitVel" StringValue="27.5"/>
+      <D2 Name="mDegRandom_MWPUG_High" StringValue="-1"/>
+      <D1 Name="mRepeatFrame" StringValue="4"/>
+      <D2 Name="mPaintFarRadius" StringValue="19.5"/>
+      <D2 Name="mDegJumpBiasInterpolateRate_MWPUG_High" StringValue="1"/>
+      <D2 Name="mKnockBack" StringValue="0"/>
+      <D2 Name="mSplashPaintRadius_MWPUG_High" StringValue="-1"/>
+      <D1 Name="mInkRecoverStop" StringValue="25"/>
+      <D2 Name="mDegBiasDecrease" StringValue="0.005"/>
+      <D1 Name="mGuideCheckCollisionFrame" StringValue="8"/>
+      <D1 Name="mVariableShotFrame" StringValue="0"/>
+      <D2 Name="mNearestSplashMaxScaleClamp" StringValue="1.2"/>
+      <D2 Name="mDegJumpBiasInterpolateRate_MWPUG_Mid" StringValue="1"/>
+      <D2 Name="mMoveSpeed" StringValue="0.8"/>
+      <D2 Name="mDegJumpBias" StringValue="0.4"/>
+      <D2 Name="mSplashPaintRadius_MWPUG_Mid" StringValue="-1"/>
+      <D2 Name="mDegJumpRandom" StringValue="6"/>
+      <D2 Name="mNearestSplahSplitLength" StringValue="10"/>
+      <D2 Name="mDamageRate_MWPUG_High" StringValue="1.234"/>
+      <D2 Name="mPaintFarDistance" StringValue="200"/>
+      <D1 Name="mDamageReduceEndFrame" StringValue="24"/>
+      <D2 Name="mDegBias_MWPUG_Mid" StringValue="-0.1"/>
+      <D2 Name="mSplashDrawRadius" StringValue="3"/>
+      <D1 Name="mDegJumpBiasFrame" StringValue="70"/>
+      <D2 Name="mSplashMinScaleHighest" StringValue="100"/>
+      <D2 Name="mInitVelRate_MWPUG_Mid" StringValue="1"/>
+      <D2 Name="mColRadius" StringValue="2"/>
+      <D2 Name="mPaintNearDistance" StringValue="11"/>
+      <D1 Name="mForceDropNearestSplashAddNum3" StringValue="9"/>
+      <D1 Name="mForceDropNearestSplashAddNum" StringValue="3"/>
+      <D0 Name="mPaintScaleOriginal" StringValue="False"/>
+      <D2 Name="mDegRandom_MWPUG_Mid" StringValue="-1"/>
+      <D2 Name="mInkConsume" StringValue="0.0115"/>
+      <D1 Name="mSplashSplitNum" StringValue="12"/>
+      <D2 Name="mDegBias" StringValue="0.25"/>
+      <D2 Name="mPaintMiddleRadius" StringValue="0"/>
+      <D2 Name="mPaintNearRadius" StringValue="19.5"/>
+      <D1 Name="mBurstAimMoveFrm" StringValue="20"/>
+      <D2 Name="mPaintMaxScaleClampA" StringValue="2.4"/>
+      <D2 Name="mDegBias_MWPUG_High" StringValue="-0.1"/>
+      <D2 Name="mDegBiasMin" StringValue="0.01"/>
+      <D2 Name="mDegJumpRandom_MWPUG_Mid" StringValue="-1"/>
+      <D2 Name="mDegJumpRandom_MWPUG_High" StringValue="-1"/>
+      <D2 Name="mDegBiasKf" StringValue="0.01"/>
+      <D2 Name="mDegRandom" StringValue="1"/>
+      <D1 Name="mForceDropNearestSplashAddNum2" StringValue="6"/>
+      <D2 Name="mPaintMinScaleClampB" StringValue="1.2"/>
+      <D1 Name="mStraightFrame" StringValue="4"/>
+      <D2 Name="mDegJumpBias_MWPUG_Mid" StringValue="-0.1"/>
+      <D1 Name="mDamage_MWPUG_Max" StringValue="333"/>
+      <D2 Name="mPlayerColRadius" StringValue="-1"/>
+      <D2 Name="mSplashMaxScaleHighest" StringValue="30"/>
+      <D1 Name="mSquidShootShorteningFrame" StringValue="0"/>
+      <D2 Name="mInitVelRate_MWPUG_High" StringValue="1"/>
+      <D2 Name="mDrawRadius" StringValue="2.5"/>
+      <D1 Name="mPostDelayFrm_Main" StringValue="4"/>
+      <D2 Name="mCreateSplashNum" StringValue="1.5"/>
+      <D2 Name="mInkMagazineRatio" StringValue="1"/>
+      <D2 Name="mSplashMinScaleClamp" StringValue="1"/>
+      <D2 Name="mPaintMaxScaleClampB" StringValue="2.4"/>
+      <D0 Name="mAutoShot" StringValue="True"/>
+      <D1 Name="mCoopDamageMax" StringValue="400"/>
+      <D2 Name="mNearestSplashPaintRadiusTimes" StringValue="1.4"/>
+      <D2 Name="mSplashMaxScaleClamp" StringValue="1.2"/>
+      <D1 Name="mCoopDamageMin" StringValue="350"/>
+      <D2 Name="mDamageRate_MWPUG_Mid" StringValue="1.117"/>
+      <D2 Name="mPaintMinScaleClampA" StringValue="1.4"/>
+    </C1>
+  </C1>
+</Root>

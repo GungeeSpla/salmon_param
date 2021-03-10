@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D2 Name="mCollisionRadiusFar" StringValue="35"/>
+      <D2 Name="mWallHitPaintRadius" StringValue="22"/>
+      <D2 Name="mSphereSplashDropPaintRadius" StringValue="32"/>
+      <D2 Name="mSphereSplashDropCollisionRadius" StringValue="4"/>
+      <D2 Name="mMoveLength" StringValue="22"/>
+      <D0 Name="mSphereSplashDropOn" StringValue="True"/>
+      <D1 Name="mDamageFar" StringValue="300"/>
+      <D1 Name="mCoopDamageMiddle" StringValue="300"/>
+      <D1 Name="mDamageNear" StringValue="300"/>
+      <D2 Name="mKnockBackRadius" StringValue="35"/>
+      <D2 Name="mSphereSplashDropInitSpeed" StringValue="0"/>
+      <D1 Name="mDamageMiddle" StringValue="300"/>
+      <D2 Name="mCollisionRadiusMiddle" StringValue="10"/>
+      <D1 Name="mBurstFrame" StringValue="13"/>
+      <D2 Name="mShotCollisionHitRadiusRate" StringValue="1"/>
+      <D2 Name="mSphereSplashDropDrawRadius" StringValue="6"/>
+      <D1 Name="mCoopDamageFar" StringValue="300"/>
+      <D2 Name="mCollisionRadiusNear" StringValue="8"/>
+      <D2 Name="mSphereSplashDropPaintShotCollisionHitRadius" StringValue="20"/>
+      <D1 Name="mPreDelayFrm_HumanMain" StringValue="10"/>
+      <D1 Name="mPreDelayFrm_SquidMain" StringValue="15"/>
+      <D1 Name="mCoopDamageNear" StringValue="300"/>
+      <D2 Name="mShotCollisionHitDamageRate" StringValue="1"/>
+      <D1 Name="mPostDelayFrm_Main" StringValue="6"/>
+    </C1>
+  </C1>
+</Root>

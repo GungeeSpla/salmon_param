@@ -1,0 +1,416 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="CoopSystemConfig">
+      <C1 Name="mItemArray">
+        <C1 Name="GoldenIkura">
+          <D1 Name="mActorMax" StringValue="96"/>
+        </C1>
+      </C1>
+      <C1 Name="mRule">
+        <C1 Name="mTutorial">
+          <A0 Name="mMapName" StringValue="Fld_Shakeup00_Cop"/>
+          <A0 Name="mSpecialWeaponName" StringValue="SuperLanding"/>
+          <A0 Name="mMainWeaponName" StringValue="Shooter_Normal_00"/>
+        </C1>
+        <C1 Name="mCommon">
+          <C0 Name="mSpecialWeaponNameBuffer[]">
+            <A0 StringValue="LauncherSplash"/>
+            <A0 StringValue="WaterCutter"/>
+            <A0 StringValue="Jetpack"/>
+            <A0 StringValue="SuperLanding"/>
+          </C0>
+          <A0 Name="mSubWeaponName" StringValue="Bomb_Splash"/>
+        </C1>
+        <C1 Name="mNormal">
+          <C0 Name="mRareMainWeaponNameBuffer[]">
+            <A0 StringValue="Shooter_BlasterCoopBurst"/>
+            <A0 StringValue="Umbrella_CoopAutoAssault"/>
+            <A0 StringValue="Slosher_CoopVase"/>
+            <A0 StringValue="Charger_CoopSpark"/>
+          </C0>
+          <D1 Name="mRareMainWeaponPer" StringValue="20"/>
+        </C1>
+      </C1>
+      <C1 Name="mReward">
+        <C1 Name="mOnline">
+          <C1 Name="mFirstHalf">
+            <D1 Name="mMonthlyRewardStartScale" StringValue="2"/>
+            <D1 Name="mDailyRewardStartScale" StringValue="6"/>
+            <D1 Name="mMonthlyRewardOffsetScale" StringValue="6"/>
+            <D1 Name="mDailyRewardOffsetScale" StringValue="6"/>
+          </C1>
+          <C0 Name="mDailyRewardBuffer[]">
+            <C1>
+              <A0 Name="mType" StringValue="Money"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1>
+              <A0 Name="mType" StringValue="Food"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1>
+              <A0 Name="mType" StringValue="Drink"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1>
+              <A0 Name="mType" StringValue="GearSkillChip"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+          </C0>
+          <C0 Name="mRandomRewardBuffer[]">
+            <C1>
+              <A0 Name="mType" StringValue="Money"/>
+              <D1 Name="mWeight" StringValue="30"/>
+            </C1>
+            <C1>
+              <A0 Name="mType" StringValue="Food"/>
+              <D1 Name="mWeight" StringValue="30"/>
+            </C1>
+            <C1>
+              <A0 Name="mType" StringValue="Drink"/>
+              <D1 Name="mWeight" StringValue="30"/>
+            </C1>
+            <C1>
+              <A0 Name="mType" StringValue="GearSkillChip"/>
+              <D1 Name="mWeight" StringValue="30"/>
+            </C1>
+            <C1>
+              <A0 Name="mType" StringValue="GearRandom"/>
+              <D1 Name="mWeight" StringValue="10"/>
+            </C1>
+          </C0>
+          <D1 Name="mHalfScale" StringValue="12"/>
+          <C1 Name="mSecondHalf">
+            <D1 Name="mMonthlyRewardStartScale" StringValue="2"/>
+            <D1 Name="mMonthlyRewardOffsetScale" StringValue="4"/>
+            <D1 Name="mGearRewardStartScale" StringValue="4"/>
+            <D1 Name="mGearRewardOffsetScale" StringValue="4"/>
+          </C1>
+        </C1>
+        <C1 Name="mLocal">
+          <C0 Name="mRandomRewardBuffer[]">
+            <C1>
+              <A0 Name="mType" StringValue="Money"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1>
+              <A0 Name="mType" StringValue="Food"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1>
+              <A0 Name="mType" StringValue="Drink"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1>
+              <A0 Name="mType" StringValue="GearSkillChip"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+          </C0>
+          <D1 Name="mRandomRewardStartScale" StringValue="4"/>
+          <D1 Name="mRandomRewardOffsetScale" StringValue="4"/>
+        </C1>
+        <C1 Name="mRarityWeightTable">
+          <C1 Name="GearRandom">
+            <D1 Name="SuperRare" StringValue="0"/>
+            <D1 Name="VeryRare" StringValue="10"/>
+            <D1 Name="Common" StringValue="50"/>
+            <D1 Name="Rare" StringValue="40"/>
+            <D1 Name="None" StringValue="0"/>
+            <D1 Name="Unknown" StringValue="0"/>
+          </C1>
+          <C1 Name="Unknown">
+            <D1 Name="SuperRare" StringValue="0"/>
+            <D1 Name="VeryRare" StringValue="0"/>
+            <D1 Name="Common" StringValue="0"/>
+            <D1 Name="Rare" StringValue="0"/>
+            <D1 Name="None" StringValue="0"/>
+            <D1 Name="Unknown" StringValue="0"/>
+          </C1>
+          <C1 Name="Food">
+            <D1 Name="SuperRare" StringValue="0"/>
+            <D1 Name="VeryRare" StringValue="10"/>
+            <D1 Name="Common" StringValue="50"/>
+            <D1 Name="Rare" StringValue="40"/>
+            <D1 Name="None" StringValue="0"/>
+            <D1 Name="Unknown" StringValue="0"/>
+          </C1>
+          <C1 Name="Money">
+            <D1 Name="SuperRare" StringValue="0"/>
+            <D1 Name="VeryRare" StringValue="10"/>
+            <D1 Name="Common" StringValue="50"/>
+            <D1 Name="Rare" StringValue="40"/>
+            <D1 Name="None" StringValue="0"/>
+            <D1 Name="Unknown" StringValue="0"/>
+          </C1>
+          <C1 Name="GearMonthly">
+            <D1 Name="SuperRare" StringValue="0"/>
+            <D1 Name="VeryRare" StringValue="10"/>
+            <D1 Name="Common" StringValue="50"/>
+            <D1 Name="Rare" StringValue="40"/>
+            <D1 Name="None" StringValue="0"/>
+            <D1 Name="Unknown" StringValue="0"/>
+          </C1>
+          <C1 Name="GearSkillChip">
+            <D1 Name="SuperRare" StringValue="0"/>
+            <D1 Name="VeryRare" StringValue="10"/>
+            <D1 Name="Common" StringValue="50"/>
+            <D1 Name="Rare" StringValue="40"/>
+            <D1 Name="None" StringValue="0"/>
+            <D1 Name="Unknown" StringValue="0"/>
+          </C1>
+          <C1 Name="Drink">
+            <D1 Name="SuperRare" StringValue="0"/>
+            <D1 Name="VeryRare" StringValue="10"/>
+            <D1 Name="Common" StringValue="50"/>
+            <D1 Name="Rare" StringValue="40"/>
+            <D1 Name="None" StringValue="0"/>
+            <D1 Name="Unknown" StringValue="0"/>
+          </C1>
+          <C1 Name="None">
+            <D1 Name="SuperRare" StringValue="0"/>
+            <D1 Name="VeryRare" StringValue="0"/>
+            <D1 Name="Common" StringValue="0"/>
+            <D1 Name="Rare" StringValue="0"/>
+            <D1 Name="None" StringValue="0"/>
+            <D1 Name="Unknown" StringValue="0"/>
+          </C1>
+        </C1>
+      </C1>
+      <C1 Name="mEnemyArray">
+        <C1 Name="SakelienBomber">
+          <D2 Name="mLifeCoef" StringValue="1"/>
+          <D2 Name="mBaseSpeedCoef" StringValue="1"/>
+          <D2 Name="mInWaterSpeedCoef" StringValue="1"/>
+          <D2 Name="mMoveSpeedCoef" StringValue="0.8"/>
+          <D1 Name="mHitIkuraNum" StringValue="8"/>
+          <D1 Name="mActorMax" StringValue="4"/>
+          <D1 Name="mGraphIdx" StringValue="0"/>
+          <D1 Name="mKillIkuraNum" StringValue="7"/>
+        </C1>
+        <C1 Name="SakerocketBullet">
+          <D2 Name="mLifeCoef" StringValue="1"/>
+          <D2 Name="mBaseSpeedCoef" StringValue="1"/>
+          <D2 Name="mInWaterSpeedCoef" StringValue="1"/>
+          <D2 Name="mMoveSpeedCoef" StringValue="1"/>
+          <D1 Name="mHitIkuraNum" StringValue="0"/>
+          <D1 Name="mActorMax" StringValue="8"/>
+          <D1 Name="mGraphIdx" StringValue="0"/>
+          <D1 Name="mKillIkuraNum" StringValue="0"/>
+        </C1>
+        <C1 Name="SakelienCup">
+          <D2 Name="mLifeCoef" StringValue="1"/>
+          <D2 Name="mBaseSpeedCoef" StringValue="1"/>
+          <D2 Name="mInWaterSpeedCoef" StringValue="1"/>
+          <D2 Name="mMoveSpeedCoef" StringValue="0.8"/>
+          <D1 Name="mHitIkuraNum" StringValue="0"/>
+          <D1 Name="mActorMax" StringValue="0"/>
+          <D1 Name="mGraphIdx" StringValue="0"/>
+          <D1 Name="mKillIkuraNum" StringValue="10"/>
+        </C1>
+        <C1 Name="SakelienSnake">
+          <D2 Name="mLifeCoef" StringValue="1"/>
+          <D2 Name="mBaseSpeedCoef" StringValue="1"/>
+          <D2 Name="mInWaterSpeedCoef" StringValue="1"/>
+          <D2 Name="mMoveSpeedCoef" StringValue="1"/>
+          <D1 Name="mHitIkuraNum" StringValue="13"/>
+          <D1 Name="mActorMax" StringValue="4"/>
+          <D1 Name="mGraphIdx" StringValue="0"/>
+          <D1 Name="mKillIkuraNum" StringValue="3"/>
+        </C1>
+        <C1 Name="SakelienTower">
+          <D2 Name="mLifeCoef" StringValue="1"/>
+          <D2 Name="mBaseSpeedCoef" StringValue="1"/>
+          <D2 Name="mInWaterSpeedCoef" StringValue="1"/>
+          <D2 Name="mMoveSpeedCoef" StringValue="1"/>
+          <D1 Name="mHitIkuraNum" StringValue="1"/>
+          <D1 Name="mActorMax" StringValue="4"/>
+          <D1 Name="mGraphIdx" StringValue="0"/>
+          <D1 Name="mKillIkuraNum" StringValue="3"/>
+        </C1>
+        <C1 Name="SakelienLarge">
+          <D2 Name="mLifeCoef" StringValue="1"/>
+          <D2 Name="mBaseSpeedCoef" StringValue="1"/>
+          <D2 Name="mInWaterSpeedCoef" StringValue="1.5"/>
+          <D2 Name="mMoveSpeedCoef" StringValue="0.6"/>
+          <D1 Name="mHitIkuraNum" StringValue="10"/>
+          <D1 Name="mActorMax" StringValue="32"/>
+          <D1 Name="mGraphIdx" StringValue="0"/>
+          <D1 Name="mKillIkuraNum" StringValue="3"/>
+        </C1>
+        <C1 Name="SakelienBagman">
+          <D2 Name="mLifeCoef" StringValue="1"/>
+          <D2 Name="mBaseSpeedCoef" StringValue="1"/>
+          <D2 Name="mInWaterSpeedCoef" StringValue="1.5"/>
+          <D2 Name="mMoveSpeedCoef" StringValue="1.2"/>
+          <D1 Name="mHitIkuraNum" StringValue="3"/>
+          <D1 Name="mActorMax" StringValue="32"/>
+          <D1 Name="mGraphIdx" StringValue="0"/>
+          <D1 Name="mKillIkuraNum" StringValue="3"/>
+        </C1>
+        <C1 Name="Sakedozer">
+          <D2 Name="mLifeCoef" StringValue="1"/>
+          <D2 Name="mBaseSpeedCoef" StringValue="1"/>
+          <D2 Name="mInWaterSpeedCoef" StringValue="1"/>
+          <D2 Name="mMoveSpeedCoef" StringValue="1"/>
+          <D1 Name="mHitIkuraNum" StringValue="60"/>
+          <D1 Name="mActorMax" StringValue="4"/>
+          <D1 Name="mGraphIdx" StringValue="0"/>
+          <D1 Name="mKillIkuraNum" StringValue="10"/>
+        </C1>
+        <C1 Name="SakelienSmall">
+          <D2 Name="mLifeCoef" StringValue="1"/>
+          <D2 Name="mBaseSpeedCoef" StringValue="1"/>
+          <D2 Name="mInWaterSpeedCoef" StringValue="1.5"/>
+          <D2 Name="mMoveSpeedCoef" StringValue="1.2"/>
+          <D1 Name="mHitIkuraNum" StringValue="1"/>
+          <D1 Name="mActorMax" StringValue="32"/>
+          <D1 Name="mGraphIdx" StringValue="0"/>
+          <D1 Name="mKillIkuraNum" StringValue="2"/>
+        </C1>
+        <C1 Name="SakelienCannon">
+          <D2 Name="mLifeCoef" StringValue="1"/>
+          <D2 Name="mBaseSpeedCoef" StringValue="1"/>
+          <D2 Name="mInWaterSpeedCoef" StringValue="1"/>
+          <D2 Name="mMoveSpeedCoef" StringValue="0.7"/>
+          <D1 Name="mHitIkuraNum" StringValue="0"/>
+          <D1 Name="mActorMax" StringValue="0"/>
+          <D1 Name="mGraphIdx" StringValue="0"/>
+          <D1 Name="mKillIkuraNum" StringValue="0"/>
+        </C1>
+        <C1 Name="Sakepuncher">
+          <D2 Name="mLifeCoef" StringValue="1"/>
+          <D2 Name="mBaseSpeedCoef" StringValue="1"/>
+          <D2 Name="mInWaterSpeedCoef" StringValue="1"/>
+          <D2 Name="mMoveSpeedCoef" StringValue="1"/>
+          <D1 Name="mHitIkuraNum" StringValue="0"/>
+          <D1 Name="mActorMax" StringValue="1"/>
+          <D1 Name="mGraphIdx" StringValue="0"/>
+          <D1 Name="mKillIkuraNum" StringValue="0"/>
+        </C1>
+        <C1 Name="Sakediver">
+          <D2 Name="mLifeCoef" StringValue="1"/>
+          <D2 Name="mBaseSpeedCoef" StringValue="1"/>
+          <D2 Name="mInWaterSpeedCoef" StringValue="1"/>
+          <D2 Name="mMoveSpeedCoef" StringValue="1.6"/>
+          <D1 Name="mHitIkuraNum" StringValue="15"/>
+          <D1 Name="mActorMax" StringValue="4"/>
+          <D1 Name="mGraphIdx" StringValue="0"/>
+          <D1 Name="mKillIkuraNum" StringValue="3"/>
+        </C1>
+        <C1 Name="SakepuncherBulletSimpl">
+          <D2 Name="mLifeCoef" StringValue="1"/>
+          <D2 Name="mBaseSpeedCoef" StringValue="1"/>
+          <D2 Name="mInWaterSpeedCoef" StringValue="1"/>
+          <D2 Name="mMoveSpeedCoef" StringValue="0.5"/>
+          <D1 Name="mHitIkuraNum" StringValue="1"/>
+          <D1 Name="mActorMax" StringValue="32"/>
+          <D1 Name="mGraphIdx" StringValue="0"/>
+          <D1 Name="mKillIkuraNum" StringValue="3"/>
+        </C1>
+        <C1 Name="SakelienEscape">
+          <D2 Name="mLifeCoef" StringValue="1"/>
+          <D2 Name="mBaseSpeedCoef" StringValue="1"/>
+          <D2 Name="mInWaterSpeedCoef" StringValue="1"/>
+          <D2 Name="mMoveSpeedCoef" StringValue="1"/>
+          <D1 Name="mHitIkuraNum" StringValue="0"/>
+          <D1 Name="mActorMax" StringValue="0"/>
+          <D1 Name="mGraphIdx" StringValue="0"/>
+          <D1 Name="mKillIkuraNum" StringValue="30"/>
+        </C1>
+        <C1 Name="Sakerocket">
+          <D2 Name="mLifeCoef" StringValue="1"/>
+          <D2 Name="mBaseSpeedCoef" StringValue="1"/>
+          <D2 Name="mInWaterSpeedCoef" StringValue="1"/>
+          <D2 Name="mMoveSpeedCoef" StringValue="1"/>
+          <D1 Name="mHitIkuraNum" StringValue="18"/>
+          <D1 Name="mActorMax" StringValue="4"/>
+          <D1 Name="mGraphIdx" StringValue="0"/>
+          <D1 Name="mKillIkuraNum" StringValue="3"/>
+        </C1>
+        <C1 Name="SakelienGolden">
+          <D2 Name="mLifeCoef" StringValue="1"/>
+          <D2 Name="mBaseSpeedCoef" StringValue="0.8"/>
+          <D2 Name="mInWaterSpeedCoef" StringValue="1.5"/>
+          <D2 Name="mMoveSpeedCoef" StringValue="0.6"/>
+          <D1 Name="mHitIkuraNum" StringValue="12"/>
+          <D1 Name="mActorMax" StringValue="8"/>
+          <D1 Name="mGraphIdx" StringValue="0"/>
+          <D1 Name="mKillIkuraNum" StringValue="6"/>
+        </C1>
+        <C1 Name="SakelienCupTwins">
+          <D2 Name="mLifeCoef" StringValue="1"/>
+          <D2 Name="mBaseSpeedCoef" StringValue="1"/>
+          <D2 Name="mInWaterSpeedCoef" StringValue="1"/>
+          <D2 Name="mMoveSpeedCoef" StringValue="1"/>
+          <D1 Name="mHitIkuraNum" StringValue="12"/>
+          <D1 Name="mActorMax" StringValue="4"/>
+          <D1 Name="mGraphIdx" StringValue="0"/>
+          <D1 Name="mKillIkuraNum" StringValue="6"/>
+        </C1>
+        <C1 Name="SakelienBagmanLarge">
+          <D2 Name="mLifeCoef" StringValue="1"/>
+          <D2 Name="mBaseSpeedCoef" StringValue="0.6"/>
+          <D2 Name="mInWaterSpeedCoef" StringValue="1"/>
+          <D2 Name="mMoveSpeedCoef" StringValue="1.2"/>
+          <D1 Name="mHitIkuraNum" StringValue="0"/>
+          <D1 Name="mActorMax" StringValue="0"/>
+          <D1 Name="mGraphIdx" StringValue="0"/>
+          <D1 Name="mKillIkuraNum" StringValue="5"/>
+        </C1>
+        <C1 Name="SakepuncherBulletPunch">
+          <D2 Name="mLifeCoef" StringValue="1"/>
+          <D2 Name="mBaseSpeedCoef" StringValue="1"/>
+          <D2 Name="mInWaterSpeedCoef" StringValue="1"/>
+          <D2 Name="mMoveSpeedCoef" StringValue="1"/>
+          <D1 Name="mHitIkuraNum" StringValue="0"/>
+          <D1 Name="mActorMax" StringValue="0"/>
+          <D1 Name="mGraphIdx" StringValue="0"/>
+          <D1 Name="mKillIkuraNum" StringValue="0"/>
+        </C1>
+        <C1 Name="SakelienShield">
+          <D2 Name="mLifeCoef" StringValue="1"/>
+          <D2 Name="mBaseSpeedCoef" StringValue="1"/>
+          <D2 Name="mInWaterSpeedCoef" StringValue="1"/>
+          <D2 Name="mMoveSpeedCoef" StringValue="1.3"/>
+          <D1 Name="mHitIkuraNum" StringValue="13"/>
+          <D1 Name="mActorMax" StringValue="4"/>
+          <D1 Name="mGraphIdx" StringValue="0"/>
+          <D1 Name="mKillIkuraNum" StringValue="3"/>
+        </C1>
+        <C1 Name="Sakeflyer">
+          <D2 Name="mLifeCoef" StringValue="1"/>
+          <D2 Name="mBaseSpeedCoef" StringValue="1"/>
+          <D2 Name="mInWaterSpeedCoef" StringValue="1"/>
+          <D2 Name="mMoveSpeedCoef" StringValue="1"/>
+          <D1 Name="mHitIkuraNum" StringValue="0"/>
+          <D1 Name="mActorMax" StringValue="0"/>
+          <D1 Name="mGraphIdx" StringValue="0"/>
+          <D1 Name="mKillIkuraNum" StringValue="10"/>
+        </C1>
+        <C1 Name="SakelienGeyser">
+          <D2 Name="mLifeCoef" StringValue="1"/>
+          <D2 Name="mBaseSpeedCoef" StringValue="1"/>
+          <D2 Name="mInWaterSpeedCoef" StringValue="1.5"/>
+          <D2 Name="mMoveSpeedCoef" StringValue="1"/>
+          <D1 Name="mHitIkuraNum" StringValue="0"/>
+          <D1 Name="mActorMax" StringValue="2"/>
+          <D1 Name="mGraphIdx" StringValue="0"/>
+          <D1 Name="mKillIkuraNum" StringValue="10"/>
+        </C1>
+        <C1 Name="SakelienStandard">
+          <D2 Name="mLifeCoef" StringValue="1"/>
+          <D2 Name="mBaseSpeedCoef" StringValue="1"/>
+          <D2 Name="mInWaterSpeedCoef" StringValue="1.5"/>
+          <D2 Name="mMoveSpeedCoef" StringValue="0.8"/>
+          <D1 Name="mHitIkuraNum" StringValue="3"/>
+          <D1 Name="mActorMax" StringValue="32"/>
+          <D1 Name="mGraphIdx" StringValue="0"/>
+          <D1 Name="mKillIkuraNum" StringValue="3"/>
+        </C1>
+      </C1>
+    </C1>
+  </C1>
+</Root>

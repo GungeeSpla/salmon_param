@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D2 Name="mBurst_SplashPaintR" StringValue="7.5"/>
+      <D2 Name="mKnockBackCoreImpact" StringValue="1"/>
+      <D2 Name="mColPlayer_ColR" StringValue="10"/>
+      <D2 Name="mPaintCheckPosOffsetSpeedRateWallY_D" StringValue="14"/>
+      <D2 Name="mObjectEffect_Up_DamageRt_High" StringValue="1.3"/>
+      <D1 Name="mHitDamage" StringValue="500"/>
+      <D2 Name="mObjectEffect_Up_DamageRt_Mid" StringValue="1.15"/>
+      <D2 Name="mBurst_Radius_NearMid" StringValue="80"/>
+      <D2 Name="mBurst_SplashVelL" StringValue="5"/>
+      <D1 Name="mUnrelaxFrm" StringValue="25"/>
+      <D2 Name="mGripL" StringValue="0.55"/>
+      <D2 Name="mPaintRadius" StringValue="10"/>
+      <D2 Name="mBurst_KnockBackCoreImpact" StringValue="6"/>
+      <D1 Name="mPaintGauge_SpecialFrm" StringValue="360"/>
+      <D2 Name="mMove_TrnGnd" StringValue="0.8"/>
+      <D1 Name="mBurst_SplashNum" StringValue="15"/>
+      <D2 Name="mBurst_Radius_MiddleHigh" StringValue="140"/>
+      <D2 Name="mBurst_SplashOfstY" StringValue="5"/>
+      <D2 Name="mKnockBackKb" StringValue="0"/>
+      <D2 Name="mCrossPaintRadius" StringValue="25"/>
+      <D2 Name="mBurst_SplashPitH" StringValue="30"/>
+      <D2 Name="mBurst_Radius_Middle" StringValue="120"/>
+      <D2 Name="mPaintCheckPosOffsetSpeedWallY_D" StringValue="-15"/>
+      <D1 Name="mNoCharge_Frm" StringValue="70"/>
+      <D1 Name="mBurst_Damage_Far" StringValue="550"/>
+      <D2 Name="mMove_AccGnd_Air" StringValue="0.06"/>
+      <D1 Name="mBurst_Damage_Near" StringValue="1800"/>
+      <D2 Name="mMove_BrkGnd" StringValue="0.04"/>
+      <D2 Name="mPaintCheckHeight" StringValue="20"/>
+      <D2 Name="mMove_VelGnd_Enemy" StringValue="0.24"/>
+      <D2 Name="mHitWallSafePointCenterOffsetY" StringValue="7.5"/>
+      <D2 Name="mDiveFloatVelL" StringValue="0.6"/>
+      <D2 Name="mBurst_Damage_HalfSphereThresholdY" StringValue="45"/>
+      <D2 Name="mBurst_Radius_Near" StringValue="80"/>
+      <D2 Name="mBurst_KnockBackKb" StringValue="0.2"/>
+      <D2 Name="mObjectEffect_Up_DamageRt_Low" StringValue="1"/>
+      <D2 Name="mBurst_SplashAroundFuzzyRate" StringValue="2"/>
+      <D2 Name="mKnockBackRadius" StringValue="300"/>
+      <D2 Name="mMove_AirKd_XZ" StringValue="0.96"/>
+      <D2 Name="mPaintCheckPosOffsetSpeedRate" StringValue="3"/>
+      <D2 Name="mBurst_Radius_NearHigh" StringValue="80"/>
+      <D2 Name="mCrossPaintRayRadius" StringValue="1"/>
+      <D2 Name="mMove_BrkGnd_C" StringValue="0.02"/>
+      <D2 Name="mLandingPaintRadius" StringValue="35"/>
+      <D1 Name="mPaintGauge_PointFull" StringValue="180"/>
+      <D2 Name="mGripB" StringValue="0.7"/>
+      <D1 Name="mCharge_Frm" StringValue="46"/>
+      <D2 Name="mDiveFloatVelH" StringValue="2.8"/>
+      <D1 Name="mHP_Low" StringValue="4000"/>
+      <D2 Name="mMove_BrkGnd_W" StringValue="0.02"/>
+      <D2 Name="mWallDrop_Detach_Reject" StringValue="1"/>
+      <D2 Name="mBurst_KnockBackRadius" StringValue="140"/>
+      <D2 Name="mColGnd_ColR" StringValue="10"/>
+      <D2 Name="mWallCheckOffsetY" StringValue="4.5"/>
+      <D2 Name="mMove_VelGnd" StringValue="1.44"/>
+      <D2 Name="mBurst_Radius_MiddleMid" StringValue="130"/>
+      <D2 Name="mMove_VelGnd_Stealth" StringValue="1.68"/>
+      <D1 Name="mHP_High" StringValue="6000"/>
+      <D2 Name="mBurst_SplashPitL" StringValue="5"/>
+      <D2 Name="mBurst_Radius_FarMid" StringValue="130"/>
+      <D1 Name="mBreak_NoDamageFrm" StringValue="30"/>
+      <D2 Name="mWallDrop_Detach_PeakDirAngleDeg" StringValue="30"/>
+      <D1 Name="mHP_Mid" StringValue="5000"/>
+      <D2 Name="mDiveFloatVelB" StringValue="0.5"/>
+      <D2 Name="mBurst_SplashVelH" StringValue="6"/>
+      <D2 Name="mMove_AccGnd" StringValue="0.08"/>
+      <D2 Name="mBurst_Radius_FarHigh" StringValue="140"/>
+      <D1 Name="mBurst_WarnFrm" StringValue="40"/>
+      <D1 Name="mJump_KeepFrm" StringValue="180"/>
+      <D2 Name="mWallDrop_Detach_Impact" StringValue="1"/>
+      <D1 Name="mBurst_Damage_Middle" StringValue="550"/>
+      <D2 Name="mJump_LandFreeze_AllowRt" StringValue="0.1"/>
+      <D2 Name="mBurst_Radius_Far" StringValue="120"/>
+      <D2 Name="mColBullet_ColR" StringValue="10"/>
+      <D1 Name="mOcta_AlwaysSpecial_NoChargeFrm_SettingOcta_" StringValue="0"/>
+      <D2 Name="mBurst_PaintR" StringValue="70"/>
+      <D2 Name="mCrossPaintRayLength" StringValue="25"/>
+    </C1>
+  </C1>
+</Root>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D2 Name="mBurst_SplashPaintR" StringValue="10"/>
+      <D1 Name="mBurst_Damage_Near_Enemy" StringValue="1800"/>
+      <D2 Name="mCrossPaintRayLength_LastBoss" StringValue="25"/>
+      <D1 Name="mBurst_Damage_Far_Enemy" StringValue="300"/>
+      <D2 Name="mBurst_SplashVelL_LastBoss" StringValue="4.8"/>
+      <D2 Name="mBurst_SplashVelL" StringValue="4.8"/>
+      <D2 Name="mInkConsume_LastBoss" StringValue="0.7"/>
+      <D2 Name="mBurst_Radius_Near_LastBoss" StringValue="55"/>
+      <D2 Name="mBurst_SplashOfstY_LastBoss" StringValue="5"/>
+      <D2 Name="mBurst_KnockBackCoreImpact" StringValue="3"/>
+      <D2 Name="mBurst_Radius_Far_LastBoss" StringValue="95"/>
+      <D1 Name="mBurst_SplashNum" StringValue="15"/>
+      <D2 Name="mBurst_SplashOfstY" StringValue="5"/>
+      <D2 Name="mCrossPaintRadius" StringValue="25"/>
+      <D2 Name="mBurst_SplashPitH" StringValue="45"/>
+      <D2 Name="mBurst_SplashVelH_LastBoss" StringValue="6.4"/>
+      <D2 Name="mBurst_Radius_Middle" StringValue="80"/>
+      <D2 Name="mContactDashPanelAddSpeed_SettingOcta_" StringValue="9.5"/>
+      <D1 Name="mBurst_Damage_Far" StringValue="300"/>
+      <D1 Name="mFly_AirFrm" StringValue="4"/>
+      <D2 Name="mShape_SphereR" StringValue="2"/>
+      <D1 Name="mBurst_Damage_Near" StringValue="1800"/>
+      <D2 Name="mBurst_Radius_Middle_Enemy" StringValue="90"/>
+      <D2 Name="mFly_RotKd" StringValue="0.98015"/>
+      <D2 Name="mFly_InitPit" StringValue="0.4"/>
+      <D2 Name="mBringCloseRateMoveVec" StringValue="0.7"/>
+      <D2 Name="mBurst_Radius_Near" StringValue="50"/>
+      <D2 Name="mBurst_KnockBackKb" StringValue="0.8"/>
+      <D2 Name="mBurst_SplashAroundFuzzyRate" StringValue="2"/>
+      <D2 Name="mBurst_Radius_Far_Enemy" StringValue="90"/>
+      <D2 Name="mFly_InitRol" StringValue="0.12"/>
+      <D2 Name="mShape_SphereRate_LastBoss" StringValue="1.975"/>
+      <D2 Name="mEffectShakeRange" StringValue="100"/>
+      <D2 Name="mFly_Gravity" StringValue="0.16"/>
+      <D2 Name="mBurst_PaintR_LastBoss" StringValue="55"/>
+      <D2 Name="mCrossPaintRayRadius" StringValue="1"/>
+      <D1 Name="mBurst_SplashNum_LastBoss" StringValue="15"/>
+      <D2 Name="mInkConsume" StringValue="0.7"/>
+      <D1 Name="mBurst_Damage_Far_LastBoss" StringValue="300"/>
+      <D2 Name="mInkConsume_Enemy" StringValue="0.7"/>
+      <D2 Name="mBurst_KnockBackRadius" StringValue="120"/>
+      <D1 Name="mBurst_SeFrm" StringValue="10"/>
+      <D2 Name="mBurst_SplashPitL_LastBoss" StringValue="5"/>
+      <D2 Name="mWallCheckOffsetY" StringValue="4.5"/>
+      <D2 Name="mBurst_Radius_Near_Enemy" StringValue="50"/>
+      <D2 Name="mBurst_SplashPitH_LastBoss" StringValue="45"/>
+      <D2 Name="mCrossPaintRadius_LastBoss" StringValue="25"/>
+      <D2 Name="mBurst_KnockBackCoreImpact_LastBoss" StringValue="3"/>
+      <D2 Name="mShape_SphereD" StringValue="5"/>
+      <D2 Name="mConveyer_Radius" StringValue="5"/>
+      <D2 Name="mBurst_KnockBackRadius_LastBoss" StringValue="120"/>
+      <D2 Name="mContactDashPanelCrossSaveSpeedRate_SettingOcta_" StringValue="0.9"/>
+      <D2 Name="mBurst_SplashPitL" StringValue="5"/>
+      <D1 Name="mBurst_WaitFrm" StringValue="90"/>
+      <D2 Name="mBurst_SplashVelH" StringValue="6.4"/>
+      <D1 Name="mBurst_Damage_Near_LastBoss" StringValue="1800"/>
+      <D1 Name="mBurst_WarnFrm" StringValue="30"/>
+      <D1 Name="mBurst_Damage_Middle" StringValue="300"/>
+      <D2 Name="mCollisionSeVelDotGndNrm" StringValue="0.08"/>
+      <D2 Name="mBurst_Radius_Middle_LastBoss" StringValue="95"/>
+      <D1 Name="mBurst_Damage_Middle_LastBoss" StringValue="300"/>
+      <D2 Name="mBringCloseRateCrossVec" StringValue="0.7"/>
+      <D2 Name="mBurst_Radius_Far" StringValue="80"/>
+      <D2 Name="mBurst_PaintR" StringValue="50"/>
+      <D2 Name="mCrossPaintRayLength" StringValue="25"/>
+      <D1 Name="mBurst_Damage_Middle_Enemy" StringValue="300"/>
+      <D2 Name="mBurst_SplashPaintR_LastBoss" StringValue="10"/>
+      <D2 Name="mFly_RotI" StringValue="20"/>
+      <D2 Name="mFly_VelKd" StringValue="0.941337"/>
+    </C1>
+  </C1>
+</Root>

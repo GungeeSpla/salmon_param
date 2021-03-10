@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D2 Name="mPaintGauge_VelGnd" StringValue="0"/>
+      <D1 Name="mPaintGauge_SpecialFrm" StringValue="18000"/>
+      <D2 Name="mPaintGauge_JumpGnd" StringValue="0"/>
+      <D1 Name="486ddd0a" StringValue="180"/>
+      <D1 Name="6dd0eb5b" StringValue="120"/>
+      <D1 Name="mHP" StringValue="1000"/>
+      <D1 Name="mPaintGauge_PointFull" StringValue="500"/>
+      <D1 Name="a7ae6673" StringValue="30"/>
+      <D1 Name="c0ab9404" StringValue="10"/>
+      <D1 Name="eb0cd7da" StringValue="30"/>
+      <D2 Name="fba70ef5" StringValue="48"/>
+    </C1>
+  </C1>
+</Root>

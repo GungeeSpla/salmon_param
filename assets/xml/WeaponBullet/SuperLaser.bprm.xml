@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D2 Name="mKnockBackCoreImpact" StringValue="0.3"/>
+      <D1 Name="mShotMaxSizeFrame" StringValue="225"/>
+      <D2 Name="mShotRadius" StringValue="90"/>
+      <D0 Name="mKnockBackNoBarrierOff" StringValue="True"/>
+      <D1 Name="mDamage" StringValue="100"/>
+      <D2 Name="mKnockBackKb" StringValue="0.5"/>
+      <D2 Name="mModelScale" StringValue="1.05"/>
+      <D1 Name="mShotWaitFrame" StringValue="90"/>
+      <D2 Name="mKnockBackRadius" StringValue="500"/>
+      <D2 Name="mNoticeCollisionRadius" StringValue="1"/>
+      <D1 Name="mShotSpreadFrame" StringValue="30"/>
+      <D2 Name="mArmorTypeObjectDamageRate" StringValue="1"/>
+      <D2 Name="mShotDistance" StringValue="2700"/>
+      <D2 Name="mKnockBackDegree" StringValue="45"/>
+    </C1>
+  </C1>
+</Root>

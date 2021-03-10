@@ -1,0 +1,377 @@
+{
+  "mActionBuffer": {
+    "Unknown": [
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": [
+              {
+                "mEdFrame": -1,
+                "mAnimName": "Wait00",
+                "mAnimStFrame": 8,
+                "mStFrame": 0,
+                "mAnimEdFrame": 1,
+                "mAnimSetIdx": 3
+              },
+              {
+                "mEdFrame": -1,
+                "mAnimName": "Wait00",
+                "mAnimStFrame": 27,
+                "mStFrame": 0,
+                "mAnimEdFrame": 1,
+                "mAnimSetIdx": 1
+              },
+              {
+                "mEdFrame": -1,
+                "mAnimName": "Wait00",
+                "mAnimStFrame": 0,
+                "mStFrame": 0,
+                "mAnimEdFrame": 1,
+                "mAnimSetIdx": 0
+              },
+              {
+                "mEdFrame": -1,
+                "mAnimName": "Wait00",
+                "mAnimStFrame": 54,
+                "mStFrame": 0,
+                "mAnimEdFrame": 1,
+                "mAnimSetIdx": 5
+              },
+              {
+                "mEdFrame": -1,
+                "mAnimName": "Wait00",
+                "mAnimStFrame": 79,
+                "mStFrame": 0,
+                "mAnimEdFrame": 1,
+                "mAnimSetIdx": 4
+              },
+              {
+                "mEdFrame": -1,
+                "mAnimName": "Wait00",
+                "mAnimStFrame": 3,
+                "mStFrame": 0,
+                "mAnimEdFrame": 1,
+                "mAnimSetIdx": 6
+              },
+              {
+                "mEdFrame": -1,
+                "mAnimName": "Wait00",
+                "mAnimStFrame": 45,
+                "mStFrame": 0,
+                "mAnimEdFrame": 1,
+                "mAnimSetIdx": 2
+              },
+              {
+                "mEdFrame": -1,
+                "mAnimName": "Wait00",
+                "mAnimStFrame": 29,
+                "mStFrame": 0,
+                "mAnimEdFrame": 1,
+                "mAnimSetIdx": 7
+              },
+              {
+                "mEdFrame": 105,
+                "mAnimName": "BaseAppear",
+                "mAnimStFrame": 0,
+                "mStFrame": 0,
+                "mAnimEdFrame": 105,
+                "mAnimSetIdx": 8
+              }
+            ]
+          }
+        },
+        "mName": "Appear",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 105,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": [
+              {
+                "mEdFrame": -1,
+                "mAnimName": "BaseWait00",
+                "mAnimStFrame": 0,
+                "mStFrame": 0,
+                "mAnimEdFrame": 1,
+                "mAnimSetIdx": 8
+              },
+              {
+                "mEdFrame": -1,
+                "mAnimName": "Wait00",
+                "mAnimStFrame": 0,
+                "mStFrame": 0,
+                "mAnimEdFrame": 1,
+                "mAnimSetIdx": 0
+              }
+            ]
+          }
+        },
+        "mName": "Wait00",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 1,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": [
+              {
+                "mEdFrame": -1,
+                "mAnimName": "BaseWalk00",
+                "mAnimStFrame": 0,
+                "mStFrame": 0,
+                "mAnimEdFrame": 1,
+                "mAnimSetIdx": 8
+              },
+              {
+                "mEdFrame": -1,
+                "mAnimName": "Wait00",
+                "mAnimStFrame": 0,
+                "mStFrame": 0,
+                "mAnimEdFrame": 1,
+                "mAnimSetIdx": 0
+              }
+            ]
+          }
+        },
+        "mName": "Walk00",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 1,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": -1,
+              "mAnimName": "BaseWait00",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 1,
+              "mAnimSetIdx": 8
+            }
+          }
+        },
+        "mName": "SearchSt",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 1,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": [
+              {
+                "mEdFrame": -1,
+                "mAnimName": "BaseWalk00",
+                "mAnimStFrame": 0,
+                "mStFrame": 0,
+                "mAnimEdFrame": 1,
+                "mAnimSetIdx": 8
+              },
+              {
+                "mEdFrame": -1,
+                "mAnimName": "Wait00",
+                "mAnimStFrame": 0,
+                "mStFrame": 0,
+                "mAnimEdFrame": 1,
+                "mAnimSetIdx": 0
+              }
+            ]
+          }
+        },
+        "mName": "Walk01",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 1,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": [
+              {
+                "mEdFrame": -1,
+                "mAnimName": "BaseWalk00",
+                "mAnimStFrame": 0,
+                "mStFrame": 0,
+                "mAnimEdFrame": 1,
+                "mAnimSetIdx": 8
+              },
+              {
+                "mEdFrame": -1,
+                "mAnimName": "Wait00",
+                "mAnimStFrame": 0,
+                "mStFrame": 0,
+                "mAnimEdFrame": 1,
+                "mAnimSetIdx": 0
+              }
+            ]
+          }
+        },
+        "mName": "Escape",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 1,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": [
+              {
+                "mEdFrame": 60,
+                "mAnimName": "Wait00",
+                "mAnimStFrame": 0,
+                "mStFrame": 24,
+                "mAnimEdFrame": 36,
+                "mAnimSetIdx": 0
+              },
+              {
+                "mEdFrame": 24,
+                "mAnimName": "AttackEnd",
+                "mAnimStFrame": 0,
+                "mStFrame": 0,
+                "mAnimEdFrame": 24,
+                "mAnimSetIdx": 0
+              }
+            ]
+          }
+        },
+        "mName": "ShotEd",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 60,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": [
+              {
+                "mEdFrame": 600,
+                "mAnimName": "Search",
+                "mAnimStFrame": 0,
+                "mStFrame": 29,
+                "mAnimEdFrame": 571,
+                "mAnimSetIdx": 0
+              },
+              {
+                "mEdFrame": 29,
+                "mAnimName": "SearchSt",
+                "mAnimStFrame": 0,
+                "mStFrame": 0,
+                "mAnimEdFrame": 29,
+                "mAnimSetIdx": 0
+              }
+            ]
+          }
+        },
+        "mName": "Search",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 600,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": -1,
+              "mStrParamBuffer": 0,
+              "mStFrame": 60,
+              "mF32ParamBuffer": 0,
+              "mS32ParamBuffer": {
+                "None": 300
+              },
+              "mEventName": "Shot"
+            }
+          }
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": [
+              {
+                "mEdFrame": 122,
+                "mAnimName": "AttackSt",
+                "mAnimStFrame": 0,
+                "mStFrame": 48,
+                "mAnimEdFrame": 74,
+                "mAnimSetIdx": 0
+              },
+              {
+                "mEdFrame": 48,
+                "mAnimName": "Aim",
+                "mAnimStFrame": 0,
+                "mStFrame": 0,
+                "mAnimEdFrame": 29,
+                "mAnimSetIdx": 0
+              },
+              {
+                "mEdFrame": 360,
+                "mAnimName": "Attack",
+                "mAnimStFrame": 0,
+                "mStFrame": 122,
+                "mAnimEdFrame": 238,
+                "mAnimSetIdx": 0
+              }
+            ]
+          }
+        },
+        "mName": "Shot",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 360,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      }
+    ]
+  }
+}

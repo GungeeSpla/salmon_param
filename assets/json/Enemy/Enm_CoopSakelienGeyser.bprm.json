@@ -1,0 +1,133 @@
+{
+  "mRotSpeedAcc": 0.0025,
+  "mMoveSpeedCoefSink": 1,
+  "mIsEnablePassClosePath": false,
+  "mActionSpeedMax": 3,
+  "mGndColOffsetY": 0,
+  "mWaveMovableParams": {
+    "mWaveRadiusMin": 5,
+    "mWaveRadiusMax": 10,
+    "mWaveTimeMin": 100,
+    "mWaveTimeMax": 150
+  },
+  "mHeadRotDegMaxAxisY": 75,
+  "mCheckKeepOutE": false,
+  "mIsDroppable": false,
+  "mmLifeCure": false,
+  "mHeadRotDegMaxAxisX": 35,
+  "mSearchableParams": {
+    "None": "cPathDistance",
+    "mIsCheckCol": false
+  },
+  "None": "cRate",
+  "mFormParamsBuffer": {
+    "Unknown": [
+      {
+        "mColHeight": 4,
+        "mSppedCoefInWater": 1,
+        "mColRadius": 10,
+        "mLife": 20000,
+        "mDropIkuraNum": 40,
+        "mSpeedCoef": 1.4,
+        "mDropGoldenIkuraNum": 6,
+        "mScale": 0.5,
+        "mColOffset": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "mColHeight": 10,
+        "mSppedCoefInWater": 1,
+        "mColRadius": 12,
+        "mLife": 20000,
+        "mDropIkuraNum": 40,
+        "mSpeedCoef": 1.2,
+        "mDropGoldenIkuraNum": 5,
+        "mScale": 0.75,
+        "mColOffset": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "mColHeight": 14,
+        "mSppedCoefInWater": 1,
+        "mColRadius": 16,
+        "mLife": 25000,
+        "mDropIkuraNum": 50,
+        "mSpeedCoef": 1,
+        "mDropGoldenIkuraNum": 5,
+        "mScale": 1,
+        "mColOffset": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "mOffsetY_InWater": -10,
+  "mPathPlannableParams": {
+    "mEnableCoopAreaKeepOut": false,
+    "mReachDistanceXZ": 20,
+    "mReachDistanceY": 80,
+    "mEnableReachTarget": true
+  },
+  "mLife": 1000,
+  "mRotSpeed": 0.1,
+  "mRotInterpRatio": 0.15,
+  "mDiePaintRadius": 80,
+  "mTrackPaintableOffsetZ": -10,
+  "mEnemyPhysicsParams": {
+    "mObjColCapsuleParams": {
+      "Unknown": {
+        "mArmorType": "cZakoEnemy",
+        "mHeight": 5,
+        "mRadius": 10,
+        "mNodeName": "Root",
+        "mIsBombBreak": false,
+        "mOffset": [
+          0,
+          4,
+          4
+        ],
+        "mRotate": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "mGndColRadius": 10,
+    "mIsKeepoutEReject": false,
+    "mIsKeepoutE2Reject": false,
+    "mGndColOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  "mOnGeyserFrame": 180,
+  "mmLifeCurePerSecond": 0,
+  "mKnockbackRollerCore": 1,
+  "mTrackPaintableRadius": 25,
+  "mScale": 1,
+  "mWeight": 10,
+  "mDieSplashRadius": 50,
+  "mMonitorHalfSize": 10,
+  "mSearchBombSearchPosOffsetY": 0,
+  "mFootPaintCheckThreshold": 0.33,
+  "mSuperMissileTargetPosOffset": [
+    0,
+    0,
+    0
+  ],
+  "mAirBallPosOffset": [
+    0,
+    40,
+    0
+  ]
+}

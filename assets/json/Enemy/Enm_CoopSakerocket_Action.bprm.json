@@ -1,0 +1,294 @@
+{
+  "mActionBuffer": {
+    "Unknown": [
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": -1,
+              "mAnimName": "Wait00",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 1,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "Wait00",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 1,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": -1,
+              "mAnimName": "Wait00",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 1,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "Escape",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 1,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": [
+              {
+                "mEdFrame": 530,
+                "mAnimName": "JumpFall",
+                "mAnimStFrame": 0,
+                "mStFrame": 30,
+                "mAnimEdFrame": 500,
+                "mAnimSetIdx": 0
+              },
+              {
+                "mEdFrame": 30,
+                "mAnimName": "JumpFallSt",
+                "mAnimStFrame": 0,
+                "mStFrame": 0,
+                "mAnimEdFrame": 30,
+                "mAnimSetIdx": 0
+              }
+            ]
+          }
+        },
+        "mName": "Jump_Down",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 530,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": -1,
+              "mStrParamBuffer": 0,
+              "mStFrame": 0,
+              "mF32ParamBuffer": 0,
+              "mS32ParamBuffer": {
+                "None": 0
+              },
+              "mEventName": "Barrier"
+            }
+          }
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": [
+              {
+                "mEdFrame": 528,
+                "mAnimName": "Jump",
+                "mAnimStFrame": 0,
+                "mStFrame": 28,
+                "mAnimEdFrame": 500,
+                "mAnimSetIdx": 0
+              },
+              {
+                "mEdFrame": 28,
+                "mAnimName": "JumpSt",
+                "mAnimStFrame": 0,
+                "mStFrame": 0,
+                "mAnimEdFrame": 28,
+                "mAnimSetIdx": 0
+              }
+            ]
+          }
+        },
+        "mName": "Jump_Up",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 528,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": {
+            "Unknown": [
+              {
+                "mEdFrame": -1,
+                "mStrParamBuffer": 0,
+                "mStFrame": 0,
+                "mF32ParamBuffer": 0,
+                "mS32ParamBuffer": {
+                  "None": 0
+                },
+                "mEventName": "Barrier"
+              },
+              {
+                "mEdFrame": -1,
+                "mStrParamBuffer": 0,
+                "mStFrame": 0,
+                "mF32ParamBuffer": 0,
+                "mS32ParamBuffer": 0,
+                "mEventName": "Shot"
+              },
+              {
+                "mEdFrame": -1,
+                "mStrParamBuffer": 0,
+                "mStFrame": 180,
+                "mF32ParamBuffer": 0,
+                "mS32ParamBuffer": {
+                  "None": 1
+                },
+                "mEventName": "Barrier"
+              }
+            ]
+          }
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": [
+              {
+                "mEdFrame": 130,
+                "mAnimName": "Down",
+                "mAnimStFrame": 0,
+                "mStFrame": 69,
+                "mAnimEdFrame": 61,
+                "mAnimSetIdx": 0
+              },
+              {
+                "mEdFrame": 69,
+                "mAnimName": "DownSt",
+                "mAnimStFrame": 0,
+                "mStFrame": 0,
+                "mAnimEdFrame": 69,
+                "mAnimSetIdx": 0
+              },
+              {
+                "mEdFrame": 210,
+                "mAnimName": "DownEnd",
+                "mAnimStFrame": 0,
+                "mStFrame": 130,
+                "mAnimEdFrame": 80,
+                "mAnimSetIdx": 0
+              }
+            ]
+          }
+        },
+        "mName": "Shot",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 210,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": -1,
+              "mStrParamBuffer": 0,
+              "mStFrame": 5,
+              "mF32ParamBuffer": 0,
+              "mS32ParamBuffer": {
+                "None": 1
+              },
+              "mEventName": "Barrier"
+            }
+          }
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": 30,
+              "mAnimName": "JumpFallEnd",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 30,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "Landed",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 30,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": {
+            "Unknown": [
+              {
+                "mEdFrame": -1,
+                "mStrParamBuffer": 0,
+                "mStFrame": 150,
+                "mF32ParamBuffer": 0,
+                "mS32ParamBuffer": 0,
+                "mEventName": "Prepare"
+              },
+              {
+                "mEdFrame": -1,
+                "mStrParamBuffer": 0,
+                "mStFrame": 26,
+                "mF32ParamBuffer": 0,
+                "mS32ParamBuffer": 0,
+                "mEventName": "AppearBullet"
+              }
+            ]
+          }
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": [
+              {
+                "mEdFrame": 180,
+                "mAnimName": "AttackReadyWait",
+                "mAnimStFrame": 0,
+                "mStFrame": 120,
+                "mAnimEdFrame": 60,
+                "mAnimSetIdx": 0
+              },
+              {
+                "mEdFrame": 120,
+                "mAnimName": "AttackReady",
+                "mAnimStFrame": 0,
+                "mStFrame": 0,
+                "mAnimEdFrame": 120,
+                "mAnimSetIdx": 0
+              }
+            ]
+          }
+        },
+        "mName": "ShotWait",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 180,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D1 Name="mShotIntervalTarget1" StringValue="8"/>
+      <D2 Name="mRiseBaseSpeedComeOverRate" StringValue="0.9"/>
+      <D2 Name="mRiseBaseSpeed" StringValue="4"/>
+      <D2 Name="mCurveBaseSpeedComeUnderRate" StringValue="0.8"/>
+      <D2 Name="mKnockBackCoreImpact" StringValue="3"/>
+      <D1 Name="mTargetOutCircleFrame" StringValue="20"/>
+      <D2 Name="mCoopBurst_PaintR" StringValue="40"/>
+      <D1 Name="mCoopBurst_Damage_Near" StringValue="500"/>
+      <D2 Name="mTargetInCircleRadiusMid" StringValue="190"/>
+      <D2 Name="mApproachStartRotateDegreeMax" StringValue="4"/>
+      <D0 Name="mKnockBackNoBarrierOff" StringValue="False"/>
+      <D1 Name="mDamage" StringValue="1500"/>
+      <D1 Name="mCurveStateMaxFrame" StringValue="60"/>
+      <C0 Name="2c28c693">
+        <D2 StringValue="-9"/>
+        <D2 StringValue="82"/>
+      </C0>
+      <D2 Name="mTargetCircleEffectDefaultRadius" StringValue="93"/>
+      <D2 Name="mChaseRotateDegreeMax" StringValue="0"/>
+      <D1 Name="mPaintGauge_SpecialFrm" StringValue="600"/>
+      <D2 Name="mCurveBaseSpeed" StringValue="1"/>
+      <D2 Name="mKnockBackKb" StringValue="0.8"/>
+      <D2 Name="mShotOutsideDegree" StringValue="12"/>
+      <D2 Name="mCrossPaintRadius" StringValue="20"/>
+      <D2 Name="mCoopBurst_Radius_Near" StringValue="15"/>
+      <D2 Name="mBurst_Radius_Middle" StringValue="25"/>
+      <D2 Name="mRiseTargetPlayerOverHeightAddOneTarget" StringValue="10"/>
+      <D2 Name="mChaseBaseSpeedComeOverRate" StringValue="0.01"/>
+      <D2 Name="mChaseStartRotateDegreeMax" StringValue="0"/>
+      <D2 Name="mCurveMaxSpeedY" StringValue="2"/>
+      <D2 Name="mApproachStateTargetHeightAddOneTarget" StringValue="10"/>
+      <D2 Name="mCurveBaseSpeedComeOverRate" StringValue="0.8"/>
+      <C0 Name="mTargetCircleCenterOffset">
+        <D2 StringValue="0"/>
+        <D2 StringValue="65"/>
+      </C0>
+      <D2 Name="mApproachStartBaseSpeedComeOverRate" StringValue="0.65"/>
+      <D1 Name="mBurst_Damage_Far" StringValue="300"/>
+      <D2 Name="mApproachStateTargetDistanceXZAddLockOn" StringValue="0"/>
+      <D2 Name="mRiseInitialSpeed" StringValue="4"/>
+      <D1 Name="mBurst_Damage_Near" StringValue="1500"/>
+      <D1 Name="mTargetPlayerLockOnSeFrame" StringValue="3"/>
+      <D1 Name="mShotIntervalTarget2" StringValue="7"/>
+      <D2 Name="mPaintGauge_VelGnd_Shooting" StringValue="0"/>
+      <D1 Name="mShotIntervalTargetMission" StringValue="8"/>
+      <D2 Name="mApproachStateMissileMaxDegree" StringValue="45"/>
+      <D2 Name="mApproachWaitBaseSpeed" StringValue="0.001"/>
+      <D2 Name="mApproachWaitBaseSpeedComeOverRate" StringValue="0.01"/>
+      <D1 Name="mShotIntervalTarget3" StringValue="6"/>
+      <D2 Name="mTargetInCircleRadiusHigh" StringValue="240"/>
+      <D2 Name="mPaintGauge_VelGnd_Searching" StringValue="0.48"/>
+      <D0 Name="mPlayerTargetEffectDirectionSolid" StringValue="True"/>
+      <D2 Name="mBringCloseRateMoveVec" StringValue="0.93"/>
+      <D2 Name="mRiseTargetPlayerOverHeightAddLockOn" StringValue="0"/>
+      <D2 Name="mApproachStateTargetHeightAddLockOn" StringValue="0"/>
+      <D2 Name="mApproachStateTargetDistanceXZAddOneTarget" StringValue="10"/>
+      <D2 Name="mBurst_Radius_Near" StringValue="15"/>
+      <D2 Name="mApproachBaseSpeedComeOverRate" StringValue="0.92"/>
+      <D2 Name="mApproachBaseSpeedComeUnderRate" StringValue="0.96"/>
+      <D1 Name="mPlayerTargetHitCollisionLoopNum" StringValue="5"/>
+      <D1 Name="mPlayerTargetEffectState" StringValue="5"/>
+      <D2 Name="mKnockBackRadius" StringValue="80"/>
+      <D1 Name="mTargetPlayerLockOnCount" StringValue="5"/>
+      <D2 Name="mApproachStateTargetMinDegree" StringValue="0"/>
+      <D1 Name="mStartCollisionCheckState" StringValue="6"/>
+      <D2 Name="mCurveRotateDegreeMax" StringValue="3"/>
+      <D2 Name="mChaseStartBaseSpeedComeUnderRate" StringValue="0.01"/>
+      <D2 Name="mApproachStateTargetDistanceXZ" StringValue="60"/>
+      <D2 Name="mCrossPaintRayRadius" StringValue="1"/>
+      <D2 Name="mCurveStateNextStateMinDegreeAxisY" StringValue="0.01"/>
+      <D1 Name="mPaintGauge_PointFull" StringValue="180"/>
+      <D1 Name="mSuperJumpDecideFrame" StringValue="95"/>
+      <D2 Name="mPlayerTargetSolidDistanceXZ" StringValue="1000"/>
+      <D0 Name="mTargetPlayerLockOnDebugPrintCenterX" StringValue="True"/>
+      <D2 Name="mTargetOutCircleAddRadius" StringValue="30"/>
+      <D2 Name="mRiseMinHeight" StringValue="76"/>
+      <D2 Name="mTargetPlayerLockOnDebugPrintScale" StringValue="3.5"/>
+      <D2 Name="mCoopCrossPaintRadius" StringValue="20"/>
+      <D0 Name="mBulletThrough" StringValue="False"/>
+      <D2 Name="mRiseMinHeightAddOneTarget" StringValue="10"/>
+      <D2 Name="mChaseDegreeHorizonMinB" StringValue="2"/>
+      <D2 Name="mChaseStartBaseSpeed" StringValue="0.01"/>
+      <D1 Name="mApproachStartStateFrame" StringValue="15"/>
+      <D2 Name="mCoopBurst_Radius_Far" StringValue="50"/>
+      <D1 Name="mShotIntervalAround" StringValue="0"/>
+      <D2 Name="mApproachStartBaseSpeedComeUnderRate" StringValue="0.8"/>
+      <D2 Name="mChaseStartBaseSpeedComeOverRate" StringValue="0.01"/>
+      <D2 Name="mCurveStateNextStateMinDegreeAxisX" StringValue="0.01"/>
+      <D2 Name="mChaseBaseSpeedComeUnderRate" StringValue="0.01"/>
+      <D2 Name="mCollisionRadius" StringValue="1.5"/>
+      <D2 Name="mApproachRotateDegreeMax" StringValue="4"/>
+      <D2 Name="mPlayerTargetRandomOffsetBias" StringValue="0.3"/>
+      <D1 Name="mCurveStateMinFrame" StringValue="10"/>
+      <D2 Name="mRiseTargetPlayerOverHeight" StringValue="56"/>
+      <D2 Name="mPaintGauge_JumpGnd_Searching" StringValue="0.6"/>
+      <D1 Name="mChaseStartStateFrame" StringValue="25"/>
+      <D2 Name="mApproachBaseSpeed" StringValue="5"/>
+      <D2 Name="mShotInsideDegree" StringValue="0.1"/>
+      <D2 Name="mApproachStateTargetMaxDegree" StringValue="20"/>
+      <D2 Name="mRiseBaseSpeedComeUnderRate" StringValue="0.9"/>
+      <D2 Name="mApproachStateTargetHeight" StringValue="110"/>
+      <D1 Name="cb5d88c2" StringValue="4"/>
+      <D1 Name="mPlayerTargetSolidState" StringValue="4"/>
+      <D2 Name="mChaseBaseSpeed" StringValue="4.2"/>
+      <D2 Name="mApproachStartBaseSpeed" StringValue="2"/>
+      <D2 Name="mCoopBurst_Radius_Middle" StringValue="25"/>
+      <D1 Name="mCoopBurst_Damage_Middle" StringValue="300"/>
+      <D1 Name="mShotIntervalTarget4" StringValue="5"/>
+      <D2 Name="mApproachWaitRotateDegreeMax" StringValue="0"/>
+      <D1 Name="mBurst_Damage_Middle" StringValue="500"/>
+      <D2 Name="mPaintGauge_VelGnd_Preparing" StringValue="0"/>
+      <D1 Name="mCoopDamage" StringValue="1500"/>
+      <D2 Name="mChaseDegreeHorizonMinA" StringValue="12"/>
+      <D2 Name="mPaintGauge_JumpGnd_Preparing" StringValue="0"/>
+      <D2 Name="mBringCloseRateCrossVec" StringValue="0.93"/>
+      <D2 Name="mBurst_Radius_Far" StringValue="50"/>
+      <D2 Name="mApproachWaitBaseSpeedComeUnderRate" StringValue="0.01"/>
+      <D2 Name="mBurst_PaintR" StringValue="30"/>
+      <D1 Name="mCoopBurst_Damage_Far" StringValue="150"/>
+      <D2 Name="mCrossPaintRayLength" StringValue="30"/>
+      <D2 Name="mOccurOffset" StringValue="5"/>
+      <D2 Name="mPaintGauge_JumpGnd_Shooting" StringValue="0"/>
+      <D2 Name="mTargetInCircleRadius" StringValue="140"/>
+      <D2 Name="mRiseMinHeightAddLockOn" StringValue="0"/>
+      <D2 Name="mPlayerTargetRandomOffsetXZ" StringValue="40"/>
+      <D2 Name="mCoopCrossPaintRayLength" StringValue="30"/>
+      <D2 Name="mPlayerTargetEffectDegree" StringValue="90"/>
+    </C1>
+  </C1>
+</Root>

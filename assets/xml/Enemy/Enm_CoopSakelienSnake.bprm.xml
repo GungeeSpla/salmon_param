@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="ActorParams">
+      <D1 Name="mChainIntervalFrame" StringValue="20"/>
+      <D2 Name="mRotSpeedAcc" StringValue="0.002"/>
+      <C1 Name="mRailFollowableParams">
+        <D2 Name="mDetectJamDistance" StringValue="20"/>
+        <D2 Name="mSlowDownRateInJam" StringValue="0.1"/>
+        <D0 Name="mIsUseIsochronous" StringValue="False"/>
+      </C1>
+      <D2 Name="mMoveSpeedCoefSink" StringValue="0.7"/>
+      <D0 Name="mIsEnablePassClosePath" StringValue="False"/>
+      <D2 Name="mTurnDecCoef" StringValue="0.5"/>
+      <D2 Name="mActionSpeedMax" StringValue="3"/>
+      <D2 Name="mGndColOffsetY" StringValue="0"/>
+      <C1 Name="mWaveMovableParams">
+        <D2 Name="mWaveRadiusMin" StringValue="5"/>
+        <D2 Name="mWaveRadiusMax" StringValue="5"/>
+        <D1 Name="mWaveTimeMin" StringValue="50"/>
+        <D1 Name="mWaveTimeMax" StringValue="100"/>
+      </C1>
+      <D1 Name="mChainNums" StringValue="13"/>
+      <D2 Name="mHeadKnockBack" StringValue="3"/>
+      <C0 Name="mSuperMissileTargetPosOffset">
+        <D2 StringValue="0"/>
+        <D2 StringValue="0"/>
+        <D2 StringValue="0"/>
+      </C0>
+      <D2 Name="mHeadRotDegMaxAxisY" StringValue="75"/>
+      <D0 Name="mCheckKeepOutE" StringValue="False"/>
+      <D0 Name="mIsDroppable" StringValue="False"/>
+      <D0 Name="mmLifeCure" StringValue="False"/>
+      <D2 Name="mHeadRotDegMaxAxisX" StringValue="35"/>
+      <D2 Name="mBodyKnockBack" StringValue="2"/>
+      <C1 Name="mSearchableParams">
+        <A0 Name="40071f38" StringValue="cPathDistance"/>
+        <D0 Name="mIsCheckCol" StringValue="False"/>
+      </C1>
+      <A0 Name="73ace438" StringValue="cRate"/>
+      <D2 Name="mOffsetY_InWater" StringValue="-10"/>
+      <C1 Name="mPathPlannableParams">
+        <D0 Name="mEnableCoopAreaKeepOut" StringValue="False"/>
+        <D2 Name="mReachDistanceXZ" StringValue="20"/>
+        <D2 Name="mReachDistanceY" StringValue="20"/>
+        <D0 Name="mEnableReachTarget" StringValue="True"/>
+      </C1>
+      <D1 Name="mLife" StringValue="5000"/>
+      <C0 Name="mAirBallPosOffset">
+        <D2 StringValue="0"/>
+        <D2 StringValue="40"/>
+        <D2 StringValue="0"/>
+      </C0>
+      <D2 Name="mRotSpeed" StringValue="0.03"/>
+      <D2 Name="mRotInterpRatio" StringValue="0.15"/>
+      <D2 Name="mDiePaintRadius" StringValue="80"/>
+      <D1 Name="mBodyDamage" StringValue="500"/>
+      <D2 Name="mTrackPaintableOffsetZ" StringValue="-10"/>
+      <C1 Name="mEnemyPhysicsParams">
+        <C1 Name="mObjColCapsuleParams">
+          <C1 Name="mObjColCapsuleParams[0]">
+            <A0 Name="mArmorType" StringValue="cZakoEnemy"/>
+            <D2 Name="mHeight" StringValue="0"/>
+            <C0 Name="mOffset">
+              <D2 StringValue="0"/>
+              <D2 StringValue="15"/>
+              <D2 StringValue="-12.5"/>
+            </C0>
+            <C0 Name="mRotate">
+              <D2 StringValue="0"/>
+              <D2 StringValue="0"/>
+              <D2 StringValue="0"/>
+            </C0>
+            <D2 Name="mRadius" StringValue="15"/>
+            <A0 Name="mNodeName" StringValue=""/>
+            <D0 Name="mIsBombBreak" StringValue="False"/>
+          </C1>
+        </C1>
+        <D2 Name="mGndColRadius" StringValue="10"/>
+        <D0 Name="mIsKeepoutEReject" StringValue="True"/>
+        <D0 Name="mIsKeepoutE2Reject" StringValue="True"/>
+        <C0 Name="mGndColOffset">
+          <D2 StringValue="0"/>
+          <D2 StringValue="0"/>
+          <D2 StringValue="0"/>
+        </C0>
+      </C1>
+      <D2 Name="mDieSplashRadiusBody" StringValue="50"/>
+      <D1 Name="mmLifeCurePerSecond" StringValue="100"/>
+      <D2 Name="mKnockbackRollerCore" StringValue="1"/>
+      <C1 Name="mBodyOffsetY">
+        <D2 Name="10966404" StringValue="42"/>
+        <D2 Name="14645312" StringValue="27"/>
+        <D2 Name="2a9c0574" StringValue="38"/>
+        <D2 Name="405bf5b7" StringValue="43"/>
+        <D2 Name="59acf219" StringValue="35"/>
+        <D2 Name="5d5ec50f" StringValue="46"/>
+        <D2 Name="8b072612" StringValue="46"/>
+        <D2 Name="92f021bc" StringValue="32"/>
+        <D2 Name="960216aa" StringValue="47"/>
+        <D2 Name="c6cf8719" StringValue="40"/>
+        <D2 Name="d9354bc" StringValue="35"/>
+        <D2 Name="dbcab7a1" StringValue="44"/>
+        <D2 Name="e1c0d6d1" StringValue="40"/>
+      </C1>
+      <D2 Name="mTrackPaintableRadius" StringValue="32"/>
+      <D2 Name="mScale" StringValue="1"/>
+      <D2 Name="mWeight" StringValue="1"/>
+      <D2 Name="mDieSplashRadius" StringValue="100"/>
+      <D2 Name="mMonitorHalfSize" StringValue="10"/>
+      <D2 Name="mSearchBombSearchPosOffsetY" StringValue="0"/>
+      <D2 Name="mFootPaintCheckThreshold" StringValue="0.33"/>
+    </C1>
+  </C1>
+</Root>

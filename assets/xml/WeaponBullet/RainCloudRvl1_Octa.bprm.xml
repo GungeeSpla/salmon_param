@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D2 Name="mKnockBackCoreImpact" StringValue="3"/>
+      <D1 Name="mRainAreaMoveWaitFrame" StringValue="30"/>
+      <D2 Name="mRainAreaMoveSpeed" StringValue="0.6"/>
+      <D1 Name="mRainAreaFrame" StringValue="480"/>
+      <D0 Name="mKnockBackNoBarrierOff" StringValue="True"/>
+      <D1 Name="mPaintGauge_SpecialFrm" StringValue="600"/>
+      <D2 Name="mKnockBackKb" StringValue="0.8"/>
+      <D2 Name="mRainDropsAirResist" StringValue="0.07"/>
+      <D2 Name="mRainAreaHeight" StringValue="300"/>
+      <D1 Name="mRainDropsTotalNum" StringValue="192"/>
+      <D1 Name="mNoPaintRainDropsTotalNum" StringValue="120"/>
+      <D2 Name="mRainDropsGravity" StringValue="0.2"/>
+      <D2 Name="mShape_SphereR" StringValue="2"/>
+      <D2 Name="mFly_RotKd" StringValue="0.98015"/>
+      <D2 Name="mFly_InitPit" StringValue="0.4"/>
+      <D2 Name="mRainDropsCollisionRadius" StringValue="2.5"/>
+      <D2 Name="mBringCloseRateMoveVec" StringValue="0.7"/>
+      <D2 Name="mFly_InitRol" StringValue="0.12"/>
+      <D2 Name="mKnockBackRadius" StringValue="85"/>
+      <D2 Name="mEffectShakeRange" StringValue="0"/>
+      <D2 Name="mFly_Gravity" StringValue="0.16"/>
+      <D1 Name="mRainAreaSpreadHeightWaitFrame" StringValue="0"/>
+      <D1 Name="mPaintGauge_PointFull" StringValue="180"/>
+      <D2 Name="mRiseHeight" StringValue="200"/>
+      <D2 Name="mRiseRotateMaxDegPerFrame" StringValue="-30"/>
+      <D1 Name="mRainAreaFrameHigh" StringValue="600"/>
+      <D2 Name="mShape_SphereD" StringValue="5"/>
+      <D1 Name="mRainWaitFrame" StringValue="15"/>
+      <D1 Name="mRiseFrame" StringValue="45"/>
+      <D1 Name="mRainAreaFrameMid" StringValue="540"/>
+      <D2 Name="mRainDropsPaintRadius" StringValue="20.25"/>
+      <D2 Name="mRainAreaRadius" StringValue="90"/>
+      <D2 Name="mBringCloseRateCrossVec" StringValue="0.7"/>
+      <D1 Name="mRainAreaDamagePerFrame" StringValue="4"/>
+      <D1 Name="mRiseRotateMaxDegArriveFrame" StringValue="9"/>
+      <D2 Name="mFly_RotI" StringValue="20"/>
+      <D2 Name="mFly_VelKd" StringValue="0.941337"/>
+    </C1>
+  </C1>
+</Root>

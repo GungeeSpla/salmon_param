@@ -1,0 +1,32 @@
+{
+  "mSinkableParams": {
+    "mSpringK": 0.05,
+    "mSpringEnable": true,
+    "mSpringDamp": 0.95,
+    "mSinkAcc": 0.05,
+    "mOfstMax": -4,
+    "mSinkSpeed": 1
+  },
+  "mDamageEffectableParams": {
+    "mFactor": 0.3,
+    "mStartInterval": 5
+  },
+  "Unknown": {
+    "None": [
+      12,
+      12,
+      15,
+      15
+    ],
+    "Walk01": 25,
+    "Attack01": 0,
+    "Attack00": 0,
+    "Walk00": 25,
+    "Landing": -1,
+    "Wait00": 15,
+    "Wallow": 15,
+    "RushWalk": -1,
+    "e91673a8": 30,
+    "mDefaultValue": 9
+  }
+}

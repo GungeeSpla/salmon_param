@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D2 Name="mNoPlaceDistance" StringValue="8"/>
+      <D2 Name="mConveyerRadius" StringValue="5"/>
+      <D1 Name="mWarpDestroyDamage" StringValue="10000"/>
+      <D1 Name="mMaxHp" StringValue="1200"/>
+      <D2 Name="mObjectDamageRateHigh" StringValue="10"/>
+      <D2 Name="mColHeight" StringValue="15"/>
+      <D1 Name="mDestroyWaitFrame" StringValue="0"/>
+      <D1 Name="mWarpDestroyWaitFrame" StringValue="5"/>
+      <D2 Name="mPaintRadius" StringValue="10"/>
+      <D2 Name="mObjectDamageRateMid" StringValue="10"/>
+      <D2 Name="mColRadius" StringValue="5"/>
+      <D2 Name="mSubRt_Effect_JumpTime_Save" StringValue="1"/>
+      <D2 Name="mInkConsume" StringValue="0.75"/>
+      <D1 Name="mImmediateDestroyDamageThreshold" StringValue="99900"/>
+      <D2 Name="mGndColOnMovingObj_OffsetY" StringValue="3"/>
+      <D2 Name="mThermalDistance" StringValue="-1"/>
+      <D2 Name="mGndColOnMovingObj_Radius" StringValue="3"/>
+      <D1 Name="mWarpDestroyDamageThreshold" StringValue="9900"/>
+      <D2 Name="mMapFoundDistance" StringValue="150"/>
+      <D1 Name="mImmediateDestroyDamage" StringValue="99999"/>
+    </C1>
+  </C1>
+</Root>

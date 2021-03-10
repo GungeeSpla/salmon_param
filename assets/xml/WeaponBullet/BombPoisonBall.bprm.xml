@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D0 Name="mThroughWall" StringValue="True"/>
+      <D2 Name="mShape_SphereR" StringValue="2"/>
+      <D2 Name="mFly_RotKd" StringValue="0.98015"/>
+      <D2 Name="mFly_InitPit" StringValue="0.4"/>
+      <D2 Name="mBringCloseRateMoveVec" StringValue="0.7"/>
+      <D2 Name="mBurst_Radius_Near" StringValue="45"/>
+      <D2 Name="mFly_InitRol" StringValue="0.12"/>
+      <D2 Name="mEffectShakeRange" StringValue="0"/>
+      <D2 Name="mFly_Gravity" StringValue="0.16"/>
+      <D2 Name="mInkConsume" StringValue="0.5"/>
+      <D2 Name="ace95469" StringValue="2"/>
+      <D2 Name="mShape_SphereD" StringValue="5"/>
+      <D2 Name="mBringCloseRateCrossVec" StringValue="0.7"/>
+      <D2 Name="mFly_RotI" StringValue="20"/>
+      <D2 Name="mFly_VelKd" StringValue="0.941337"/>
+      <D1 Name="mPoisonFrame" StringValue="300"/>
+    </C1>
+  </C1>
+</Root>

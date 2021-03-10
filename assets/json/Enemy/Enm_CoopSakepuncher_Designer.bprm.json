@@ -1,0 +1,23 @@
+{
+  "mDamageEffectableParams": {
+    "mFactor": 0.1,
+    "mStartInterval": 5
+  },
+  "Unknown": {
+    "VacuumEx": -1,
+    "None": [
+      1,
+      -1,
+      -1
+    ],
+    "Damage": -1,
+    "AttackSt": -1,
+    "Ready": -1,
+    "Appear": -1,
+    "Attack": -1,
+    "AttackEnd": -1,
+    "Wait00": -1,
+    "mDefaultValue": 20,
+    "f6ea27eb": 1
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "mLostIkuraIntervalSecond": 3,
+  "mParabolaOffsetY": 0,
+  "mGndColOffsetY": 0,
+  "mCheckKeepOutE": false,
+  "mExplodeRadiusFar": 60,
+  "mmLifeCure": false,
+  "None": 1,
+  "mSearchableParams": {
+    "None": "cPathDistance",
+    "mIsCheckCol": false
+  },
+  "mExplodePaintRadius": 60,
+  "mOffsetY_InWater": -10,
+  "mPathPlannableParams": {
+    "mReachDistanceXZ": 20,
+    "mReachDistanceY": 20
+  },
+  "mLife": 1000,
+  "mDropIkuraNum": 6,
+  "mDiePaintRadius": 80,
+  "mEnemyPhysicsParams": {
+    "mObjColCapsuleParams": {
+      "Unknown": {
+        "mArmorType": "cZakoEnemy",
+        "mHeight": 0,
+        "mRadius": 30,
+        "mNodeName": "",
+        "mOffset": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "mGndColRadius": 16,
+    "mIsKeepoutEReject": false
+  },
+  "mExplodeDamageRadiusNear": 1000,
+  "mExplodeDamageRadiusMiddle": 1000,
+  "mExplodeDamageRadiusFar": 1000,
+  "mmLifeCurePerSecond": 100,
+  "mExplodeRadiusNear": 30,
+  "mExplodeRadiusMiddle": 45,
+  "mLostIkuraNum": 1,
+  "mScale": 1,
+  "mWeight": 1,
+  "mSearchBombSearchPosOffsetY": 0,
+  "mFootPaintCheckThreshold": 0.33,
+  "mSuperMissileTargetPosOffset": [
+    0,
+    0,
+    0
+  ],
+  "mAirBallPosOffset": [
+    0,
+    40,
+    0
+  ]
+}

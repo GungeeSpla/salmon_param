@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="DesignerParams">
+      <C1 Name="mSinkableParams">
+        <D2 Name="mSpringK" StringValue="0.05"/>
+        <D0 Name="mSpringEnable" StringValue="True"/>
+        <D2 Name="mSpringDamp" StringValue="0.95"/>
+        <D2 Name="mSinkAcc" StringValue="0.05"/>
+        <D2 Name="mOfstMax" StringValue="-4"/>
+        <D2 Name="mSinkSpeed" StringValue="1"/>
+      </C1>
+      <C1 Name="mDamageEffectableParams">
+        <D2 Name="mFactor" StringValue="0.3"/>
+        <D1 Name="mStartInterval" StringValue="5"/>
+      </C1>
+      <C1 Name="88c97505">
+        <D2 Name="4e0ee782" StringValue="12"/>
+        <D2 Name="Walk01" StringValue="25"/>
+        <D2 Name="Attack01" StringValue="0"/>
+        <D2 Name="Attack00" StringValue="0"/>
+        <D2 Name="Walk00" StringValue="25"/>
+        <D2 Name="736ece32" StringValue="12"/>
+        <D2 Name="Landing" StringValue="-1"/>
+        <D2 Name="7f6e23a1" StringValue="15"/>
+        <D2 Name="8a03841d" StringValue="15"/>
+        <D2 Name="Wait00" StringValue="15"/>
+        <D2 Name="Wallow" StringValue="15"/>
+        <D2 Name="RushWalk" StringValue="-1"/>
+        <D2 Name="e91673a8" StringValue="30"/>
+        <D2 Name="mDefaultValue" StringValue="9"/>
+      </C1>
+    </C1>
+  </C1>
+</Root>

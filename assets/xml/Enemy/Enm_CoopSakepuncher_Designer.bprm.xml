@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="DesignerParams">
+      <C1 Name="mDamageEffectableParams">
+        <D2 Name="mFactor" StringValue="0.1"/>
+        <D1 Name="mStartInterval" StringValue="5"/>
+      </C1>
+      <C1 Name="691b47c5">
+        <D2 Name="VacuumEx" StringValue="-1"/>
+        <D2 Name="1bf9c3a" StringValue="1"/>
+        <D2 Name="Damage" StringValue="-1"/>
+        <D2 Name="AttackSt" StringValue="-1"/>
+        <D2 Name="Ready" StringValue="-1"/>
+        <D2 Name="Appear" StringValue="-1"/>
+        <D2 Name="Attack" StringValue="-1"/>
+        <D2 Name="7f9c2e52" StringValue="-1"/>
+        <D2 Name="9919a62a" StringValue="-1"/>
+        <D2 Name="AttackEnd" StringValue="-1"/>
+        <D2 Name="Wait00" StringValue="-1"/>
+        <D2 Name="mDefaultValue" StringValue="20"/>
+        <D2 Name="f6ea27eb" StringValue="1"/>
+      </C1>
+    </C1>
+  </C1>
+</Root>

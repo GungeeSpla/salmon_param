@@ -1,0 +1,18 @@
+{
+  "mThroughWall": true,
+  "mShape_SphereR": 2,
+  "mFly_RotKd": 0.98015,
+  "mFly_InitPit": 0.4,
+  "mBringCloseRateMoveVec": 0.7,
+  "mBurst_Radius_Near": 45,
+  "mFly_InitRol": 0.12,
+  "mEffectShakeRange": 0,
+  "mFly_Gravity": 0.16,
+  "mInkConsume": 0.5,
+  "ace95469": 2,
+  "mShape_SphereD": 5,
+  "mBringCloseRateCrossVec": 0.7,
+  "mFly_RotI": 20,
+  "mFly_VelKd": 0.941337,
+  "mPoisonFrame": 300
+}

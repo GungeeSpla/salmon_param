@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D2 Name="mSplashColRadius" StringValue="1.5"/>
+      <D2 Name="mCreateSplashLength" StringValue="100"/>
+      <D2 Name="mSplashPaintRadius" StringValue="13.2"/>
+      <D2 Name="mCoopInkConsume" StringValue="0"/>
+      <D1 Name="mDegJumpBiasStartFrame" StringValue="0"/>
+      <D1 Name="mDamageMax" StringValue="200"/>
+      <D1 Name="mDamageMin" StringValue="200"/>
+      <D1 Name="mTripleShotSpan" StringValue="0"/>
+      <D2 Name="mStraightStateEndSpeed" StringValue="50"/>
+      <D1 Name="mDamageReduceStartFrame" StringValue="-1"/>
+      <D2 Name="mInitVel" StringValue="10"/>
+      <D1 Name="mRepeatFrame" StringValue="1"/>
+      <D2 Name="mPaintFarRadius" StringValue="7.5"/>
+      <D2 Name="mKnockBack" StringValue="0"/>
+      <D1 Name="mInkRecoverStop" StringValue="40"/>
+      <D2 Name="mDegBiasDecrease" StringValue="0.01"/>
+      <D1 Name="mGuideCheckCollisionFrame" StringValue="1"/>
+      <D1 Name="mVariableShotFrame" StringValue="0"/>
+      <D2 Name="mMoveSpeed" StringValue="0.7"/>
+      <D2 Name="mDegJumpBias" StringValue="0.3"/>
+      <D2 Name="mDegJumpRandom" StringValue="0"/>
+      <D2 Name="mNearestSplahSplitLength" StringValue="0"/>
+      <D2 Name="mPaintFarDistance" StringValue="50"/>
+      <D1 Name="mDamageReduceEndFrame" StringValue="99"/>
+      <D2 Name="mSplashDrawRadius" StringValue="0.2"/>
+      <D1 Name="mDegJumpBiasFrame" StringValue="45"/>
+      <D2 Name="mSplashMinScaleHighest" StringValue="100"/>
+      <D2 Name="mColRadius" StringValue="2"/>
+      <D2 Name="mPaintNearDistance" StringValue="15"/>
+      <D1 Name="mForceDropNearestSplashAddNum" StringValue="0"/>
+      <D2 Name="mInkConsume" StringValue="0"/>
+      <D1 Name="mSplashSplitNum" StringValue="3"/>
+      <D2 Name="mDegBias" StringValue="0.3"/>
+      <D2 Name="mPaintNearRadius" StringValue="15"/>
+      <D1 Name="mBurstAimMoveFrm" StringValue="0"/>
+      <D2 Name="mDegBiasMin" StringValue="0.1"/>
+      <D2 Name="mDegBiasKf" StringValue="0.02"/>
+      <D2 Name="mDegRandom" StringValue="0"/>
+      <D1 Name="mStraightFrame" StringValue="11"/>
+      <D2 Name="mSplashMaxScaleHighest" StringValue="30"/>
+      <D2 Name="mDrawRadius" StringValue="2"/>
+      <D2 Name="mCreateSplashNum" StringValue="3"/>
+      <D2 Name="mSplashMinScaleClamp" StringValue="1.2"/>
+      <D0 Name="mAutoShot" StringValue="True"/>
+      <D1 Name="mCoopDamageMax" StringValue="200"/>
+      <D2 Name="mNearestSplashPaintRadiusTimes" StringValue="1.2"/>
+      <D2 Name="mSplashMaxScaleClamp" StringValue="1.2"/>
+      <D1 Name="mCoopDamageMin" StringValue="200"/>
+    </C1>
+  </C1>
+</Root>

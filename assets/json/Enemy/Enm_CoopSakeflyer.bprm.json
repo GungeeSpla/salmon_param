@@ -1,0 +1,68 @@
+{
+  "mSplashColRadius": 2,
+  "mBombDamageRadius": 70,
+  "mSplashPaintRadius": 6,
+  "mGoRailSpeedCoef": 2,
+  "mCrossPaintRadius": 30,
+  "mGndColOffsetY": 0,
+  "mSplashPitH": 60,
+  "mSplashOffsetY": 5,
+  "mSplashVelL": 2,
+  "mCheckKeepOutE": false,
+  "mmLifeCure": false,
+  "None": 1,
+  "mSearchableParams": {
+    "None": "cPathDistance",
+    "mIsCheckCol": false
+  },
+  "mSplashDrawRadius": 3,
+  "mOffsetY_InWater": -10,
+  "mBombDamage": 9000,
+  "mCrossPaintRayRadius": 1,
+  "mPathPlannableParams": {
+    "mReachDistanceXZ": 20,
+    "mReachDistanceY": 20
+  },
+  "mLife": 2500,
+  "mBombPaintRadius": 100,
+  "mDiePaintRadius": 80,
+  "mSplashVelH": 4,
+  "mEnemyPhysicsParams": {
+    "mObjColCapsuleParams": {
+      "Unknown": {
+        "mArmorType": "cZakoEnemy",
+        "mHeight": 0,
+        "mRadius": 10,
+        "mNodeName": "",
+        "mOffset": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "mGndColRadius": 5,
+    "mIsKeepoutEReject": false
+  },
+  "mSplashPitL": 15,
+  "mCloudPutFrame": 140,
+  "mmLifeCurePerSecond": 100,
+  "mFallSpeedMax": 2,
+  "mSplashNum": 15,
+  "mScale": 0.7,
+  "mWeight": 1,
+  "mCrossPaintRayLength": 60,
+  "mSearchBombSearchPosOffsetY": 0,
+  "mFootPaintCheckThreshold": 0.33,
+  "mCloudPutInterval": 300,
+  "mSuperMissileTargetPosOffset": [
+    0,
+    0,
+    0
+  ],
+  "mAirBallPosOffset": [
+    0,
+    40,
+    0
+  ]
+}

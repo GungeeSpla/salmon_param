@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D2 Name="mBurst_SplashPaintR" StringValue="7"/>
+      <D2 Name="mBurst_SplashVelL" StringValue="5.2"/>
+      <D2 Name="mBurst_KnockBackCoreImpact" StringValue="2"/>
+      <D1 Name="mBurst_SplashNum" StringValue="10"/>
+      <D2 Name="mBurst_SplashOfstY" StringValue="3"/>
+      <D2 Name="mCrossPaintRadius" StringValue="14"/>
+      <D2 Name="mBurst_SplashPitH" StringValue="30"/>
+      <D2 Name="mBurst_Radius_Middle" StringValue="32"/>
+      <D1 Name="mBurst_Damage_Far" StringValue="250"/>
+      <D2 Name="mShape_SphereR" StringValue="2"/>
+      <D1 Name="mBurst_Damage_Near" StringValue="350"/>
+      <D2 Name="mFly_RotKd" StringValue="0.98015"/>
+      <D2 Name="mFly_InitPit" StringValue="0.4"/>
+      <D2 Name="mBringCloseRateMoveVec" StringValue="0.7"/>
+      <D2 Name="mBurst_Radius_Near" StringValue="32"/>
+      <D2 Name="mBurst_KnockBackKb" StringValue="0.8"/>
+      <D2 Name="mBurst_SplashAroundFuzzyRate" StringValue="2"/>
+      <D2 Name="mFly_InitRol" StringValue="0.12"/>
+      <D2 Name="mEffectShakeRange" StringValue="70"/>
+      <D2 Name="mFly_Gravity" StringValue="0.16"/>
+      <D1 Name="mBombDamage" StringValue="250"/>
+      <D2 Name="mCrossPaintRayRadius" StringValue="1"/>
+      <D2 Name="mInkConsume" StringValue="0.4"/>
+      <D2 Name="mBurst_KnockBackRadius" StringValue="80"/>
+      <D2 Name="mShape_SphereD" StringValue="5"/>
+      <D2 Name="mBurst_SplashPitL" StringValue="5"/>
+      <D2 Name="mBurst_SplashVelH" StringValue="3.5"/>
+      <D1 Name="mBurst_Damage_Middle" StringValue="350"/>
+      <D2 Name="mBringCloseRateCrossVec" StringValue="0.7"/>
+      <D2 Name="mBurst_Radius_Far" StringValue="40"/>
+      <D2 Name="mBurst_PaintR" StringValue="40"/>
+      <D2 Name="mCrossPaintRayLength" StringValue="14"/>
+      <D2 Name="mFly_RotI" StringValue="20"/>
+      <D2 Name="mFly_VelKd" StringValue="0.941337"/>
+    </C1>
+  </C1>
+</Root>

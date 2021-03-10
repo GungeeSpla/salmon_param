@@ -1,0 +1,14 @@
+{
+  "mSpeedL": 9.5,
+  "mPaintGauge_SpecialFrm": 360,
+  "mShotSpanFrm": 30,
+  "mChargeFrmH": 20,
+  "mUnrelaxFrmNoBomb": 60,
+  "mDelayFrm_Squid": 10,
+  "mPaintGauge_SpecialFrmH": 480,
+  "mPaintGauge_PointFull": 180,
+  "mSpeedB": 0.5,
+  "mChargeFrmL": 0,
+  "mPaintGauge_SpecialFrmM": 420,
+  "mSpeedH": 18
+}

@@ -1,0 +1,22 @@
+{
+  "mNoPlaceDistance": 8,
+  "mConveyerRadius": 5,
+  "mWarpDestroyDamage": 10000,
+  "mMaxHp": 1200,
+  "mObjectDamageRateHigh": 10,
+  "mColHeight": 15,
+  "mDestroyWaitFrame": 0,
+  "mWarpDestroyWaitFrame": 5,
+  "mPaintRadius": 10,
+  "mObjectDamageRateMid": 10,
+  "mColRadius": 5,
+  "mSubRt_Effect_JumpTime_Save": 1,
+  "mInkConsume": 0.75,
+  "mImmediateDestroyDamageThreshold": 99900,
+  "mGndColOnMovingObj_OffsetY": 3,
+  "mThermalDistance": -1,
+  "mGndColOnMovingObj_Radius": 3,
+  "mWarpDestroyDamageThreshold": 9900,
+  "mMapFoundDistance": 150,
+  "mImmediateDestroyDamage": 99999
+}

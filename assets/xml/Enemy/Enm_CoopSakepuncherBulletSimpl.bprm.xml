@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="ActorParams">
+      <D2 Name="mParabolaOffsetY" StringValue="0"/>
+      <D0 Name="mIsEnablePassClosePath" StringValue="True"/>
+      <D2 Name="mActionSpeedMax" StringValue="3"/>
+      <D2 Name="mGndColOffsetY" StringValue="0"/>
+      <C0 Name="mSuperMissileTargetPosOffset">
+        <D2 StringValue="0"/>
+        <D2 StringValue="0"/>
+        <D2 StringValue="0"/>
+      </C0>
+      <D0 Name="mCheckKeepOutE" StringValue="False"/>
+      <D0 Name="mIsDroppable" StringValue="True"/>
+      <D2 Name="mExplodeRadiusFar" StringValue="120"/>
+      <D0 Name="mmLifeCure" StringValue="False"/>
+      <C1 Name="mSearchableParams">
+        <A0 Name="40071f38" StringValue="cPathDistance"/>
+        <D0 Name="mIsCheckCol" StringValue="False"/>
+      </C1>
+      <D2 Name="mExplodePaintRadius" StringValue="120"/>
+      <D2 Name="mOffsetY_InWater" StringValue="-10"/>
+      <C1 Name="mPathPlannableParams">
+        <D0 Name="mEnableCoopAreaKeepOut" StringValue="False"/>
+        <D2 Name="mReachDistanceXZ" StringValue="20"/>
+        <D2 Name="mReachDistanceY" StringValue="20"/>
+        <D0 Name="mEnableReachTarget" StringValue="True"/>
+      </C1>
+      <D1 Name="mLife" StringValue="500"/>
+      <C0 Name="mAirBallPosOffset">
+        <D2 StringValue="0"/>
+        <D2 StringValue="40"/>
+        <D2 StringValue="0"/>
+      </C0>
+      <D2 Name="mDiePaintRadius" StringValue="80"/>
+      <C1 Name="mEnemyPhysicsParams">
+        <C1 Name="mObjColCapsuleParams">
+          <C1 Name="mObjColCapsuleParams[0]">
+            <A0 Name="mArmorType" StringValue="cZakoEnemy"/>
+            <D2 Name="mHeight" StringValue="20"/>
+            <C0 Name="mOffset">
+              <D2 StringValue="0"/>
+              <D2 StringValue="-15"/>
+              <D2 StringValue="0"/>
+            </C0>
+            <D0 Name="mUseOwnerMtx" StringValue="False"/>
+            <C0 Name="mRotate">
+              <D2 StringValue="0"/>
+              <D2 StringValue="0"/>
+              <D2 StringValue="0"/>
+            </C0>
+            <D2 Name="mRadius" StringValue="12.5"/>
+            <A0 Name="mNodeName" StringValue=""/>
+            <D0 Name="mIsBombBreak" StringValue="False"/>
+          </C1>
+        </C1>
+        <D2 Name="mGndColRadius" StringValue="8"/>
+        <D0 Name="mIsKeepoutEReject" StringValue="False"/>
+        <D0 Name="mIsKeepoutE2Reject" StringValue="False"/>
+        <C0 Name="mGndColOffset">
+          <D2 StringValue="0"/>
+          <D2 StringValue="-8"/>
+          <D2 StringValue="0"/>
+        </C0>
+      </C1>
+      <D1 Name="mExplodeDamageRadiusNear" StringValue="1000"/>
+      <D1 Name="mExplodeDamageRadiusMiddle" StringValue="800"/>
+      <D1 Name="mExplodeDamageRadiusFar" StringValue="500"/>
+      <D1 Name="mmLifeCurePerSecond" StringValue="100"/>
+      <D2 Name="mExplodeRadiusNear" StringValue="40"/>
+      <D2 Name="mKnockbackRollerCore" StringValue="1"/>
+      <D2 Name="mExplodeRadiusMiddle" StringValue="70"/>
+      <D2 Name="mScale" StringValue="1"/>
+      <D2 Name="mWeight" StringValue="1"/>
+      <D2 Name="mDieSplashRadius" StringValue="40"/>
+      <A0 Name="mAnimNameWaitSpawn" StringValue="Appear"/>
+      <D2 Name="mSearchBombSearchPosOffsetY" StringValue="0"/>
+      <D2 Name="mFootPaintCheckThreshold" StringValue="0.33"/>
+    </C1>
+  </C1>
+</Root>

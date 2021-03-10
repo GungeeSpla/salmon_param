@@ -1,0 +1,131 @@
+{
+  "mActionBuffer": {
+    "Unknown": [
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": 500,
+              "mAnimName": "Wait00",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 500,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "Wait",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 500,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": -1,
+              "mStrParamBuffer": 0,
+              "mStFrame": 0,
+              "mF32ParamBuffer": 0,
+              "mS32ParamBuffer": {
+                "None": 65
+              },
+              "mEventName": "BreakBarrier"
+            }
+          }
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": 500,
+              "mAnimName": "Fly",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 500,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "ShootFast",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 500,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": 1000,
+              "mAnimName": "Return",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 1000,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "Return",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 1000,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": [
+              {
+                "mEdFrame": 224,
+                "mAnimName": "Purge",
+                "mAnimStFrame": 0,
+                "mStFrame": 65,
+                "mAnimEdFrame": 159,
+                "mAnimSetIdx": 0
+              },
+              {
+                "mEdFrame": 65,
+                "mAnimName": "PurgeSt",
+                "mAnimStFrame": 0,
+                "mStFrame": 0,
+                "mAnimEdFrame": 65,
+                "mAnimSetIdx": 0
+              },
+              {
+                "mEdFrame": 500,
+                "mAnimName": "PurgeWait",
+                "mAnimStFrame": 0,
+                "mStFrame": 224,
+                "mAnimEdFrame": 276,
+                "mAnimSetIdx": 0
+              }
+            ]
+          }
+        },
+        "mName": "Purge",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 500,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      }
+    ]
+  }
+}

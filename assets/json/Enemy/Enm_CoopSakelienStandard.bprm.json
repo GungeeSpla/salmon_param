@@ -1,0 +1,111 @@
+{
+  "mAttackWaitFrame00": 40,
+  "mRotSpeedAcc": 0.0025,
+  "mKillIkuraEvtRush": 2,
+  "mAttackWaitFrame01": 40,
+  "mMoveSpeedCoefSink": 1,
+  "mAttackKnockbackRush": 2,
+  "mIsEnablePassClosePath": true,
+  "mActionSpeedMax": 1.5,
+  "mScaleWeapon": 1,
+  "mGndColOffsetY": 0,
+  "mWaveMovableParams": {
+    "mWaveRadiusMin": 5,
+    "mWaveRadiusMax": 10,
+    "mWaveTimeMin": 100,
+    "mWaveTimeMax": 150
+  },
+  "mHeadRotDegMaxAxisY": 75,
+  "mCheckKeepOutE": false,
+  "mHitWait": 50,
+  "mIsDroppable": true,
+  "mAppearJumpAcc_Geyser": {
+    "D2": [
+      0,
+      3.5,
+      1
+    ]
+  },
+  "mmLifeCure": false,
+  "mHeadRotDegMaxAxisX": 35,
+  "mSearchableParams": {
+    "None": "cPathDistance",
+    "mIsCheckCol": false
+  },
+  "mAttackArea_Radius": 50,
+  "None": "cRate",
+  "mAttackRotSpeedCoef": 1,
+  "mOffsetY_InWater": -19,
+  "mPathPlannableParams": {
+    "mEnableCoopAreaKeepOut": false,
+    "mReachDistanceXZ": 20,
+    "mReachDistanceY": 20,
+    "mEnableReachTarget": true
+  },
+  "mLife": 1000,
+  "mRotSpeed": 0.1,
+  "mRotInterpRatio": 0.15,
+  "mDiePaintRadius": 80,
+  "mTrackPaintableOffsetZ": -10,
+  "mEnemyPhysicsParams": {
+    "mObjColCapsuleParams": {
+      "Unknown": {
+        "mArmorType": "cZakoEnemy",
+        "mHeight": 8,
+        "mUseOwnerMtx": false,
+        "mRadius": 10,
+        "mNodeName": "",
+        "mIsBombBreak": false,
+        "mOffset": [
+          0,
+          4,
+          0
+        ],
+        "mRotate": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "mGndColRadius": 5,
+    "mIsKeepoutEReject": true,
+    "mIsKeepoutE2Reject": false,
+    "mGndColOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  "mAppearJumpAcc_Rally": {
+    "D2": [
+      0,
+      2,
+      1
+    ]
+  },
+  "mmLifeCurePerSecond": 100,
+  "mKnockbackRollerCore": 1,
+  "mTrackPaintableRadius": 24,
+  "mAttackArea_Height": 40,
+  "mAttackDamageRush": 400,
+  "mScale": 1,
+  "mHitIkuraEvtRush": 3,
+  "mWeight": 0.5,
+  "mDieSplashRadius": 50,
+  "mMonitorHalfSize": 10,
+  "mAnimNameWaitSpawn": "Wait00",
+  "mSearchBombSearchPosOffsetY": 0,
+  "mFootPaintCheckThreshold": 0.33,
+  "mAttackSpeedCoef": 1,
+  "mSuperMissileTargetPosOffset": [
+    0,
+    0,
+    0
+  ],
+  "mAirBallPosOffset": [
+    0,
+    40,
+    0
+  ]
+}

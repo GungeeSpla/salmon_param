@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D2 Name="mBurst_Offset" StringValue="10"/>
+      <D1 Name="mBurst_Damage_HalfSphereThresholdY" StringValue="-45"/>
+      <D2 Name="mBurst_KnockBackCoreImpact" StringValue="4.2"/>
+      <D1 Name="mPaintGauge_SpecialFrm" StringValue="480"/>
+      <D2 Name="mBurst_KnockBackRadius_SJ" StringValue="150"/>
+      <D1 Name="mBurst_Damage_Far_SJ" StringValue="400"/>
+      <D2 Name="mCrossPaintRadius" StringValue="40"/>
+      <D2 Name="mBurst_Radius_Middle" StringValue="100"/>
+      <D2 Name="mBurst_Landing_Height_SJ_H" StringValue="100"/>
+      <D2 Name="mBurst_Landing_AddHeight_SJ_High" StringValue="40"/>
+      <D2 Name="mBurst_KnockBackCoreImpact_SJ" StringValue="4.2"/>
+      <D2 Name="mCrossPaintRadius_SJ" StringValue="60"/>
+      <D1 Name="mBurst_Damage_Far" StringValue="400"/>
+      <D1 Name="mBurst_Damage_Near" StringValue="1800"/>
+      <D2 Name="mBurst_Radius_Middle_H" StringValue="125"/>
+      <D1 Name="mBurst_Damage_HalfSphereThresholdY_SJ" StringValue="-45"/>
+      <D2 Name="mBurst_Radius_Near_SJ_H" StringValue="90"/>
+      <D2 Name="mBurst_Radius_Far_H" StringValue="140"/>
+      <D2 Name="mBurst_Radius_Near" StringValue="70"/>
+      <D2 Name="mBurst_KnockBackKb" StringValue="0.5"/>
+      <D1 Name="mLand_NoDamageFrm" StringValue="30"/>
+      <D2 Name="mBurst_Radius_Far_SJ_H" StringValue="140"/>
+      <D2 Name="mBurst_Offset_SJ" StringValue="10"/>
+      <D2 Name="mBurst_Landing_AddHeight_Mid" StringValue="20"/>
+      <D2 Name="mCrossPaintRayLength_SJ" StringValue="60"/>
+      <D2 Name="mCrossPaintRayRadius" StringValue="1"/>
+      <D2 Name="mCrossPaintEllipticRate_SJ" StringValue="1"/>
+      <D1 Name="mBurst_Damage_Middle_SJ" StringValue="700"/>
+      <D2 Name="mBurst_Radius_Near_SJ" StringValue="90"/>
+      <D1 Name="mPaintGauge_PointFull" StringValue="180"/>
+      <D2 Name="mBurst_Landing_AddHeight_High" StringValue="40"/>
+      <D2 Name="mBurst_KnockBackKb_SJ" StringValue="0.5"/>
+      <D2 Name="mCrossPaintEllipticRate" StringValue="2"/>
+      <D2 Name="mBurst_PaintR_SJ" StringValue="120"/>
+      <D2 Name="mBurst_KnockBackRadius" StringValue="150"/>
+      <D2 Name="mBurst_Radius_Middle_SJ_H" StringValue="112.5"/>
+      <D1 Name="mBurst_Damage_Near_SJ" StringValue="1800"/>
+      <D2 Name="mBurst_Landing_Height_SJ" StringValue="20"/>
+      <D2 Name="mBurst_Landing_Height_H" StringValue="100"/>
+      <D2 Name="mBurst_Landing_AddHeight_SJ_Mid" StringValue="20"/>
+      <D2 Name="mBurst_Landing_Height" StringValue="20"/>
+      <D1 Name="mLand_MotionFrm" StringValue="10"/>
+      <D1 Name="mBurst_Damage_Middle" StringValue="700"/>
+      <D2 Name="mBurst_Radius_Far_SJ" StringValue="140"/>
+      <D2 Name="mCrossPaintRayRadius_SJ" StringValue="1"/>
+      <D2 Name="mBurst_Radius_Middle_SJ" StringValue="112.5"/>
+      <D2 Name="mBurst_Radius_Far" StringValue="140"/>
+      <D2 Name="mBurst_PaintR" StringValue="120"/>
+      <D2 Name="mCrossPaintRayLength" StringValue="60"/>
+      <D2 Name="mBurst_Radius_Near_H" StringValue="110"/>
+    </C1>
+  </C1>
+</Root>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D1 Name="mSideStepRepeatCnt" StringValue="2"/>
+      <D1 Name="mSideStepInkRecoverStop" StringValue="70"/>
+      <D1 Name="mSideStepUnrelaxFrmNoSideStep" StringValue="32"/>
+      <D2 Name="mSideStepPlayerColRadius" StringValue="2.5"/>
+      <D2 Name="mSideStepDropSplashBulletSpeed" StringValue="50"/>
+      <D2 Name="mCoopSideStepInkConsume" StringValue="0.06"/>
+      <D0 Name="mIsShootableInMove" StringValue="False"/>
+      <D2 Name="mSideStepSlideMoveDistGnd" StringValue="10"/>
+      <D2 Name="mSideStepOneMuzzleDamageRate_MWPUG_High" StringValue="1"/>
+      <D1 Name="mSideStepMoveFrm" StringValue="16"/>
+      <D1 Name="mSideStepOneMuzzleDamageMax" StringValue="0"/>
+      <D1 Name="mSideStepOneMuzzleDamageMin" StringValue="0"/>
+      <D2 Name="mSideStepOneMuzzleCreateSplashNum" StringValue="-1"/>
+      <D2 Name="mSideStepColRadius" StringValue="2"/>
+      <D2 Name="mSideStepOneMuzzleStraightStateEndSpeed" StringValue="-1"/>
+      <D2 Name="mSideStepMoveDist" StringValue="40"/>
+      <D2 Name="mSideStepOneMuzzleDamageRate_MWPUG_Mid" StringValue="1"/>
+      <D1 Name="mSideStepOneMuzzleDamage_MWPUG_Max" StringValue="0"/>
+      <D2 Name="mSideStepOneMuzzleCreateSplashLength" StringValue="0"/>
+      <D1 Name="mSideStepOneMuzzleRepeatFrame" StringValue="4"/>
+      <D1 Name="mSideStepUnrelaxFrmMove2" StringValue="32"/>
+      <D2 Name="mSideStepInkConsume" StringValue="0.09"/>
+      <D2 Name="mSideStepOneMuzzleInitVel" StringValue="-1"/>
+      <D1 Name="mSideStepUnrelaxFrmOneMuzzle2" StringValue="32"/>
+      <D1 Name="mSideStepUnrelaxFrmOneMuzzle" StringValue="32"/>
+      <D1 Name="mSideStepUnrelaxFrmNoSquid" StringValue="32"/>
+      <D0 Name="mSideStepCollisionSizeDifferent" StringValue="True"/>
+      <D2 Name="mSideStepDropSplashBulletPaintRadius" StringValue="18"/>
+      <D1 Name="mSideStepUnrelaxFrmNoWeapon" StringValue="4"/>
+      <D2 Name="mSideStepDropSplashBulletColRadius" StringValue="3"/>
+      <D1 Name="mSideStepChargeFrm" StringValue="4"/>
+      <D1 Name="mSideStepTimeScaleFrm" StringValue="7"/>
+      <D1 Name="mSideStepSlideMoveFrm" StringValue="50"/>
+      <D2 Name="mSideStepUnrelaxMoveJumpGnd" StringValue="0"/>
+      <D2 Name="mSideStepDropSplashBulletPaintDepthScaleRate" StringValue="2"/>
+      <D1 Name="mSideStepUnrelaxFrmMove" StringValue="32"/>
+      <D2 Name="mSideStepUnrelaxMoveVelGnd" StringValue="0"/>
+      <D1 Name="mSideStepInputReqAcceptFrm" StringValue="10"/>
+      <D1 Name="mSideStepUnrelaxFrmNoSquid2" StringValue="32"/>
+      <D2 Name="mSideStepSlideMoveDistAir" StringValue="10"/>
+      <D1 Name="mCoopSideStepOneMuzzleDamageMax" StringValue="0"/>
+      <D1 Name="mCoopSideStepOneMuzzleDamageMin" StringValue="0"/>
+      <D1 Name="mSideStepUnrelaxFrmNoSideStep2" StringValue="32"/>
+      <D1 Name="mSideStepUnrelaxFrmNoWeapon2" StringValue="4"/>
+      <D2 Name="mSideStepMoveStepKd" StringValue="0.95"/>
+      <D2 Name="mSideStepTimeScale" StringValue="3"/>
+      <D2 Name="mSideStepOneMuzzleDegRandom" StringValue="0"/>
+    </C1>
+  </C1>
+</Root>

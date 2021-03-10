@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D2 Name="mBurst_SplashPaintR" StringValue="8"/>
+      <D2 Name="mBurst_KnockBackCoreImpact_MaxCharge" StringValue="1.8"/>
+      <D2 Name="mBurst_Radius_Middle_MaxCharge" StringValue="50"/>
+      <D2 Name="mSplashColRadius" StringValue="1.5"/>
+      <D2 Name="mBomb_KnockBackRadius_MaxCharge" StringValue="110"/>
+      <D2 Name="mSplashPaintRadius" StringValue="15"/>
+      <D1 Name="mBurst_Damage_Middle_FullCharge" StringValue="400"/>
+      <D2 Name="mBurst_SplashVelL" StringValue="2.2"/>
+      <D2 Name="mSplashPaintRadius_MaxCharge" StringValue="20"/>
+      <D1 Name="mBurst_SplashNum_MaxCharge" StringValue="13"/>
+      <D2 Name="mPaintRadius" StringValue="16"/>
+      <D2 Name="mBurst_SplashPitL_FullCharge" StringValue="10"/>
+      <D2 Name="mHitWallSplashDistanceRate" StringValue="1.3333"/>
+      <D2 Name="mBurst_Radius_Far_FullCharge" StringValue="70"/>
+      <D2 Name="mBurst_SplashPaintR_MaxCharge" StringValue="10"/>
+      <D2 Name="mBurst_KnockBackCoreImpact" StringValue="1"/>
+      <D1 Name="mBurst_SplashNum" StringValue="10"/>
+      <D1 Name="mBurst_Damage_Near_MaxCharge" StringValue="0"/>
+      <D2 Name="mBurst_SplashOfstY" StringValue="5"/>
+      <D2 Name="mCrossPaintRadius" StringValue="30"/>
+      <D2 Name="mBurst_SplashPitH" StringValue="30"/>
+      <D2 Name="mBomb_KnockBackImpact" StringValue="0"/>
+      <D2 Name="mBurst_Radius_Middle" StringValue="30"/>
+      <D1 Name="mBurst_Damage_Near_FullCharge" StringValue="1800"/>
+      <D1 Name="mShotPostShotFrame_FullCharge" StringValue="30"/>
+      <D1 Name="mShotPostShotFrame_MaxCharge" StringValue="30"/>
+      <C0 Name="mInitVel">
+        <D2 StringValue="0"/>
+        <D2 StringValue="1.4"/>
+        <D2 StringValue="8"/>
+      </C0>
+      <D2 Name="mDropSplashOffset" StringValue="-20"/>
+      <D2 Name="mBomb_KnockBackKb" StringValue="0.5"/>
+      <D2 Name="mHitWallSplashArtificialSpeed" StringValue="20"/>
+      <D2 Name="mMoveSpeed" StringValue="0.6"/>
+      <D1 Name="mBurst_Damage_Far" StringValue="300"/>
+      <D1 Name="mFly_AirFrm" StringValue="4"/>
+      <D1 Name="mMinChargeFrame" StringValue="20"/>
+      <D2 Name="mShape_SphereR" StringValue="1.6"/>
+      <D2 Name="mDropSplashPaintRadius_MaxCharge" StringValue="20"/>
+      <D1 Name="mBurst_Damage_Near" StringValue="0"/>
+      <D1 Name="mBombDamage_FullCharge" StringValue="600"/>
+      <D2 Name="mBurst_SplashVelL_FullCharge" StringValue="4.5"/>
+      <D1 Name="mBombDamage_MaxCharge" StringValue="450"/>
+      <D1 Name="mBurst_SplashNum_FullCharge" StringValue="15"/>
+      <D2 Name="mBurst_KnockBackRadius_MaxCharge" StringValue="90"/>
+      <D2 Name="mFly_RotKd" StringValue="0.98015"/>
+      <D1 Name="mBurst_Damage_Far_MaxCharge" StringValue="300"/>
+      <D2 Name="mShotKnockBack_FullCharge" StringValue="1.2"/>
+      <D2 Name="mFly_InitPit" StringValue="0.4"/>
+      <D1 Name="mFreezeFrmFullCharge" StringValue="1"/>
+      <D2 Name="mShotKnockBack" StringValue="0.6"/>
+      <D2 Name="mBringCloseRateMoveVec" StringValue="0.7"/>
+      <D2 Name="mPaintRadius_FullCharge" StringValue="20"/>
+      <D2 Name="mSplashDrawRadius" StringValue="3"/>
+      <D2 Name="mJumpGnd" StringValue="0.7"/>
+      <D2 Name="mBurst_Radius_Near" StringValue="0"/>
+      <D2 Name="mBurst_KnockBackKb" StringValue="0.8"/>
+      <D2 Name="mBurst_SplashPitH_MaxCharge" StringValue="37"/>
+      <D2 Name="mBurst_SplashAroundFuzzyRate" StringValue="1"/>
+      <D1 Name="mHitWallSplashMaxNum" StringValue="2"/>
+      <D2 Name="mPlayerCollisionRadiusRate" StringValue="1.5"/>
+      <D2 Name="mFly_InitRol" StringValue="0.12"/>
+      <D2 Name="mDropSplashDrawRadius" StringValue="2"/>
+      <D1 Name="mMaxChargeFrame" StringValue="60"/>
+      <D2 Name="mBurst_KnockBackCoreImpact_FullCharge" StringValue="3"/>
+      <D2 Name="mBurst_SplashVelL_MaxCharge" StringValue="2.8"/>
+      <C0 Name="mInitVel_FullCharge">
+        <D2 StringValue="0"/>
+        <D2 StringValue="2.8"/>
+        <D2 StringValue="15"/>
+      </C0>
+      <D2 Name="mBomb_KnockBackImpact_FullCharge" StringValue="0"/>
+      <D2 Name="mEffectShakeRange" StringValue="100"/>
+      <D2 Name="mFly_Gravity" StringValue="0.16"/>
+      <D2 Name="mBurst_SplashVelH_FullCharge" StringValue="5.2"/>
+      <D2 Name="mBurst_SplashPitL_MaxCharge" StringValue="10"/>
+      <D1 Name="mBombDamage" StringValue="300"/>
+      <D2 Name="mCrossPaintRayRadius" StringValue="1"/>
+      <D2 Name="mBurst_Radius_Far_MaxCharge" StringValue="50"/>
+      <D1 Name="mBurst_Damage_Middle_MaxCharge" StringValue="300"/>
+      <D2 Name="mBomb_KnockBackRadius" StringValue="100"/>
+      <D1 Name="mShotPostShotFrame" StringValue="20"/>
+      <D2 Name="mShotKnockBack_AirBreakRt" StringValue="0.8"/>
+      <D2 Name="mShotKnockBack_MaxCharge" StringValue="0.9"/>
+      <D2 Name="mSplashPaintRadiusPileRate" StringValue="0.75"/>
+      <D2 Name="mDropSplashPaintRadius_FullCharge" StringValue="20"/>
+      <D2 Name="mBurst_KnockBackRadius" StringValue="60"/>
+      <D1 Name="mBurst_SeFrm" StringValue="10"/>
+      <D2 Name="mSplashPaintRadius_FullCharge" StringValue="20"/>
+      <D2 Name="mHitWallSplashMinusYRate" StringValue="0.45"/>
+      <D1 Name="mFreezeFrmMinCharge" StringValue="1"/>
+      <D2 Name="mWallCheckOffsetY" StringValue="4.5"/>
+      <C0 Name="mInitVel_MaxCharge">
+        <D2 StringValue="0"/>
+        <D2 StringValue="2.1"/>
+        <D2 StringValue="12"/>
+      </C0>
+      <D2 Name="mShape_SphereD" StringValue="0"/>
+      <D2 Name="mConveyer_Radius" StringValue="5"/>
+      <D1 Name="mHitWallSplashMaxNum_MaxCharge" StringValue="6"/>
+      <D1 Name="mHitWallSplashMaxNum_FullCharge" StringValue="6"/>
+      <D2 Name="mHitWallSplashBetweenLength" StringValue="12.5"/>
+      <D2 Name="mBurst_SplashPitL" StringValue="10"/>
+      <D2 Name="mBomb_KnockBackImpact_MaxCharge" StringValue="0"/>
+      <D2 Name="mBurst_PaintR_MaxCharge" StringValue="35"/>
+      <D1 Name="mBurst_WaitFrm" StringValue="10"/>
+      <D2 Name="mPlayerCollisionRadiusRate_FullCharge" StringValue="6"/>
+      <D2 Name="mBurst_SplashVelH" StringValue="3"/>
+      <D2 Name="mBurst_PaintR_FullCharge" StringValue="50"/>
+      <D2 Name="mBurst_KnockBackRadius_FullCharge" StringValue="120"/>
+      <D1 Name="mBurst_WarnFrm" StringValue="40"/>
+      <D1 Name="mBurst_Damage_Middle" StringValue="300"/>
+      <D2 Name="mDropSplashPaintRadius" StringValue="15"/>
+      <D2 Name="mVelGnd_DownRt" StringValue="0.2"/>
+      <D2 Name="mBomb_KnockBackRadius_FullCharge" StringValue="120"/>
+      <D2 Name="mCollisionSeVelDotGndNrm" StringValue="0.08"/>
+      <D2 Name="mBurst_SplashVelH_MaxCharge" StringValue="3.8"/>
+      <D2 Name="mBurst_Radius_Near_FullCharge" StringValue="50"/>
+      <D2 Name="mDropSplashColRadius" StringValue="2"/>
+      <D2 Name="mBomb_KnockBackDegree" StringValue="45"/>
+      <D2 Name="mVelGnd_Bias" StringValue="0.5"/>
+      <D2 Name="mBringCloseRateCrossVec" StringValue="0.7"/>
+      <D2 Name="mBurst_Radius_Far" StringValue="30"/>
+      <D2 Name="mSplashFirstRate" StringValue="0"/>
+      <D2 Name="mPlayerCollisionRadiusRate_MaxCharge" StringValue="3.5"/>
+      <D2 Name="mBurst_PaintR" StringValue="20"/>
+      <D1 Name="mBurst_Damage_Far_FullCharge" StringValue="400"/>
+      <D2 Name="mBurst_Radius_Middle_FullCharge" StringValue="70"/>
+      <D2 Name="mCrossPaintRayLength" StringValue="30"/>
+      <D2 Name="mShotKnockBack_StickDownRt" StringValue="5"/>
+      <D2 Name="mBurst_SplashPaintR_FullCharge" StringValue="12"/>
+      <D2 Name="mBurst_SplashPitH_FullCharge" StringValue="45"/>
+      <D2 Name="mBurst_Radius_Near_MaxCharge" StringValue="0"/>
+      <D2 Name="mFly_RotI" StringValue="20"/>
+      <D2 Name="mFly_VelKd" StringValue="0.941337"/>
+      <D2 Name="mPaintRadius_MaxCharge" StringValue="20"/>
+    </C1>
+  </C1>
+</Root>

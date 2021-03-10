@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D2 Name="mSpout_SplashVelH" StringValue="9"/>
+      <D2 Name="mConveyerRadius" StringValue="5"/>
+      <D1 Name="mMaxHp" StringValue="1000"/>
+      <D1 Name="mDestroyWaitFrame" StringValue="0"/>
+      <D2 Name="mPaintRadius" StringValue="10"/>
+      <D1 Name="mSpout_SplashDamage" StringValue="300"/>
+      <D2 Name="mSpout_SplashDegBias" StringValue="0.333"/>
+      <D2 Name="mShape_SphereR" StringValue="2"/>
+      <D2 Name="mFly_RotKd" StringValue="0.98015"/>
+      <D2 Name="mFly_InitPit" StringValue="0.4"/>
+      <D2 Name="mBringCloseRateMoveVec" StringValue="0.7"/>
+      <D2 Name="mSpout_RandomDeg" StringValue="2"/>
+      <D2 Name="mFly_InitRol" StringValue="0.12"/>
+      <D2 Name="mFly_Gravity" StringValue="0.16"/>
+      <D2 Name="mSpout_SplashDrawR" StringValue="4"/>
+      <D2 Name="mInkConsume" StringValue="0.8"/>
+      <D2 Name="mSpout_SplashPitL" StringValue="35"/>
+      <D1 Name="mSpout_RotateMaxSpeedFrame" StringValue="10"/>
+      <D2 Name="mSpout_RotateMaxSpeedDegree" StringValue="-1"/>
+      <D2 Name="mShape_SphereD" StringValue="5"/>
+      <D2 Name="mCol_Radius" StringValue="10"/>
+      <D2 Name="mCol_OffsetY" StringValue="5"/>
+      <D2 Name="mSpout_SplashCollisionR" StringValue="4"/>
+      <D2 Name="mSpout_SplashVelL" StringValue="3"/>
+      <D2 Name="mSpout_SplashPaintR" StringValue="18"/>
+      <D2 Name="mBringCloseRateCrossVec" StringValue="0.7"/>
+      <D1 Name="mSpout_Span" StringValue="5"/>
+      <D2 Name="mFly_RotI" StringValue="20"/>
+      <D2 Name="mFly_VelKd" StringValue="0.941337"/>
+      <D2 Name="mSpout_SplashPitH" StringValue="55"/>
+      <D1 Name="mSpout_WaitFrame" StringValue="60"/>
+    </C1>
+  </C1>
+</Root>

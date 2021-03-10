@@ -1,0 +1,136 @@
+{
+  "mActionBuffer": {
+    "Unknown": [
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": 30,
+              "mAnimName": "Appear",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 30,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "Appear",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 30,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": -1,
+              "mAnimName": "Wait00",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 1,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "Attack",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 1,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": 25,
+              "mAnimName": "Release",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 25,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "Put",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 25,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": {
+              "mEdFrame": 110,
+              "mAnimName": "ReleaseSt",
+              "mAnimStFrame": 0,
+              "mStFrame": 0,
+              "mAnimEdFrame": 110,
+              "mAnimSetIdx": 0
+            }
+          }
+        },
+        "mName": "PrePut",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 110,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      },
+      {
+        "mEvent": {
+          "mKeyBuffer": 0
+        },
+        "mAnim": {
+          "mKeyBuffer": {
+            "Unknown": [
+              {
+                "mEdFrame": -1,
+                "mAnimName": "ReleaseEndWait",
+                "mAnimStFrame": 0,
+                "mStFrame": 35,
+                "mAnimEdFrame": 1,
+                "mAnimSetIdx": 0
+              },
+              {
+                "mEdFrame": 35,
+                "mAnimName": "Release",
+                "mAnimStFrame": 25,
+                "mStFrame": 0,
+                "mAnimEdFrame": 60,
+                "mAnimSetIdx": 0
+              }
+            ]
+          }
+        },
+        "mName": "FlyUp",
+        "mNextFrame": 0,
+        "mTotalFrameNum": 120,
+        "mAttack": {
+          "mKeyBuffer": 0
+        },
+        "mNextName": ""
+      }
+    ]
+  }
+}

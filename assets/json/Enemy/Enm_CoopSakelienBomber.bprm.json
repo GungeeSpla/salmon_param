@@ -1,0 +1,163 @@
+{
+  "mRotSpeedAcc": 0.0005,
+  "mThrowVelocityNear": {
+    "D2": [
+      0,
+      3,
+      1.5
+    ]
+  },
+  "mMoveSpeedCoefSink": 1,
+  "mCrossPaintRadius": 60,
+  "mIsEnablePassClosePath": true,
+  "mActionSpeedMax": 3,
+  "mGndColOffsetY": 0,
+  "mShotRangeIn": 200,
+  "mGiveUpShotHeightOut": 70,
+  "mHeadRotDegMaxAxisY": 75,
+  "mCheckKeepOutE": false,
+  "mIsDroppable": true,
+  "mmLifeCure": false,
+  "mHeadRotDegMaxAxisX": 15,
+  "mSearchableParams": {
+    "None": "cEuqlidDistance",
+    "mIsCheckCol": false
+  },
+  "None": "cRate",
+  "mGiveUpShotHeightIn": 50,
+  "mDieBurstDamage": 5000,
+  "mDieBurstDamageRadius": 90,
+  "mAttackIntervalFrame": 120,
+  "mOffsetY_InWater": -10,
+  "mCrossPaintRayRadius": 1,
+  "mPathPlannableParams": {
+    "mEnableCoopAreaKeepOut": false,
+    "mReachDistanceXZ": 20,
+    "mReachDistanceY": 20,
+    "mEnableReachTarget": true
+  },
+  "mLife": 3000,
+  "mRotSpeed": 0.1,
+  "mRotInterpRatio": 0.15,
+  "mNearShotRange": 100,
+  "mDiePaintRadius": 80,
+  "mShotRangeOut": 250,
+  "mTrackPaintableOffsetZ": -10,
+  "mEnemyPhysicsParams": {
+    "mObjColCapsuleParams": {
+      "Unknown": [
+        {
+          "mArmorType": "cEnemyShield",
+          "mHeight": 0,
+          "mUseOwnerMtx": false,
+          "mRadius": 14,
+          "mNodeName": "Head2",
+          "mIsBombBreak": false,
+          "mOffset": [
+            0,
+            0,
+            10
+          ],
+          "mRotate": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mArmorType": "cZakoEnemy",
+          "mHeight": 0,
+          "mUseOwnerMtx": false,
+          "mRadius": 0,
+          "mNodeName": "",
+          "mIsBombBreak": false,
+          "mOffset": [
+            0,
+            0,
+            0
+          ],
+          "mRotate": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mArmorType": "cZakoEnemy",
+          "mHeight": 0,
+          "mUseOwnerMtx": false,
+          "mRadius": 10,
+          "mNodeName": "Weapon_In",
+          "mIsBombBreak": false,
+          "mOffset": [
+            0,
+            8,
+            0
+          ],
+          "mRotate": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mArmorType": "cEnemyShield",
+          "mHeight": 20,
+          "mUseOwnerMtx": false,
+          "mRadius": 16,
+          "mNodeName": "",
+          "mIsBombBreak": false,
+          "mOffset": [
+            0,
+            16,
+            0
+          ],
+          "mRotate": [
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    "mGndColRadius": 14,
+    "mIsKeepoutEReject": true,
+    "mIsKeepoutE2Reject": false,
+    "mGndColOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  "mThrowVelocityFar": {
+    "D2": [
+      0,
+      3,
+      4
+    ]
+  },
+  "mMinFrameNoAttack": 15,
+  "mmLifeCurePerSecond": 100,
+  "mKnockbackRollerCore": 1,
+  "mLifeBody": 10000,
+  "mTrackPaintableRadius": 32,
+  "mScale": 1,
+  "mWeight": 10,
+  "mDieSplashRadius": 0,
+  "mMonitorHalfSize": 10,
+  "mAnimNameWaitSpawn": "Wait00",
+  "mCrossPaintRayLength": 120,
+  "mSearchBombSearchPosOffsetY": 0,
+  "mFootPaintCheckThreshold": 0.33,
+  "mDieBurstPaintRadius": 100,
+  "mSuperMissileTargetPosOffset": [
+    0,
+    0,
+    0
+  ],
+  "mAirBallPosOffset": [
+    0,
+    40,
+    0
+  ]
+}

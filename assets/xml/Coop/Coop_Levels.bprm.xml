@@ -1,0 +1,995 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="CoopLevelsConfig">
+      <C0 Name="CoopLevelConfig">
+        <C1>
+          <C1 Name="mZakoAppearWeightArray">
+            <D1 Name="SakelienLarge" StringValue="2"/>
+            <D1 Name="SakelienSmall" StringValue="1"/>
+            <D1 Name="SakelienStandard" StringValue="10"/>
+          </C1>
+          <C0 Name="mWaveInterval[]">
+            <C1>
+              <D1 Name="mEnemyAppearInterval1stHalf" StringValue="30"/>
+              <D1 Name="mEnemyActiveMax2ndHalf" StringValue="5"/>
+              <D1 Name="mNormaGoldenIkuraNum" StringValue="2"/>
+              <D1 Name="mEnemyAppearInterval2ndHalf" StringValue="20"/>
+              <D1 Name="mEnemyActiveMax1stHalf" StringValue="3"/>
+              <D1 Name="mRareAppearNum" StringValue="3"/>
+            </C1>
+            <C1>
+              <D1 Name="mEnemyAppearInterval1stHalf" StringValue="30"/>
+              <D1 Name="mEnemyActiveMax2ndHalf" StringValue="5"/>
+              <D1 Name="mNormaGoldenIkuraNum" StringValue="3"/>
+              <D1 Name="mEnemyAppearInterval2ndHalf" StringValue="20"/>
+              <D1 Name="mEnemyActiveMax1stHalf" StringValue="3"/>
+              <D1 Name="mRareAppearNum" StringValue="3"/>
+            </C1>
+            <C1>
+              <D1 Name="mEnemyAppearInterval1stHalf" StringValue="30"/>
+              <D1 Name="mEnemyActiveMax2ndHalf" StringValue="7"/>
+              <D1 Name="mNormaGoldenIkuraNum" StringValue="4"/>
+              <D1 Name="mEnemyAppearInterval2ndHalf" StringValue="20"/>
+              <D1 Name="mEnemyActiveMax1stHalf" StringValue="4"/>
+              <D1 Name="mRareAppearNum" StringValue="3"/>
+            </C1>
+          </C0>
+          <D1 Name="mDifficulty" StringValue="0"/>
+          <D1 Name="mWaveChangeNum" StringValue="3"/>
+          <C1 Name="mEventFog">
+            <D1 Name="mRareAppearCycle" StringValue="3"/>
+          </C1>
+          <C1 Name="mEventArray">
+            <C1 Name="Geyser">
+              <D1 Name="mEnemyActiveMax" StringValue="32"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="0"/>
+            </C1>
+            <C1 Name="Rush">
+              <D1 Name="mEnemyActiveMax" StringValue="20"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="10"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="0"/>
+            </C1>
+            <C1 Name="Rally">
+              <D1 Name="mEnemyActiveMax" StringValue="15"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="0"/>
+            </C1>
+            <C1 Name="Fog">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="0"/>
+            </C1>
+            <C1 Name="None">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Missile">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="0"/>
+            </C1>
+            <C1 Name="Dozer">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="0"/>
+            </C1>
+          </C1>
+          <C1 Name="mEventRush">
+            <D1 Name="mRareAppearCycle" StringValue="20"/>
+            <D2 Name="mZakoSpeedCoef" StringValue="2"/>
+          </C1>
+          <C1 Name="mEventRally">
+            <D1 Name="mZakoActiveMaxEach" StringValue="1"/>
+            <D1 Name="mPunchLife" StringValue="15000"/>
+            <D1 Name="4ac92e2a" StringValue="0"/>
+            <D2 Name="mSimpleShotSpeed" StringValue="0.7"/>
+            <D1 Name="mSimpleShotActiveMax" StringValue="15"/>
+            <D1 Name="mSimpleShotInterval" StringValue="50"/>
+          </C1>
+          <C1 Name="mZakoActiveMaxArray">
+            <D1 Name="SakelienLarge" StringValue="1"/>
+            <D1 Name="SakelienSmall" StringValue="0"/>
+            <D1 Name="SakelienStandard" StringValue="0"/>
+          </C1>
+          <FF Name="mEventMissile" StringValue="00000000"/>
+          <D1 Name="mRareFollowerNum" StringValue="1"/>
+          <C1 Name="mEventDozer">
+            <D1 Name="mDozerIncrSecond" StringValue="80"/>
+            <D1 Name="mDozerInterval" StringValue="3"/>
+            <D2 Name="mDozerSpeedCoef" StringValue="1.3"/>
+          </C1>
+          <C1 Name="mWaterArray">
+            <C1 Name="High">
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Mid">
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="3"/>
+            </C1>
+            <C1 Name="Low">
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+          </C1>
+          <C1 Name="mEventGeyser">
+            <D1 Name="mZakoActiveMax" StringValue="13"/>
+          </C1>
+        </C1>
+        <C1>
+          <C1 Name="mZakoAppearWeightArray">
+            <D1 Name="SakelienLarge" StringValue="2"/>
+            <D1 Name="SakelienSmall" StringValue="1"/>
+            <D1 Name="SakelienStandard" StringValue="10"/>
+          </C1>
+          <C0 Name="mWaveInterval[]">
+            <C1>
+              <D1 Name="mEnemyAppearInterval1stHalf" StringValue="30"/>
+              <D1 Name="mEnemyActiveMax2ndHalf" StringValue="5"/>
+              <D1 Name="mNormaGoldenIkuraNum" StringValue="4"/>
+              <D1 Name="mEnemyAppearInterval2ndHalf" StringValue="20"/>
+              <D1 Name="mEnemyActiveMax1stHalf" StringValue="3"/>
+              <D1 Name="mRareAppearNum" StringValue="3"/>
+            </C1>
+            <C1>
+              <D1 Name="mEnemyAppearInterval1stHalf" StringValue="30"/>
+              <D1 Name="mEnemyActiveMax2ndHalf" StringValue="7"/>
+              <D1 Name="mNormaGoldenIkuraNum" StringValue="5"/>
+              <D1 Name="mEnemyAppearInterval2ndHalf" StringValue="20"/>
+              <D1 Name="mEnemyActiveMax1stHalf" StringValue="4"/>
+              <D1 Name="mRareAppearNum" StringValue="3"/>
+            </C1>
+            <C1>
+              <D1 Name="mEnemyAppearInterval1stHalf" StringValue="30"/>
+              <D1 Name="mEnemyActiveMax2ndHalf" StringValue="8"/>
+              <D1 Name="mNormaGoldenIkuraNum" StringValue="6"/>
+              <D1 Name="mEnemyAppearInterval2ndHalf" StringValue="20"/>
+              <D1 Name="mEnemyActiveMax1stHalf" StringValue="5"/>
+              <D1 Name="mRareAppearNum" StringValue="4"/>
+            </C1>
+          </C0>
+          <D1 Name="mDifficulty" StringValue="40"/>
+          <D1 Name="mWaveChangeNum" StringValue="3"/>
+          <C1 Name="mEventFog">
+            <D1 Name="mRareAppearCycle" StringValue="3"/>
+          </C1>
+          <C1 Name="mEventArray">
+            <C1 Name="Geyser">
+              <D1 Name="mEnemyActiveMax" StringValue="32"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="0"/>
+            </C1>
+            <C1 Name="Rush">
+              <D1 Name="mEnemyActiveMax" StringValue="20"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="10"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="0"/>
+            </C1>
+            <C1 Name="Rally">
+              <D1 Name="mEnemyActiveMax" StringValue="15"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="0"/>
+            </C1>
+            <C1 Name="Fog">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="0"/>
+            </C1>
+            <C1 Name="None">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Missile">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="0"/>
+            </C1>
+            <C1 Name="Dozer">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="0"/>
+            </C1>
+          </C1>
+          <C1 Name="mEventRush">
+            <D1 Name="mRareAppearCycle" StringValue="20"/>
+            <D2 Name="mZakoSpeedCoef" StringValue="2"/>
+          </C1>
+          <C1 Name="mEventRally">
+            <D1 Name="mZakoActiveMaxEach" StringValue="1"/>
+            <D1 Name="mPunchLife" StringValue="15000"/>
+            <D1 Name="4ac92e2a" StringValue="0"/>
+            <D2 Name="mSimpleShotSpeed" StringValue="0.7"/>
+            <D1 Name="mSimpleShotActiveMax" StringValue="15"/>
+            <D1 Name="mSimpleShotInterval" StringValue="50"/>
+          </C1>
+          <C1 Name="mZakoActiveMaxArray">
+            <D1 Name="SakelienLarge" StringValue="1"/>
+            <D1 Name="SakelienSmall" StringValue="0"/>
+            <D1 Name="SakelienStandard" StringValue="0"/>
+          </C1>
+          <FF Name="mEventMissile" StringValue="00000000"/>
+          <D1 Name="mRareFollowerNum" StringValue="1"/>
+          <C1 Name="mEventDozer">
+            <D1 Name="mDozerIncrSecond" StringValue="80"/>
+            <D1 Name="mDozerInterval" StringValue="3"/>
+            <D2 Name="mDozerSpeedCoef" StringValue="1.3"/>
+          </C1>
+          <C1 Name="mWaterArray">
+            <C1 Name="High">
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Mid">
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="3"/>
+            </C1>
+            <C1 Name="Low">
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+          </C1>
+          <C1 Name="mEventGeyser">
+            <D1 Name="mZakoActiveMax" StringValue="13"/>
+          </C1>
+        </C1>
+        <C1>
+          <C1 Name="mZakoAppearWeightArray">
+            <D1 Name="SakelienLarge" StringValue="2"/>
+            <D1 Name="SakelienSmall" StringValue="1"/>
+            <D1 Name="SakelienStandard" StringValue="10"/>
+          </C1>
+          <C0 Name="mWaveInterval[]">
+            <C1>
+              <D1 Name="mEnemyAppearInterval1stHalf" StringValue="30"/>
+              <D1 Name="mEnemyActiveMax2ndHalf" StringValue="11"/>
+              <D1 Name="mNormaGoldenIkuraNum" StringValue="6"/>
+              <D1 Name="mEnemyAppearInterval2ndHalf" StringValue="20"/>
+              <D1 Name="mEnemyActiveMax1stHalf" StringValue="7"/>
+              <D1 Name="mRareAppearNum" StringValue="5"/>
+            </C1>
+            <C1>
+              <D1 Name="mEnemyAppearInterval1stHalf" StringValue="30"/>
+              <D1 Name="mEnemyActiveMax2ndHalf" StringValue="12"/>
+              <D1 Name="mNormaGoldenIkuraNum" StringValue="7"/>
+              <D1 Name="mEnemyAppearInterval2ndHalf" StringValue="20"/>
+              <D1 Name="mEnemyActiveMax1stHalf" StringValue="8"/>
+              <D1 Name="mRareAppearNum" StringValue="6"/>
+            </C1>
+            <C1>
+              <D1 Name="mEnemyAppearInterval1stHalf" StringValue="30"/>
+              <D1 Name="mEnemyActiveMax2ndHalf" StringValue="13"/>
+              <D1 Name="mNormaGoldenIkuraNum" StringValue="8"/>
+              <D1 Name="mEnemyAppearInterval2ndHalf" StringValue="20"/>
+              <D1 Name="mEnemyActiveMax1stHalf" StringValue="9"/>
+              <D1 Name="mRareAppearNum" StringValue="7"/>
+            </C1>
+          </C0>
+          <D1 Name="mDifficulty" StringValue="100"/>
+          <D1 Name="mWaveChangeNum" StringValue="4"/>
+          <C1 Name="mEventFog">
+            <D1 Name="mRareAppearCycle" StringValue="3"/>
+          </C1>
+          <C1 Name="mEventArray">
+            <C1 Name="Geyser">
+              <D1 Name="mEnemyActiveMax" StringValue="32"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="0"/>
+            </C1>
+            <C1 Name="Rush">
+              <D1 Name="mEnemyActiveMax" StringValue="15"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="10"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Rally">
+              <D1 Name="mEnemyActiveMax" StringValue="15"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="0"/>
+            </C1>
+            <C1 Name="Fog">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="None">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="9"/>
+            </C1>
+            <C1 Name="Missile">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="0"/>
+            </C1>
+            <C1 Name="Dozer">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+          </C1>
+          <C1 Name="mEventRush">
+            <D1 Name="mRareAppearCycle" StringValue="20"/>
+            <D2 Name="mZakoSpeedCoef" StringValue="2.2"/>
+          </C1>
+          <C1 Name="mEventRally">
+            <D1 Name="mZakoActiveMaxEach" StringValue="1"/>
+            <D1 Name="mPunchLife" StringValue="15000"/>
+            <D1 Name="4ac92e2a" StringValue="0"/>
+            <D2 Name="mSimpleShotSpeed" StringValue="0.7"/>
+            <D1 Name="mSimpleShotActiveMax" StringValue="15"/>
+            <D1 Name="mSimpleShotInterval" StringValue="50"/>
+          </C1>
+          <C1 Name="mZakoActiveMaxArray">
+            <D1 Name="SakelienLarge" StringValue="1"/>
+            <D1 Name="SakelienSmall" StringValue="0"/>
+            <D1 Name="SakelienStandard" StringValue="0"/>
+          </C1>
+          <FF Name="mEventMissile" StringValue="00000000"/>
+          <D1 Name="mRareFollowerNum" StringValue="2"/>
+          <C1 Name="mEventDozer">
+            <D1 Name="mDozerIncrSecond" StringValue="80"/>
+            <D1 Name="mDozerInterval" StringValue="3"/>
+            <D2 Name="mDozerSpeedCoef" StringValue="1.3"/>
+          </C1>
+          <C1 Name="mWaterArray">
+            <C1 Name="High">
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Mid">
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="3"/>
+            </C1>
+            <C1 Name="Low">
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+          </C1>
+          <C1 Name="mEventGeyser">
+            <D1 Name="mZakoActiveMax" StringValue="13"/>
+          </C1>
+        </C1>
+        <C1>
+          <C1 Name="mZakoAppearWeightArray">
+            <D1 Name="SakelienLarge" StringValue="2"/>
+            <D1 Name="SakelienSmall" StringValue="1"/>
+            <D1 Name="SakelienStandard" StringValue="10"/>
+          </C1>
+          <C0 Name="mWaveInterval[]">
+            <C1>
+              <D1 Name="mEnemyAppearInterval1stHalf" StringValue="30"/>
+              <D1 Name="mEnemyActiveMax2ndHalf" StringValue="12"/>
+              <D1 Name="mNormaGoldenIkuraNum" StringValue="7"/>
+              <D1 Name="mEnemyAppearInterval2ndHalf" StringValue="20"/>
+              <D1 Name="mEnemyActiveMax1stHalf" StringValue="8"/>
+              <D1 Name="mRareAppearNum" StringValue="6"/>
+            </C1>
+            <C1>
+              <D1 Name="mEnemyAppearInterval1stHalf" StringValue="30"/>
+              <D1 Name="mEnemyActiveMax2ndHalf" StringValue="14"/>
+              <D1 Name="mNormaGoldenIkuraNum" StringValue="8"/>
+              <D1 Name="mEnemyAppearInterval2ndHalf" StringValue="20"/>
+              <D1 Name="mEnemyActiveMax1stHalf" StringValue="9"/>
+              <D1 Name="mRareAppearNum" StringValue="7"/>
+            </C1>
+            <C1>
+              <D1 Name="mEnemyAppearInterval1stHalf" StringValue="30"/>
+              <D1 Name="mEnemyActiveMax2ndHalf" StringValue="16"/>
+              <D1 Name="mNormaGoldenIkuraNum" StringValue="10"/>
+              <D1 Name="mEnemyAppearInterval2ndHalf" StringValue="20"/>
+              <D1 Name="mEnemyActiveMax1stHalf" StringValue="10"/>
+              <D1 Name="mRareAppearNum" StringValue="9"/>
+            </C1>
+          </C0>
+          <D1 Name="mDifficulty" StringValue="200"/>
+          <D1 Name="mWaveChangeNum" StringValue="4"/>
+          <C1 Name="mEventFog">
+            <D1 Name="mRareAppearCycle" StringValue="4"/>
+          </C1>
+          <C1 Name="mEventArray">
+            <C1 Name="Geyser">
+              <D1 Name="mEnemyActiveMax" StringValue="32"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="0"/>
+            </C1>
+            <C1 Name="Rush">
+              <D1 Name="mEnemyActiveMax" StringValue="17"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="10"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Rally">
+              <D1 Name="mEnemyActiveMax" StringValue="15"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="0"/>
+            </C1>
+            <C1 Name="Fog">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="None">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="12"/>
+            </C1>
+            <C1 Name="Missile">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Dozer">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+          </C1>
+          <C1 Name="mEventRush">
+            <D1 Name="mRareAppearCycle" StringValue="20"/>
+            <D2 Name="mZakoSpeedCoef" StringValue="2.4"/>
+          </C1>
+          <C1 Name="mEventRally">
+            <D1 Name="mZakoActiveMaxEach" StringValue="1"/>
+            <D1 Name="mPunchLife" StringValue="15000"/>
+            <D1 Name="4ac92e2a" StringValue="0"/>
+            <D2 Name="mSimpleShotSpeed" StringValue="0.7"/>
+            <D1 Name="mSimpleShotActiveMax" StringValue="15"/>
+            <D1 Name="mSimpleShotInterval" StringValue="50"/>
+          </C1>
+          <C1 Name="mZakoActiveMaxArray">
+            <D1 Name="SakelienLarge" StringValue="2"/>
+            <D1 Name="SakelienSmall" StringValue="0"/>
+            <D1 Name="SakelienStandard" StringValue="0"/>
+          </C1>
+          <FF Name="mEventMissile" StringValue="00000000"/>
+          <D1 Name="mRareFollowerNum" StringValue="2"/>
+          <C1 Name="mEventDozer">
+            <D1 Name="mDozerIncrSecond" StringValue="70"/>
+            <D1 Name="mDozerInterval" StringValue="3"/>
+            <D2 Name="mDozerSpeedCoef" StringValue="1.5"/>
+          </C1>
+          <C1 Name="mWaterArray">
+            <C1 Name="High">
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Mid">
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="3"/>
+            </C1>
+            <C1 Name="Low">
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+          </C1>
+          <C1 Name="mEventGeyser">
+            <D1 Name="mZakoActiveMax" StringValue="13"/>
+          </C1>
+        </C1>
+        <C1>
+          <C1 Name="mZakoAppearWeightArray">
+            <D1 Name="SakelienLarge" StringValue="5"/>
+            <D1 Name="SakelienSmall" StringValue="1"/>
+            <D1 Name="SakelienStandard" StringValue="10"/>
+          </C1>
+          <C0 Name="mWaveInterval[]">
+            <C1>
+              <D1 Name="mEnemyAppearInterval1stHalf" StringValue="30"/>
+              <D1 Name="mEnemyActiveMax2ndHalf" StringValue="14"/>
+              <D1 Name="mNormaGoldenIkuraNum" StringValue="8"/>
+              <D1 Name="mEnemyAppearInterval2ndHalf" StringValue="20"/>
+              <D1 Name="mEnemyActiveMax1stHalf" StringValue="9"/>
+              <D1 Name="mRareAppearNum" StringValue="7"/>
+            </C1>
+            <C1>
+              <D1 Name="mEnemyAppearInterval1stHalf" StringValue="30"/>
+              <D1 Name="mEnemyActiveMax2ndHalf" StringValue="16"/>
+              <D1 Name="mNormaGoldenIkuraNum" StringValue="9"/>
+              <D1 Name="mEnemyAppearInterval2ndHalf" StringValue="20"/>
+              <D1 Name="mEnemyActiveMax1stHalf" StringValue="10"/>
+              <D1 Name="mRareAppearNum" StringValue="9"/>
+            </C1>
+            <C1>
+              <D1 Name="mEnemyAppearInterval1stHalf" StringValue="30"/>
+              <D1 Name="mEnemyActiveMax2ndHalf" StringValue="18"/>
+              <D1 Name="mNormaGoldenIkuraNum" StringValue="11"/>
+              <D1 Name="mEnemyAppearInterval2ndHalf" StringValue="20"/>
+              <D1 Name="mEnemyActiveMax1stHalf" StringValue="12"/>
+              <D1 Name="mRareAppearNum" StringValue="11"/>
+            </C1>
+          </C0>
+          <D1 Name="mDifficulty" StringValue="300"/>
+          <D1 Name="mWaveChangeNum" StringValue="5"/>
+          <C1 Name="mEventFog">
+            <D1 Name="mRareAppearCycle" StringValue="4"/>
+          </C1>
+          <C1 Name="mEventArray">
+            <C1 Name="Geyser">
+              <D1 Name="mEnemyActiveMax" StringValue="32"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Rush">
+              <D1 Name="mEnemyActiveMax" StringValue="19"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="10"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Rally">
+              <D1 Name="mEnemyActiveMax" StringValue="15"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Fog">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="None">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="18"/>
+            </C1>
+            <C1 Name="Missile">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Dozer">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+          </C1>
+          <C1 Name="mEventRush">
+            <D1 Name="mRareAppearCycle" StringValue="20"/>
+            <D2 Name="mZakoSpeedCoef" StringValue="2.6"/>
+          </C1>
+          <C1 Name="mEventRally">
+            <D1 Name="mZakoActiveMaxEach" StringValue="2"/>
+            <D1 Name="mPunchLife" StringValue="18000"/>
+            <D1 Name="4ac92e2a" StringValue="0"/>
+            <D2 Name="mSimpleShotSpeed" StringValue="0.9"/>
+            <D1 Name="mSimpleShotActiveMax" StringValue="15"/>
+            <D1 Name="mSimpleShotInterval" StringValue="50"/>
+          </C1>
+          <C1 Name="mZakoActiveMaxArray">
+            <D1 Name="SakelienLarge" StringValue="2"/>
+            <D1 Name="SakelienSmall" StringValue="0"/>
+            <D1 Name="SakelienStandard" StringValue="0"/>
+          </C1>
+          <FF Name="mEventMissile" StringValue="00000000"/>
+          <D1 Name="mRareFollowerNum" StringValue="2"/>
+          <C1 Name="mEventDozer">
+            <D1 Name="mDozerIncrSecond" StringValue="60"/>
+            <D1 Name="mDozerInterval" StringValue="3"/>
+            <D2 Name="mDozerSpeedCoef" StringValue="1.7"/>
+          </C1>
+          <C1 Name="mWaterArray">
+            <C1 Name="High">
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Mid">
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="3"/>
+            </C1>
+            <C1 Name="Low">
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="80"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+          </C1>
+          <C1 Name="mEventGeyser">
+            <D1 Name="mZakoActiveMax" StringValue="16"/>
+          </C1>
+        </C1>
+        <C1>
+          <C1 Name="mZakoAppearWeightArray">
+            <D1 Name="SakelienLarge" StringValue="2"/>
+            <D1 Name="SakelienSmall" StringValue="1"/>
+            <D1 Name="SakelienStandard" StringValue="10"/>
+          </C1>
+          <C0 Name="mWaveInterval[]">
+            <C1>
+              <D1 Name="mEnemyAppearInterval1stHalf" StringValue="30"/>
+              <D1 Name="mEnemyActiveMax2ndHalf" StringValue="16"/>
+              <D1 Name="mNormaGoldenIkuraNum" StringValue="10"/>
+              <D1 Name="mEnemyAppearInterval2ndHalf" StringValue="20"/>
+              <D1 Name="mEnemyActiveMax1stHalf" StringValue="10"/>
+              <D1 Name="mRareAppearNum" StringValue="9"/>
+            </C1>
+            <C1>
+              <D1 Name="mEnemyAppearInterval1stHalf" StringValue="30"/>
+              <D1 Name="mEnemyActiveMax2ndHalf" StringValue="18"/>
+              <D1 Name="mNormaGoldenIkuraNum" StringValue="11"/>
+              <D1 Name="mEnemyAppearInterval2ndHalf" StringValue="20"/>
+              <D1 Name="mEnemyActiveMax1stHalf" StringValue="12"/>
+              <D1 Name="mRareAppearNum" StringValue="11"/>
+            </C1>
+            <C1>
+              <D1 Name="mEnemyAppearInterval1stHalf" StringValue="30"/>
+              <D1 Name="mEnemyActiveMax2ndHalf" StringValue="20"/>
+              <D1 Name="mNormaGoldenIkuraNum" StringValue="13"/>
+              <D1 Name="mEnemyAppearInterval2ndHalf" StringValue="20"/>
+              <D1 Name="mEnemyActiveMax1stHalf" StringValue="14"/>
+              <D1 Name="mRareAppearNum" StringValue="13"/>
+            </C1>
+          </C0>
+          <D1 Name="mDifficulty" StringValue="400"/>
+          <D1 Name="mWaveChangeNum" StringValue="8"/>
+          <C1 Name="mEventFog">
+            <D1 Name="mRareAppearCycle" StringValue="5"/>
+          </C1>
+          <C1 Name="mEventArray">
+            <C1 Name="Geyser">
+              <D1 Name="mEnemyActiveMax" StringValue="32"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Rush">
+              <D1 Name="mEnemyActiveMax" StringValue="22"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="5"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Rally">
+              <D1 Name="mEnemyActiveMax" StringValue="15"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Fog">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="None">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="18"/>
+            </C1>
+            <C1 Name="Missile">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Dozer">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+          </C1>
+          <C1 Name="mEventRush">
+            <D1 Name="mRareAppearCycle" StringValue="20"/>
+            <D2 Name="mZakoSpeedCoef" StringValue="2.8"/>
+          </C1>
+          <C1 Name="mEventRally">
+            <D1 Name="mZakoActiveMaxEach" StringValue="2"/>
+            <D1 Name="mPunchLife" StringValue="22000"/>
+            <D1 Name="4ac92e2a" StringValue="1"/>
+            <D2 Name="mSimpleShotSpeed" StringValue="1.2"/>
+            <D1 Name="mSimpleShotActiveMax" StringValue="15"/>
+            <D1 Name="mSimpleShotInterval" StringValue="50"/>
+          </C1>
+          <C1 Name="mZakoActiveMaxArray">
+            <D1 Name="SakelienLarge" StringValue="3"/>
+            <D1 Name="SakelienSmall" StringValue="0"/>
+            <D1 Name="SakelienStandard" StringValue="0"/>
+          </C1>
+          <FF Name="mEventMissile" StringValue="00000000"/>
+          <D1 Name="mRareFollowerNum" StringValue="3"/>
+          <C1 Name="mEventDozer">
+            <D1 Name="mDozerIncrSecond" StringValue="40"/>
+            <D1 Name="mDozerInterval" StringValue="3"/>
+            <D2 Name="mDozerSpeedCoef" StringValue="1.9"/>
+          </C1>
+          <C1 Name="mWaterArray">
+            <C1 Name="High">
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Mid">
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="3"/>
+            </C1>
+            <C1 Name="Low">
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="80"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+          </C1>
+          <C1 Name="mEventGeyser">
+            <D1 Name="mZakoActiveMax" StringValue="20"/>
+          </C1>
+        </C1>
+        <C1>
+          <C1 Name="mZakoAppearWeightArray">
+            <D1 Name="SakelienLarge" StringValue="2"/>
+            <D1 Name="SakelienSmall" StringValue="1"/>
+            <D1 Name="SakelienStandard" StringValue="10"/>
+          </C1>
+          <C0 Name="mWaveInterval[]">
+            <C1>
+              <D1 Name="mEnemyAppearInterval1stHalf" StringValue="30"/>
+              <D1 Name="mEnemyActiveMax2ndHalf" StringValue="18"/>
+              <D1 Name="mNormaGoldenIkuraNum" StringValue="13"/>
+              <D1 Name="mEnemyAppearInterval2ndHalf" StringValue="20"/>
+              <D1 Name="mEnemyActiveMax1stHalf" StringValue="12"/>
+              <D1 Name="mRareAppearNum" StringValue="11"/>
+            </C1>
+            <C1>
+              <D1 Name="mEnemyAppearInterval1stHalf" StringValue="30"/>
+              <D1 Name="mEnemyActiveMax2ndHalf" StringValue="20"/>
+              <D1 Name="mNormaGoldenIkuraNum" StringValue="14"/>
+              <D1 Name="mEnemyAppearInterval2ndHalf" StringValue="20"/>
+              <D1 Name="mEnemyActiveMax1stHalf" StringValue="14"/>
+              <D1 Name="mRareAppearNum" StringValue="13"/>
+            </C1>
+            <C1>
+              <D1 Name="mEnemyAppearInterval1stHalf" StringValue="30"/>
+              <D1 Name="mEnemyActiveMax2ndHalf" StringValue="22"/>
+              <D1 Name="mNormaGoldenIkuraNum" StringValue="16"/>
+              <D1 Name="mEnemyAppearInterval2ndHalf" StringValue="20"/>
+              <D1 Name="mEnemyActiveMax1stHalf" StringValue="16"/>
+              <D1 Name="mRareAppearNum" StringValue="15"/>
+            </C1>
+          </C0>
+          <D1 Name="mDifficulty" StringValue="500"/>
+          <D1 Name="mWaveChangeNum" StringValue="6"/>
+          <C1 Name="mEventFog">
+            <D1 Name="mRareAppearCycle" StringValue="5"/>
+          </C1>
+          <C1 Name="mEventArray">
+            <C1 Name="Geyser">
+              <D1 Name="mEnemyActiveMax" StringValue="32"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Rush">
+              <D1 Name="mEnemyActiveMax" StringValue="25"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="10"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Rally">
+              <D1 Name="mEnemyActiveMax" StringValue="15"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Fog">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="None">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="18"/>
+            </C1>
+            <C1 Name="Missile">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Dozer">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+          </C1>
+          <C1 Name="mEventRush">
+            <D1 Name="mRareAppearCycle" StringValue="20"/>
+            <D2 Name="mZakoSpeedCoef" StringValue="3"/>
+          </C1>
+          <C1 Name="mEventRally">
+            <D1 Name="mZakoActiveMaxEach" StringValue="3"/>
+            <D1 Name="mPunchLife" StringValue="25000"/>
+            <D1 Name="4ac92e2a" StringValue="1"/>
+            <D2 Name="mSimpleShotSpeed" StringValue="1.5"/>
+            <D1 Name="mSimpleShotActiveMax" StringValue="15"/>
+            <D1 Name="mSimpleShotInterval" StringValue="50"/>
+          </C1>
+          <C1 Name="mZakoActiveMaxArray">
+            <D1 Name="SakelienLarge" StringValue="3"/>
+            <D1 Name="SakelienSmall" StringValue="0"/>
+            <D1 Name="SakelienStandard" StringValue="0"/>
+          </C1>
+          <FF Name="mEventMissile" StringValue="00000000"/>
+          <D1 Name="mRareFollowerNum" StringValue="0"/>
+          <C1 Name="mEventDozer">
+            <D1 Name="mDozerIncrSecond" StringValue="30"/>
+            <D1 Name="mDozerInterval" StringValue="3"/>
+            <D2 Name="mDozerSpeedCoef" StringValue="2.1"/>
+          </C1>
+          <C1 Name="mWaterArray">
+            <C1 Name="High">
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Mid">
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="3"/>
+            </C1>
+            <C1 Name="Low">
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+          </C1>
+          <C1 Name="mEventGeyser">
+            <D1 Name="mZakoActiveMax" StringValue="24"/>
+          </C1>
+        </C1>
+        <C1>
+          <C1 Name="mZakoAppearWeightArray">
+            <D1 Name="SakelienLarge" StringValue="4"/>
+            <D1 Name="SakelienSmall" StringValue="1"/>
+            <D1 Name="SakelienStandard" StringValue="10"/>
+          </C1>
+          <C0 Name="mWaveInterval[]">
+            <C1>
+              <D1 Name="mEnemyAppearInterval1stHalf" StringValue="30"/>
+              <D1 Name="mEnemyActiveMax2ndHalf" StringValue="28"/>
+              <D1 Name="mNormaGoldenIkuraNum" StringValue="21"/>
+              <D1 Name="mEnemyAppearInterval2ndHalf" StringValue="20"/>
+              <D1 Name="mEnemyActiveMax1stHalf" StringValue="22"/>
+              <D1 Name="mRareAppearNum" StringValue="20"/>
+            </C1>
+            <C1>
+              <D1 Name="mEnemyAppearInterval1stHalf" StringValue="30"/>
+              <D1 Name="mEnemyActiveMax2ndHalf" StringValue="30"/>
+              <D1 Name="mNormaGoldenIkuraNum" StringValue="23"/>
+              <D1 Name="mEnemyAppearInterval2ndHalf" StringValue="20"/>
+              <D1 Name="mEnemyActiveMax1stHalf" StringValue="24"/>
+              <D1 Name="mRareAppearNum" StringValue="22"/>
+            </C1>
+            <C1>
+              <D1 Name="mEnemyAppearInterval1stHalf" StringValue="30"/>
+              <D1 Name="mEnemyActiveMax2ndHalf" StringValue="32"/>
+              <D1 Name="mNormaGoldenIkuraNum" StringValue="25"/>
+              <D1 Name="mEnemyAppearInterval2ndHalf" StringValue="20"/>
+              <D1 Name="mEnemyActiveMax1stHalf" StringValue="26"/>
+              <D1 Name="mRareAppearNum" StringValue="24"/>
+            </C1>
+          </C0>
+          <D1 Name="mDifficulty" StringValue="1000"/>
+          <D1 Name="mWaveChangeNum" StringValue="8"/>
+          <C1 Name="mEventFog">
+            <D1 Name="mRareAppearCycle" StringValue="5"/>
+          </C1>
+          <C1 Name="mEventArray">
+            <C1 Name="Geyser">
+              <D1 Name="mEnemyActiveMax" StringValue="32"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Rush">
+              <D1 Name="mEnemyActiveMax" StringValue="32"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="10"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Rally">
+              <D1 Name="mEnemyActiveMax" StringValue="15"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Fog">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="None">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="18"/>
+            </C1>
+            <C1 Name="Missile">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Dozer">
+              <D1 Name="mEnemyActiveMax" StringValue="-1"/>
+              <D1 Name="mEnemyAppearInterval" StringValue="-1"/>
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+          </C1>
+          <C1 Name="mEventRush">
+            <D1 Name="mRareAppearCycle" StringValue="20"/>
+            <D2 Name="mZakoSpeedCoef" StringValue="3.5"/>
+          </C1>
+          <C1 Name="mEventRally">
+            <D1 Name="mZakoActiveMaxEach" StringValue="3"/>
+            <D1 Name="mPunchLife" StringValue="35000"/>
+            <D1 Name="4ac92e2a" StringValue="5"/>
+            <D2 Name="mSimpleShotSpeed" StringValue="2"/>
+            <D1 Name="mSimpleShotActiveMax" StringValue="15"/>
+            <D1 Name="mSimpleShotInterval" StringValue="50"/>
+          </C1>
+          <C1 Name="mZakoActiveMaxArray">
+            <D1 Name="SakelienLarge" StringValue="7"/>
+            <D1 Name="SakelienSmall" StringValue="0"/>
+            <D1 Name="SakelienStandard" StringValue="0"/>
+          </C1>
+          <FF Name="mEventMissile" StringValue="00000000"/>
+          <D1 Name="mRareFollowerNum" StringValue="0"/>
+          <C1 Name="mEventDozer">
+            <D1 Name="mDozerIncrSecond" StringValue="10"/>
+            <D1 Name="mDozerInterval" StringValue="3"/>
+            <D2 Name="mDozerSpeedCoef" StringValue="2.3"/>
+          </C1>
+          <C1 Name="mWaterArray">
+            <C1 Name="High">
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+            <C1 Name="Mid">
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="3"/>
+            </C1>
+            <C1 Name="Low">
+              <D1 Name="mEnemyActiveMaxCoef" StringValue="100"/>
+              <D1 Name="mWeight" StringValue="1"/>
+            </C1>
+          </C1>
+          <C1 Name="mEventGeyser">
+            <D1 Name="mZakoActiveMax" StringValue="48"/>
+          </C1>
+        </C1>
+      </C0>
+    </C1>
+  </C1>
+</Root>

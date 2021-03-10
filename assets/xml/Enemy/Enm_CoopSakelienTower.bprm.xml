@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="ActorParams">
+      <D2 Name="mRotSpeedAcc" StringValue="0.0025"/>
+      <D2 Name="mMoveSpeedCoefSink" StringValue="0.25"/>
+      <D0 Name="mIsEnablePassClosePath" StringValue="True"/>
+      <D2 Name="mActionSpeedMax" StringValue="3"/>
+      <D2 Name="mGndColOffsetY" StringValue="0"/>
+      <C0 Name="mSuperMissileTargetPosOffset">
+        <D2 StringValue="0"/>
+        <D2 StringValue="0"/>
+        <D2 StringValue="0"/>
+      </C0>
+      <D2 Name="mHeadRotDegMaxAxisY" StringValue="75"/>
+      <D2 Name="mBlurLength" StringValue="10"/>
+      <D0 Name="mCheckKeepOutE" StringValue="False"/>
+      <D0 Name="mIsDroppable" StringValue="True"/>
+      <D0 Name="mmLifeCure" StringValue="False"/>
+      <D2 Name="mHeadRotDegMaxAxisX" StringValue="35"/>
+      <C1 Name="mSearchableParams">
+        <A0 Name="40071f38" StringValue="cPathDistance"/>
+        <D0 Name="mIsCheckCol" StringValue="False"/>
+      </C1>
+      <A0 Name="73ace438" StringValue="cRate"/>
+      <D2 Name="mOffsetY_InWater" StringValue="-10"/>
+      <C1 Name="mPathPlannableParams">
+        <D0 Name="mEnableCoopAreaKeepOut" StringValue="False"/>
+        <D2 Name="mReachDistanceXZ" StringValue="20"/>
+        <D2 Name="mReachDistanceY" StringValue="20"/>
+        <D0 Name="mEnableReachTarget" StringValue="True"/>
+      </C1>
+      <D1 Name="mLife" StringValue="600"/>
+      <C0 Name="mAirBallPosOffset">
+        <D2 StringValue="0"/>
+        <D2 StringValue="40"/>
+        <D2 StringValue="0"/>
+      </C0>
+      <D2 Name="mRotSpeed" StringValue="0.1"/>
+      <D2 Name="mRotInterpRatio" StringValue="0.15"/>
+      <D2 Name="mDiePaintRadius" StringValue="80"/>
+      <D2 Name="mTrackPaintableOffsetZ" StringValue="-10"/>
+      <C1 Name="mOffsetZ">
+        <D2 Name="2d6934dd" StringValue="2"/>
+        <D2 Name="306c0465" StringValue="8.5"/>
+        <D2 Name="60a195d6" StringValue="4"/>
+        <D2 Name="7da4a56e" StringValue="5.5"/>
+        <D2 Name="abfd4673" StringValue="3"/>
+        <D2 Name="b6f876cb" StringValue="7"/>
+        <D2 Name="e635e778" StringValue="0"/>
+        <D2 Name="fb30d7c0" StringValue="0"/>
+      </C1>
+      <C1 Name="mEnemyPhysicsParams">
+        <C1 Name="mObjColCapsuleParams">
+          <C1 Name="mObjColCapsuleParams[8]">
+            <A0 Name="mArmorType" StringValue="cEnemyShield"/>
+            <D2 Name="mHeight" StringValue="0"/>
+            <C0 Name="mOffset">
+              <D2 StringValue="0"/>
+              <D2 StringValue="16"/>
+              <D2 StringValue="0"/>
+            </C0>
+            <D0 Name="mUseOwnerMtx" StringValue="False"/>
+            <C0 Name="mRotate">
+              <D2 StringValue="0"/>
+              <D2 StringValue="0"/>
+              <D2 StringValue="0"/>
+            </C0>
+            <D2 Name="mRadius" StringValue="9"/>
+            <A0 Name="mNodeName" StringValue=""/>
+            <D0 Name="mIsBombBreak" StringValue="False"/>
+          </C1>
+          <C1 Name="mObjColCapsuleParams[2]">
+            <A0 Name="mArmorType" StringValue="cZakoEnemy"/>
+            <D2 Name="mHeight" StringValue="0"/>
+            <C0 Name="mOffset">
+              <D2 StringValue="0"/>
+              <D2 StringValue="8"/>
+              <D2 StringValue="0"/>
+            </C0>
+            <D0 Name="mUseOwnerMtx" StringValue="False"/>
+            <C0 Name="mRotate">
+              <D2 StringValue="0"/>
+              <D2 StringValue="0"/>
+              <D2 StringValue="0"/>
+            </C0>
+            <D2 Name="mRadius" StringValue="15"/>
+            <A0 Name="mNodeName" StringValue=""/>
+            <D0 Name="mIsBombBreak" StringValue="False"/>
+          </C1>
+          <C1 Name="mObjColCapsuleParams[3]">
+            <A0 Name="mArmorType" StringValue="cZakoEnemy"/>
+            <D2 Name="mHeight" StringValue="0"/>
+            <C0 Name="mOffset">
+              <D2 StringValue="0"/>
+              <D2 StringValue="8"/>
+              <D2 StringValue="0"/>
+            </C0>
+            <D0 Name="mUseOwnerMtx" StringValue="False"/>
+            <C0 Name="mRotate">
+              <D2 StringValue="0"/>
+              <D2 StringValue="0"/>
+              <D2 StringValue="0"/>
+            </C0>
+            <D2 Name="mRadius" StringValue="13"/>
+            <A0 Name="mNodeName" StringValue=""/>
+            <D0 Name="mIsBombBreak" StringValue="False"/>
+          </C1>
+          <C1 Name="mObjColCapsuleParams[1]">
+            <A0 Name="mArmorType" StringValue="cZakoEnemy"/>
+            <D2 Name="mHeight" StringValue="0"/>
+            <C0 Name="mOffset">
+              <D2 StringValue="0"/>
+              <D2 StringValue="8"/>
+              <D2 StringValue="0"/>
+            </C0>
+            <D0 Name="mUseOwnerMtx" StringValue="False"/>
+            <C0 Name="mRotate">
+              <D2 StringValue="0"/>
+              <D2 StringValue="0"/>
+              <D2 StringValue="0"/>
+            </C0>
+            <D2 Name="mRadius" StringValue="16"/>
+            <A0 Name="mNodeName" StringValue=""/>
+            <D0 Name="mIsBombBreak" StringValue="False"/>
+          </C1>
+          <C1 Name="mObjColCapsuleParams[0]">
+            <A0 Name="mArmorType" StringValue="cEnemyShield"/>
+            <D2 Name="mHeight" StringValue="0"/>
+            <C0 Name="mOffset">
+              <D2 StringValue="0"/>
+              <D2 StringValue="-3"/>
+              <D2 StringValue="0"/>
+            </C0>
+            <D0 Name="mUseOwnerMtx" StringValue="False"/>
+            <C0 Name="mRotate">
+              <D2 StringValue="0"/>
+              <D2 StringValue="0"/>
+              <D2 StringValue="0"/>
+            </C0>
+            <D2 Name="mRadius" StringValue="12"/>
+            <A0 Name="mNodeName" StringValue=""/>
+            <D0 Name="mIsBombBreak" StringValue="False"/>
+          </C1>
+          <C1 Name="mObjColCapsuleParams[5]">
+            <A0 Name="mArmorType" StringValue="cZakoEnemy"/>
+            <D2 Name="mHeight" StringValue="0"/>
+            <C0 Name="mOffset">
+              <D2 StringValue="0"/>
+              <D2 StringValue="10"/>
+              <D2 StringValue="0"/>
+            </C0>
+            <D0 Name="mUseOwnerMtx" StringValue="False"/>
+            <C0 Name="mRotate">
+              <D2 StringValue="0"/>
+              <D2 StringValue="0"/>
+              <D2 StringValue="0"/>
+            </C0>
+            <D2 Name="mRadius" StringValue="12"/>
+            <A0 Name="mNodeName" StringValue=""/>
+            <D0 Name="mIsBombBreak" StringValue="False"/>
+          </C1>
+          <C1 Name="mObjColCapsuleParams[4]">
+            <A0 Name="mArmorType" StringValue="cZakoEnemy"/>
+            <D2 Name="mHeight" StringValue="0"/>
+            <C0 Name="mOffset">
+              <D2 StringValue="0"/>
+              <D2 StringValue="8"/>
+              <D2 StringValue="0"/>
+            </C0>
+            <D0 Name="mUseOwnerMtx" StringValue="False"/>
+            <C0 Name="mRotate">
+              <D2 StringValue="0"/>
+              <D2 StringValue="0"/>
+              <D2 StringValue="0"/>
+            </C0>
+            <D2 Name="mRadius" StringValue="12"/>
+            <A0 Name="mNodeName" StringValue=""/>
+            <D0 Name="mIsBombBreak" StringValue="False"/>
+          </C1>
+          <C1 Name="mObjColCapsuleParams[6]">
+            <A0 Name="mArmorType" StringValue="cZakoEnemy"/>
+            <D2 Name="mHeight" StringValue="0"/>
+            <C0 Name="mOffset">
+              <D2 StringValue="0"/>
+              <D2 StringValue="8"/>
+              <D2 StringValue="0"/>
+            </C0>
+            <D0 Name="mUseOwnerMtx" StringValue="False"/>
+            <C0 Name="mRotate">
+              <D2 StringValue="0"/>
+              <D2 StringValue="0"/>
+              <D2 StringValue="0"/>
+            </C0>
+            <D2 Name="mRadius" StringValue="12"/>
+            <A0 Name="mNodeName" StringValue=""/>
+            <D0 Name="mIsBombBreak" StringValue="False"/>
+          </C1>
+          <C1 Name="mObjColCapsuleParams[7]">
+            <A0 Name="mArmorType" StringValue="cZakoEnemy"/>
+            <D2 Name="mHeight" StringValue="0"/>
+            <C0 Name="mOffset">
+              <D2 StringValue="0"/>
+              <D2 StringValue="10"/>
+              <D2 StringValue="0"/>
+            </C0>
+            <D0 Name="mUseOwnerMtx" StringValue="False"/>
+            <C0 Name="mRotate">
+              <D2 StringValue="0"/>
+              <D2 StringValue="0"/>
+              <D2 StringValue="0"/>
+            </C0>
+            <D2 Name="mRadius" StringValue="11"/>
+            <A0 Name="mNodeName" StringValue=""/>
+            <D0 Name="mIsBombBreak" StringValue="False"/>
+          </C1>
+        </C1>
+        <D2 Name="mGndColRadius" StringValue="10"/>
+        <D0 Name="mIsKeepoutEReject" StringValue="True"/>
+        <D0 Name="mIsKeepoutE2Reject" StringValue="False"/>
+        <C0 Name="mGndColOffset">
+          <D2 StringValue="0"/>
+          <D2 StringValue="0"/>
+          <D2 StringValue="0"/>
+        </C0>
+      </C1>
+      <D2 Name="mCutterRotDegPerFrame" StringValue="2"/>
+      <D1 Name="mmLifeCurePerSecond" StringValue="100"/>
+      <D2 Name="mKnockbackRollerCore" StringValue="1"/>
+      <D2 Name="mTrackPaintableRadius" StringValue="32"/>
+      <D1 Name="mCutterChaseDelayFrame" StringValue="30"/>
+      <D2 Name="mScale" StringValue="1"/>
+      <D2 Name="mWeight" StringValue="1"/>
+      <D2 Name="mDieSplashRadius" StringValue="100"/>
+      <D2 Name="mMonitorHalfSize" StringValue="10"/>
+      <A0 Name="mAnimNameWaitSpawn" StringValue="Wait00"/>
+      <D2 Name="mSearchBombSearchPosOffsetY" StringValue="0"/>
+      <D2 Name="mFootPaintCheckThreshold" StringValue="0.33"/>
+      <D1 Name="mShotInterval" StringValue="120"/>
+      <D1 Name="mKillIkuraNum_Block" StringValue="1"/>
+    </C1>
+  </C1>
+</Root>

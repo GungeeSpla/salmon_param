@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <C0 Name="mSwingJumpPlayerBulletCollisionSize0">
+        <D2 StringValue="31.8"/>
+        <D2 StringValue="31.8"/>
+        <D2 StringValue="10"/>
+      </C0>
+      <D2 Name="mSwingBigBurst_Radius_Far" StringValue="28"/>
+      <D1 Name="mWeaponAnim_Smash_StFrm_AtBangDownBig" StringValue="28"/>
+      <D2 Name="mThrowBurst_KnockBackRadius" StringValue="80"/>
+      <D0 Name="mSwingPlayerCollisionUseHoldCollision" StringValue="True"/>
+      <D1 Name="mRollingAttack_ReadyFrame" StringValue="6"/>
+      <D1 Name="mThrowPlayerCollisionCutWaitFrame" StringValue="10"/>
+      <D1 Name="mBangDownBig_PaintAndBlast_Frame" StringValue="28"/>
+      <D1 Name="mWeaponAnim_Return_StFrm_AtBangDownSmall" StringValue="1"/>
+      <D1 Name="mSwingDamage" StringValue="1000"/>
+      <D2 Name="mVelLimit_NoPaint" StringValue="1.44"/>
+      <C0 Name="mSwingJumpPlayerBulletCollisionSize1">
+        <D2 StringValue="18"/>
+        <D2 StringValue="18.3"/>
+        <D2 StringValue="16"/>
+      </C0>
+      <D1 Name="mSwingSmallBurst_Damage_Middle" StringValue="400"/>
+      <D1 Name="mSwingBigBurst_Damage_Middle" StringValue="400"/>
+      <C0 Name="mSwingFieldCollisionOffset">
+        <D2 StringValue="0"/>
+        <D2 StringValue="0"/>
+        <D2 StringValue="0"/>
+      </C0>
+      <D2 Name="mSwingSmallPaint_Radius" StringValue="13"/>
+      <D1 Name="mWeaponAnim_Return_PlFrm_AtGird" StringValue="30"/>
+      <D2 Name="mThrowBurst_KnockBackCoreImpact" StringValue="2"/>
+      <D2 Name="mThrow_CrossPaintRayLength" StringValue="25"/>
+      <D1 Name="mPaintGauge_SpecialFrm" StringValue="540"/>
+      <D1 Name="mRollingAttack_RollingFrame" StringValue="30"/>
+      <C0 Name="mSwingJumpPlayerBulletCollisionOffset1">
+        <D2 StringValue="0"/>
+        <D2 StringValue="-0.3"/>
+        <D2 StringValue="-4.5"/>
+      </C0>
+      <D1 Name="mRA2BDS_Frame" StringValue="6"/>
+      <D0 Name="mDebugViewBulletCollision" StringValue="False"/>
+      <D0 Name="mSwingUpDamageOn" StringValue="False"/>
+      <D1 Name="mBangDownSmall_BangDown_Frame" StringValue="5"/>
+      <D1 Name="mSwingBigBurst_Damage_Near" StringValue="400"/>
+      <D2 Name="mBangDownSmall_BulletShieldWidth" StringValue="31.8"/>
+      <D2 Name="mBangDownSmall_TurnLimitAngleDeg" StringValue="5.2"/>
+      <C0 Name="mHoldPlayerBulletCollisionOffset1">
+        <D2 StringValue="0"/>
+        <D2 StringValue="-0.3"/>
+        <D2 StringValue="-4.5"/>
+      </C0>
+      <D2 Name="mSwingBigPaint_Radius" StringValue="13"/>
+      <C0 Name="mHoldPlayerBulletCollisionSize0">
+        <D2 StringValue="31.8"/>
+        <D2 StringValue="31.8"/>
+        <D2 StringValue="10"/>
+      </C0>
+      <D2 Name="mThrowBurst_KnockBackKb" StringValue="0.8"/>
+      <D2 Name="mThrowBurst_Radius_Near" StringValue="40"/>
+      <D2 Name="mSwing_KnockBackKb" StringValue="0.8"/>
+      <D2 Name="mThrow_CrossPaintRayRadius" StringValue="1"/>
+      <D2 Name="mSwingJumpPanelNoPaintDiffHeight" StringValue="3"/>
+      <D2 Name="mThrowBurst_Radius_Middle" StringValue="80"/>
+      <C0 Name="mSwingPlayerBulletCollisionOffset1">
+        <D2 StringValue="0"/>
+        <D2 StringValue="-0.3"/>
+        <D2 StringValue="-4.5"/>
+      </C0>
+      <C0 Name="mSwingPlayerBulletCollisionOffset2SolidPosZ">
+        <D2 StringValue="0"/>
+        <D2 StringValue="0"/>
+        <D2 StringValue="8.5"/>
+      </C0>
+      <D1 Name="mSwingSmallBurst_Damage_Near" StringValue="400"/>
+      <D2 Name="mThrowPlayerCollisionSub2Radius" StringValue="8"/>
+      <D2 Name="mThrowPlayerCollisionCutAddLengthPerFrame" StringValue="1"/>
+      <C0 Name="mThrowFieldCollisionOffset">
+        <D2 StringValue="0"/>
+        <D2 StringValue="0"/>
+        <D2 StringValue="0"/>
+      </C0>
+      <D1 Name="mSwingBigBurst_Damage_Far" StringValue="400"/>
+      <D1 Name="mGird_Frame" StringValue="10"/>
+      <D2 Name="mThrowPlayerCollisionCenterRadius" StringValue="13"/>
+      <D2 Name="mSwingBigBurst_KnockBackKb" StringValue="0.8"/>
+      <D1 Name="mBangDownSmall_PaintAndBlast_Frame" StringValue="11"/>
+      <D2 Name="mSwingBigBurst_Radius_Near" StringValue="20"/>
+      <D1 Name="mThrowBurst_Damage_Near" StringValue="600"/>
+      <D1 Name="mWeaponAnim_Smash_PlFrm_AtBangDownSmall" StringValue="3"/>
+      <D1 Name="mHoldCollsionValid" StringValue="1"/>
+      <C0 Name="mSwingPlayerBulletCollisionOffset0">
+        <D2 StringValue="0"/>
+        <D2 StringValue="0"/>
+        <D2 StringValue="8.5"/>
+      </C0>
+      <D2 Name="mThrow_CrossPaintRadius" StringValue="25"/>
+      <D2 Name="mGird_VelGndSt" StringValue="0"/>
+      <C0 Name="mSwingStampPaintSize">
+        <D2 StringValue="50"/>
+        <D2 StringValue="50"/>
+      </C0>
+      <D2 Name="mThrowPlayerCollisionSub1OffsetYPlusMinus" StringValue="17"/>
+      <C0 Name="mHoldPlayerBulletCollisionOffset0">
+        <D2 StringValue="0"/>
+        <D2 StringValue="0"/>
+        <D2 StringValue="8.5"/>
+      </C0>
+      <D2 Name="mSwingJumpPaint_WallRadius" StringValue="13"/>
+      <D2 Name="mSwingSmallBurst_KnockBackKb" StringValue="0.8"/>
+      <D2 Name="mSwingSmallBurst_Radius_Near" StringValue="20"/>
+      <D1 Name="mSwingBigPaint_StartFrame" StringValue="0"/>
+      <C0 Name="mHoldPlayerBulletCollisionSize1">
+        <D2 StringValue="18"/>
+        <D2 StringValue="18.3"/>
+        <D2 StringValue="16"/>
+      </C0>
+      <D2 Name="mThrowPlayerCollisionSub2OffsetYPlusMinus" StringValue="27.5"/>
+      <D1 Name="mPaintGauge_SpecialFrmH" StringValue="660"/>
+      <D1 Name="mWeaponAnim_Smash_PlFrm_AtBangDownBig" StringValue="14"/>
+      <D1 Name="mThrowBurst_Damage_Far" StringValue="300"/>
+      <D2 Name="mSwingSmallBurst_KnockBackRadius" StringValue="60"/>
+      <D0 Name="mSwingJumpPlayerCollisionUseHoldCollision" StringValue="True"/>
+      <D2 Name="mSwingSmallBurst_KnockBackCoreImpact" StringValue="2"/>
+      <D1 Name="mThrowBurst_Damage_Middle" StringValue="300"/>
+      <D1 Name="mSwingJumpPaint_SpanFrame" StringValue="1"/>
+      <D2 Name="mBangDownSmall_Backswing_AnimStFrame_FromGird" StringValue="10"/>
+      <D1 Name="mBangDownSmall_BulletCollisionStFrame" StringValue="9"/>
+      <D2 Name="mGird_VelGndEn" StringValue="0.4"/>
+      <D2 Name="mThrowFieldCollisionRadius" StringValue="11"/>
+      <D1 Name="mBangDownBig_BulletCollisionEnFrame" StringValue="32"/>
+      <D2 Name="mSwingBigBurst_KnockBackRadius" StringValue="80"/>
+      <D1 Name="mWeaponAnim_Return_StFrm_AtGird" StringValue="4"/>
+      <D2 Name="mBangDownBig_Backswing_AnimFrame" StringValue="29"/>
+      <D1 Name="mBangDownBig_Backswing_Frame" StringValue="23"/>
+      <C0 Name="mSwingPlayerBulletCollisionSize2Min">
+        <D2 StringValue="31.8"/>
+        <D2 StringValue="31.8"/>
+        <D2 StringValue="10"/>
+      </C0>
+      <D2 Name="mThrow_KnockBackDegree" StringValue="45"/>
+      <D2 Name="mSwingPlayerBulletCollisionSize2MinAngleX" StringValue="70"/>
+      <C0 Name="mSwingPlayerBulletCollisionSize2Max">
+        <D2 StringValue="47.7"/>
+        <D2 StringValue="31.8"/>
+        <D2 StringValue="26"/>
+      </C0>
+      <D2 Name="mBangDownSmall_Backswing_AnimStFrame_FromRA2BDS" StringValue="30"/>
+      <D2 Name="mSwing_KnockBackRadius" StringValue="80"/>
+      <D1 Name="mSwingJumpPaint_StartFrame" StringValue="0"/>
+      <D2 Name="mRollingAttack_SafeAltitude" StringValue="10"/>
+      <D2 Name="mSwingSmallBurst_Radius_Far" StringValue="28"/>
+      <D2 Name="mSwing_KnockBackCoreImpact" StringValue="2"/>
+      <D1 Name="mEmptySign_RemainingFrame" StringValue="120"/>
+      <D1 Name="mBangDownBig_ShaftCollisionStFrame" StringValue="23"/>
+      <D2 Name="mGravity" StringValue="0.13"/>
+      <D2 Name="mAirResistY" StringValue="0.97"/>
+      <C0 Name="mSwingJumpPlayerBulletCollisionOffset0">
+        <D2 StringValue="0"/>
+        <D2 StringValue="0"/>
+        <D2 StringValue="8.5"/>
+      </C0>
+      <C0 Name="mThrowPlayerCollisionCenterOffset">
+        <D2 StringValue="0"/>
+        <D2 StringValue="0"/>
+        <D2 StringValue="0"/>
+      </C0>
+      <D1 Name="mWeaponAnim_Return_PlFrm_AtBangDownSmall" StringValue="10"/>
+      <D2 Name="mRotResist" StringValue="1"/>
+      <D1 Name="mGird_TurnLimitAngleDeg" StringValue="4"/>
+      <D1 Name="mRollingAttack_NoSquidFrame" StringValue="10"/>
+      <D1 Name="mPaintGauge_SpecialFrmM" StringValue="600"/>
+      <D2 Name="mBangDownBig_MoveImpact_Magnitude" StringValue="1.6"/>
+      <D2 Name="mTurnKf_ShotJump" StringValue="0.5"/>
+      <D2 Name="mVelLimit_OpInk" StringValue="0.24"/>
+      <D1 Name="mBangDownSmall_Backswing_Frame" StringValue="8"/>
+      <D2 Name="mThrowPlayerCollisionSub1Radius" StringValue="9"/>
+      <C0 Name="mSwingPlayerBulletCollisionSize1">
+        <D2 StringValue="18"/>
+        <D2 StringValue="18.3"/>
+        <D2 StringValue="16"/>
+      </C0>
+      <D1 Name="mBangDownBig_BangDown_Frame" StringValue="14"/>
+      <D2 Name="mBangDownSmall_BulletShieldThickNess" StringValue="0"/>
+      <D1 Name="mThrow_BackswingFrame" StringValue="40"/>
+      <D1 Name="mSwingBigPaint_SpanFrame" StringValue="1"/>
+      <D2 Name="mThrow_KnockBackCoreImpact" StringValue="2"/>
+      <D1 Name="mBangDownBig_MoveImpact_Frame" StringValue="20"/>
+      <D2 Name="mAirResistXZ" StringValue="0.97"/>
+      <D1 Name="mBangDownSmall_MoveImpact_Frame" StringValue="10"/>
+      <D2 Name="mRotI" StringValue="1"/>
+      <D2 Name="mSwingJumpPaint_GroundRadius" StringValue="16"/>
+      <D2 Name="mSwingPlayerBulletCollisionSize2MaxAngleX" StringValue="30"/>
+      <D2 Name="mBangDownSmall_Backswing_BlendFrame_FromGird" StringValue="10"/>
+      <D2 Name="mBangDownSmall_Backswing_AnimFrame" StringValue="31"/>
+      <D1 Name="mSwingSmallPaint_StartFrame" StringValue="0"/>
+      <D2 Name="mThrowBurst_Radius_Far" StringValue="80"/>
+      <D2 Name="mBangDownSmall_JumpGnd" StringValue="1"/>
+      <D2 Name="mSwingFieldCollisionRadius" StringValue="13.5"/>
+      <D2 Name="mGird_VelGndBias" StringValue="0.4"/>
+      <D2 Name="mBangDownSmall_MoveImpact_Magnitude" StringValue="2.2"/>
+      <D1 Name="mThrowDamage" StringValue="1200"/>
+      <D1 Name="mSwingSmallPaint_SpanFrame" StringValue="1"/>
+      <D2 Name="mThrow_KnockBackRadius" StringValue="80"/>
+      <D1 Name="mBangDownBig_BulletCollisionStFrame" StringValue="26"/>
+      <D1 Name="mFly_StraightFrame" StringValue="8"/>
+      <D1 Name="mGird_NoSquidFrame" StringValue="4"/>
+      <D2 Name="mSwingBigBurst_Radius_Middle" StringValue="20"/>
+      <D2 Name="mThrowBulletCollisionRadius" StringValue="13"/>
+      <D2 Name="mSwingSmallBurst_Radius_Middle" StringValue="20"/>
+      <D2 Name="mThrowStampPaintRadius" StringValue="50"/>
+      <C0 Name="mSwingPlayerBulletCollisionSize0">
+        <D2 StringValue="31.8"/>
+        <D2 StringValue="31.8"/>
+        <D2 StringValue="10"/>
+      </C0>
+      <D2 Name="mSwingBigBurst_KnockBackCoreImpact" StringValue="2"/>
+      <D1 Name="mBangDownSmall_BulletCollisionEnFrame" StringValue="13"/>
+      <D2 Name="mThrow_KnockBackKb" StringValue="0.8"/>
+      <D1 Name="mSwingSmallBurst_Damage_Far" StringValue="400"/>
+      <D1 Name="mWeaponAnim_Smash_StFrm_AtBangDownSmall" StringValue="10"/>
+    </C1>
+  </C1>
+</Root>

@@ -1,0 +1,29 @@
+{
+  "mSinkableParams": {
+    "mSpringK": 0.05,
+    "mSpringEnable": true,
+    "mSpringDamp": 0.95,
+    "mSinkAcc": 0.05,
+    "mOfstMax": 0,
+    "mSinkSpeed": 1
+  },
+  "mDamageEffectableParams": {
+    "mFactor": 0,
+    "mStartInterval": 5
+  },
+  "ff3e463b": {
+    "Weapon_Charge00": -1,
+    "Weapon_ChargeThrowWait": -1,
+    "Appear": -1,
+    "Walk00": -1,
+    "None": -1,
+    "a0bf7eeb": -1,
+    "Weapon_ChargeStart00": -1,
+    "Wait00": -1,
+    "Weapon_Landing00": -1,
+    "df824a3f": -1,
+    "Weapon_LandingWait00": -1,
+    "Weapon_ChargeThrow00": -1,
+    "mDefaultValue": 15
+  }
+}

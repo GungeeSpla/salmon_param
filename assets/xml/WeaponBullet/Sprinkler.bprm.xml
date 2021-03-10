@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D2 Name="mConveyerRadius" StringValue="5"/>
+      <D1 Name="mPeriod_FirstHigh" StringValue="600"/>
+      <D1 Name="mMaxHp" StringValue="1200"/>
+      <D2 Name="mSpout_SplashDrawR_Third" StringValue="4"/>
+      <D2 Name="mObjectDamageRateHigh" StringValue="10"/>
+      <D1 Name="mDestroyWaitFrame" StringValue="0"/>
+      <D1 Name="mPeriod_SecondToThird" StringValue="60"/>
+      <D2 Name="mPaintRadius" StringValue="25"/>
+      <D2 Name="mSpout_SplashPaintR_MinRate" StringValue="0.7"/>
+      <D1 Name="mSpout_SplashDamage" StringValue="200"/>
+      <D2 Name="mSpout_SplashCollisionR_First" StringValue="2"/>
+      <D2 Name="mSpout_SplashDrawR_Second" StringValue="4"/>
+      <D2 Name="mSpout_SplashDegBias" StringValue="0.333"/>
+      <D1 Name="mPeriod_FirstToSecond" StringValue="30"/>
+      <D2 Name="mSpout_RotateMaxSpeedDegree_Third" StringValue="1"/>
+      <D2 Name="mContactDashPanelAddSpeed_SettingOcta_" StringValue="10"/>
+      <D2 Name="mSpout_SplashVelL_First" StringValue="2.5"/>
+      <D2 Name="mShape_SphereR" StringValue="2"/>
+      <D1 Name="mPeriod_SecondHigh" StringValue="1020"/>
+      <D2 Name="mObjectDamageRateMid" StringValue="10"/>
+      <D2 Name="mDamageRateBias" StringValue="0.5"/>
+      <D2 Name="mFly_RotKd" StringValue="0.98015"/>
+      <D2 Name="mSpout_SplashPaintR_Second" StringValue="11.2"/>
+      <D2 Name="mFly_InitPit" StringValue="0.4"/>
+      <D2 Name="mDamageRateInitial" StringValue="1"/>
+      <D2 Name="mBringCloseRateMoveVec" StringValue="0.7"/>
+      <D2 Name="mSpout_SplashVelH_Second" StringValue="6.4"/>
+      <D1 Name="mSpout_Span_First" StringValue="4"/>
+      <D2 Name="mSpout_SplashVelL_Second" StringValue="2.2"/>
+      <D2 Name="mSpout_SplashPaintR_Third" StringValue="10"/>
+      <D2 Name="mSpout_RandomDeg" StringValue="2"/>
+      <D2 Name="mFly_InitRol" StringValue="0.12"/>
+      <D2 Name="mSpout_SplashVelH_Third" StringValue="5.6"/>
+      <D2 Name="mSpout_RotateMaxSpeedDegree_Second" StringValue="11"/>
+      <D2 Name="mFly_Gravity" StringValue="0.16"/>
+      <D0 Name="mSleepPlayerDeath" StringValue="True"/>
+      <D2 Name="mInkConsume" StringValue="0.6"/>
+      <D1 Name="mPeriod_FirstMid" StringValue="450"/>
+      <D2 Name="mSpout_SplashCollisionR_Second" StringValue="2"/>
+      <D2 Name="mSpout_SplashPitL" StringValue="35"/>
+      <D2 Name="mSpout_SplashDrawR_First" StringValue="4"/>
+      <D1 Name="mSpout_RotateMaxSpeedFrame" StringValue="10"/>
+      <D2 Name="mGndColOnMovingObj_OffsetY" StringValue="3"/>
+      <D2 Name="mShape_SphereD" StringValue="5"/>
+      <D2 Name="mSpout_SplashPaintR_MaxHeight" StringValue="80"/>
+      <D1 Name="mPeriod_SecondMid" StringValue="960"/>
+      <D2 Name="mSpout_SplashCollisionR_Third" StringValue="2"/>
+      <D1 Name="mDamageRateNormalFrame" StringValue="450"/>
+      <D2 Name="mContactDashPanelCrossSaveSpeedRate_SettingOcta_" StringValue="1"/>
+      <D1 Name="mPeriod_Second" StringValue="900"/>
+      <D2 Name="mGndColOnMovingObj_Radius" StringValue="3"/>
+      <D2 Name="mSpout_RotateMaxSpeedDegree_First" StringValue="33"/>
+      <D2 Name="mSpout_SplashVelL_Third" StringValue="1.8"/>
+      <D2 Name="mCol_Radius" StringValue="10"/>
+      <D1 Name="mPeriod_First" StringValue="300"/>
+      <D1 Name="mSpout_Span_Second" StringValue="6"/>
+      <D2 Name="mCol_OffsetY" StringValue="5"/>
+      <D2 Name="mBringCloseRateCrossVec" StringValue="0.7"/>
+      <D1 Name="mSpout_Span_Third" StringValue="10"/>
+      <D2 Name="mSpout_SplashPaintR_First" StringValue="12.5"/>
+      <D2 Name="mSpout_SplashPaintR_MinHeight" StringValue="200"/>
+      <D2 Name="mFly_RotI" StringValue="20"/>
+      <D2 Name="mFly_VelKd" StringValue="0.941337"/>
+      <D2 Name="mSpout_SplashPitH" StringValue="55"/>
+      <D1 Name="mSpout_WaitFrame" StringValue="30"/>
+      <D2 Name="mSpout_SplashVelH_First" StringValue="7"/>
+    </C1>
+  </C1>
+</Root>

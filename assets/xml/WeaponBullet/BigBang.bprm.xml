@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='SHIFT_JIS'?>
+<Root>
+  <isBigEndian Value="False"/>
+  <BymlFormatVersion Value="3"/>
+  <C1>
+    <C1 Name="param">
+      <D2 Name="mBurst_Offset" StringValue="10"/>
+      <D2 Name="mBurst_KnockBackCoreImpact" StringValue="3"/>
+      <D2 Name="mCrossPaintRadius" StringValue="50"/>
+      <D2 Name="mBurst_Radius_Middle" StringValue="140"/>
+      <D1 Name="mBurst_Damage_Far" StringValue="500"/>
+      <D1 Name="mBurst_Damage_Near" StringValue="20000"/>
+      <D2 Name="mBurst_Radius_Near" StringValue="140"/>
+      <D2 Name="mBurst_KnockBackKb" StringValue="0.8"/>
+      <D2 Name="mCrossPaintRayRadius" StringValue="1"/>
+      <D2 Name="mBurst_KnockBackRadius" StringValue="120"/>
+      <D1 Name="mBurst_Damage_Middle" StringValue="500"/>
+      <D2 Name="mBurst_Radius_Far" StringValue="140"/>
+      <D2 Name="mBurst_PaintR" StringValue="120"/>
+      <D2 Name="mCrossPaintRayLength" StringValue="50"/>
+    </C1>
+  </C1>
+</Root>

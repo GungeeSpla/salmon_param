@@ -1,0 +1,78 @@
+{
+  "mDegReturnAway": -25,
+  "mBurstDamageRadius": 40,
+  "mBurstPaintRadius": 60,
+  "mIsEnablePassClosePath": true,
+  "mActionSpeedMax": 3,
+  "mGndColOffsetY": 0,
+  "mDistanceForceDie": 500,
+  "mCheckKeepOutE": false,
+  "mIsDroppable": true,
+  "mmLifeCure": false,
+  "mSearchableParams": {
+    "None": "cPathDistance",
+    "mIsCheckCol": false
+  },
+  "mOffsetY_InWater": -10,
+  "mSpeedCoefSlow": 0.3,
+  "mPathPlannableParams": {
+    "mEnableCoopAreaKeepOut": false,
+    "mReachDistanceXZ": 20,
+    "mReachDistanceY": 20,
+    "mEnableReachTarget": true
+  },
+  "mLife": 1000,
+  "mDiePaintRadius": 80,
+  "mEnemyPhysicsParams": {
+    "mObjColCapsuleParams": {
+      "Unknown": {
+        "mArmorType": "cZakoEnemy",
+        "mHeight": 0,
+        "mUseOwnerMtx": false,
+        "mRadius": 12,
+        "mNodeName": "",
+        "mIsBombBreak": false,
+        "mOffset": [
+          0,
+          0,
+          0
+        ],
+        "mRotate": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "mGndColRadius": 10,
+    "mIsKeepoutEReject": false,
+    "mIsKeepoutE2Reject": false,
+    "mGndColOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  "mmLifeCurePerSecond": 100,
+  "mBurstDamage": 1000,
+  "mKnockbackRollerCore": 1,
+  "mFrameNoDamage": 60,
+  "mSpeedCoefReturn": 3,
+  "mScale": 1,
+  "mWeight": 1,
+  "mDieSplashRadius": 40,
+  "mAnimNameWaitSpawn": "Wait00",
+  "mSpeedCoefFast": 8,
+  "mSearchBombSearchPosOffsetY": 0,
+  "mFootPaintCheckThreshold": 0.33,
+  "mSuperMissileTargetPosOffset": [
+    0,
+    0,
+    0
+  ],
+  "mAirBallPosOffset": [
+    0,
+    0,
+    0
+  ]
+}
