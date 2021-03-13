@@ -457,6 +457,22 @@ var all_json_list = {
 window.addEventListener('DOMContentLoaded', function() {
 	var buttons = [];
 	var selects = [];
+	
+	var initial_dirname_index = 0;
+	var initial_filename_index = 0;
+	var hash = location.hash.replace('#', '');
+	if (hash) {
+		Object.keys(all_json_list).forEach(function(dirname, i) {
+			var arr = all_json_list[dirname];
+			arr.forEach(function(filename, j) {
+				if (filename === hash) {
+					initial_dirname_index = i;
+					initial_filename_index = j;
+				}
+			});
+		});
+	}
+	
 	Object.keys(all_json_list).forEach(function(dirname, i) {
 		var arr = all_json_list[dirname];
 		
@@ -485,6 +501,7 @@ window.addEventListener('DOMContentLoaded', function() {
 			select.addEventListener('change', function(e) {
 				var num = select.selectedIndex;
 				var text = select.options[num].textContent;
+				history.replaceState('', '', '#' + text);
 				var url = './assets/json/'+dirname+'/'+text+'.bprm.json';
 				get_json(url, function(json) {
 					makeTable(json);
@@ -505,9 +522,10 @@ window.addEventListener('DOMContentLoaded', function() {
 			});
 		}(dirname, select, button));
 		
-		if (i === 0) {
+		if (i === initial_dirname_index) {
 			button.classList.add('selected');
 			select.classList.add('show');
+			select.selectedIndex = initial_filename_index;
 		}
 	});
 	makeTableOfCurrentOption();
