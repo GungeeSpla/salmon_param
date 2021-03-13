@@ -537,6 +537,7 @@ function makeTableOfCurrentOption() {
 	var dirname = select.getAttribute('data-dirname');
 	var num = select.selectedIndex;
 	var filename = select.options[num].textContent;
+	history.replaceState('', '', '#' + filename);
 	var url = './assets/json/'+dirname+'/'+filename+'.bprm.json';
 	get_json(url, function(json) {
 		makeTable(json);
